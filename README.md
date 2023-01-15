@@ -2,8 +2,6 @@
 
 I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress developer. I am the creator of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woocommerce/).
 
-[![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg?style=for-the-badge&logo=paypal)](https://paypal.me/codebreaker) [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png)](https://www.buymeacoffee.com/sebastien)
-
 #### 👷 Check out what I'm currently working on
 
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 day ago)
