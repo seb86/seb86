@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [apollographql/apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL (today)
+- [littlebizzy/hovercraft](https://github.com/littlebizzy/hovercraft) - No maintenance WordPress theme (today)
 - [woocommerce/woocommerce-reset](https://github.com/woocommerce/woocommerce-reset) (today)
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows (1 day ago)
 - [thebatclaudio/wp-rest-api-v2-menus](https://github.com/thebatclaudio/wp-rest-api-v2-menus) - Adding menus endpoints on WP REST API v2 (1 day ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (2 days ago)
-- [ryanrudolfoba/SecureBootForSteamDeck](https://github.com/ryanrudolfoba/SecureBootForSteamDeck) - This repository contains the instructions on how to generate and install the Platform Key (PK), Key Exchange Key (KEK) and Signature Database (DB) to enable the Secure Boot functionality in Steam Deck. (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
