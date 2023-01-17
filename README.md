@@ -4,7 +4,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (today)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 day ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
 - [co-cart/cocart-plugin-suggestions](https://github.com/co-cart/cocart-plugin-suggestions) - Manages the plugin suggestions before uploaded to server.  (1 week ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (1 week ago)
@@ -23,7 +23,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 1 week ago) - Enables the rate limiting feature for CoCart.
+- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 2 weeks ago) - Enables the rate limiting feature for CoCart.
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.7.10](https://github.com/co-cart/co-cart/releases/tag/v3.7.10), 2 weeks ago) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies.
 - [seb86/attachment-slugs](https://github.com/seb86/attachment-slugs) ([v2.0.0](https://github.com/seb86/attachment-slugs/releases/tag/v2.0.0), 1 month ago) - Enables you to add permalink support for media attachments making the attachment URLs more friendly and great for SEO results.
 - [co-cart/cocart-example-package](https://github.com/co-cart/cocart-example-package) ([v1.0.4](https://github.com/co-cart/cocart-example-package/releases/tag/v1.0.4), 4 months ago) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin.
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [apollographql/apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL (today)
-- [littlebizzy/hovercraft](https://github.com/littlebizzy/hovercraft) - No maintenance WordPress theme (today)
-- [woocommerce/woocommerce-reset](https://github.com/woocommerce/woocommerce-reset) (today)
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows (1 day ago)
-- [thebatclaudio/wp-rest-api-v2-menus](https://github.com/thebatclaudio/wp-rest-api-v2-menus) - Adding menus endpoints on WP REST API v2 (1 day ago)
+- [apollographql/apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL (1 day ago)
+- [littlebizzy/hovercraft](https://github.com/littlebizzy/hovercraft) - No maintenance WordPress theme (1 day ago)
+- [woocommerce/woocommerce-reset](https://github.com/woocommerce/woocommerce-reset) (1 day ago)
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows (2 days ago)
+- [thebatclaudio/wp-rest-api-v2-menus](https://github.com/thebatclaudio/wp-rest-api-v2-menus) - Adding menus endpoints on WP REST API v2 (2 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
