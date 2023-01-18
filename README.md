@@ -4,7 +4,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (today)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 day ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
 - [co-cart/cocart-plugin-suggestions](https://github.com/co-cart/cocart-plugin-suggestions) - Manages the plugin suggestions before uploaded to server.  (1 week ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (1 week ago)
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [apollographql/apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL (1 day ago)
-- [littlebizzy/hovercraft](https://github.com/littlebizzy/hovercraft) - No maintenance WordPress theme (1 day ago)
-- [woocommerce/woocommerce-reset](https://github.com/woocommerce/woocommerce-reset) (1 day ago)
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows (2 days ago)
-- [thebatclaudio/wp-rest-api-v2-menus](https://github.com/thebatclaudio/wp-rest-api-v2-menus) - Adding menus endpoints on WP REST API v2 (2 days ago)
+- [apollographql/apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL (2 days ago)
+- [littlebizzy/hovercraft](https://github.com/littlebizzy/hovercraft) - No maintenance WordPress theme (2 days ago)
+- [woocommerce/woocommerce-reset](https://github.com/woocommerce/woocommerce-reset) (2 days ago)
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows (3 days ago)
+- [thebatclaudio/wp-rest-api-v2-menus](https://github.com/thebatclaudio/wp-rest-api-v2-menus) - Adding menus endpoints on WP REST API v2 (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
