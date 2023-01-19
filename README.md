@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (today)
+- [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket (today)
 - [apollographql/apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL (3 days ago)
 - [littlebizzy/hovercraft](https://github.com/littlebizzy/hovercraft) - No maintenance WordPress theme (3 days ago)
 - [woocommerce/woocommerce-reset](https://github.com/woocommerce/woocommerce-reset) (3 days ago)
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows (4 days ago)
-- [thebatclaudio/wp-rest-api-v2-menus](https://github.com/thebatclaudio/wp-rest-api-v2-menus) - Adding menus endpoints on WP REST API v2 (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
