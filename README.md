@@ -4,11 +4,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (today)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (today)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 day ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 day ago)
 - [co-cart/cocart-plugin-suggestions](https://github.com/co-cart/cocart-plugin-suggestions) - Manages the plugin suggestions before uploaded to server.  (1 week ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (1 week ago)
-- [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (1 week ago)
+- [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (2 weeks ago)
 - [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (2 weeks ago)
 - [seb86/attachment-slugs](https://github.com/seb86/attachment-slugs) - Enables you to add permalink support for media attachments making the attachment URLs more friendly and great for SEO results. (1 month ago)
 - [co-cart/cocart-cart-callback-example](https://github.com/co-cart/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (3 months ago)
@@ -24,7 +24,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 #### 🔭 Latest releases I've contributed to
 
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 2 weeks ago) - Enables the rate limiting feature for CoCart.
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.7.10](https://github.com/co-cart/co-cart/releases/tag/v3.7.10), 2 weeks ago) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.7.10](https://github.com/co-cart/co-cart/releases/tag/v3.7.10), 3 weeks ago) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies.
 - [seb86/attachment-slugs](https://github.com/seb86/attachment-slugs) ([v2.0.0](https://github.com/seb86/attachment-slugs/releases/tag/v2.0.0), 1 month ago) - Enables you to add permalink support for media attachments making the attachment URLs more friendly and great for SEO results.
 - [co-cart/cocart-example-package](https://github.com/co-cart/cocart-example-package) ([v1.0.4](https://github.com/co-cart/cocart-example-package/releases/tag/v1.0.4), 4 months ago) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin.
 - [co-cart/cocart-cors](https://github.com/co-cart/cocart-cors) ([v1.0.2](https://github.com/co-cart/cocart-cors/releases/tag/v1.0.2), 6 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (today)
-- [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket (today)
-- [apollographql/apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL (3 days ago)
-- [littlebizzy/hovercraft](https://github.com/littlebizzy/hovercraft) - No maintenance WordPress theme (3 days ago)
-- [woocommerce/woocommerce-reset](https://github.com/woocommerce/woocommerce-reset) (3 days ago)
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (1 day ago)
+- [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket (1 day ago)
+- [apollographql/apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL (4 days ago)
+- [littlebizzy/hovercraft](https://github.com/littlebizzy/hovercraft) - No maintenance WordPress theme (4 days ago)
+- [woocommerce/woocommerce-reset](https://github.com/woocommerce/woocommerce-reset) (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
