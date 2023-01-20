@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [gatsbyjs/gatsby-starter-shopify](https://github.com/gatsbyjs/gatsby-starter-shopify) - A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart (today)
+- [Epic-Design-Labs/gatsby-source-bigcommerce](https://github.com/Epic-Design-Labs/gatsby-source-bigcommerce) - This unofficial source plugin makes BigCommerce API data available in GatsbyJS sites. Currently in active development. (today)
+- [thirdandgrove/gatsby-source-bigcommerce](https://github.com/thirdandgrove/gatsby-source-bigcommerce) - Gatsby source plugin that makes Big Commerce api data available (today)
+- [getconversio/node-bigcommerce](https://github.com/getconversio/node-bigcommerce) - A node module for authentication and use with the BigCommerce API (today)
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (1 day ago)
-- [obsproject/obs-websocket](https://github.com/obsproject/obs-websocket) - Remote-control of OBS Studio through WebSocket (1 day ago)
-- [apollographql/apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL (4 days ago)
-- [littlebizzy/hovercraft](https://github.com/littlebizzy/hovercraft) - No maintenance WordPress theme (4 days ago)
-- [woocommerce/woocommerce-reset](https://github.com/woocommerce/woocommerce-reset) (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
