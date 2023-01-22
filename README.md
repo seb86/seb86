@@ -4,8 +4,8 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 day ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (2 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (2 days ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (3 days ago)
 - [co-cart/cocart-plugin-suggestions](https://github.com/co-cart/cocart-plugin-suggestions) - Manages the plugin suggestions before uploaded to server.  (1 week ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (1 week ago)
 - [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (2 weeks ago)
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [gatsbyjs/gatsby-starter-shopify](https://github.com/gatsbyjs/gatsby-starter-shopify) - A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart (1 day ago)
-- [Epic-Design-Labs/gatsby-source-bigcommerce](https://github.com/Epic-Design-Labs/gatsby-source-bigcommerce) - This unofficial source plugin makes BigCommerce API data available in GatsbyJS sites. Currently in active development. (1 day ago)
-- [thirdandgrove/gatsby-source-bigcommerce](https://github.com/thirdandgrove/gatsby-source-bigcommerce) - Gatsby source plugin that makes Big Commerce api data available (1 day ago)
-- [getconversio/node-bigcommerce](https://github.com/getconversio/node-bigcommerce) - A node module for authentication and use with the BigCommerce API (1 day ago)
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (2 days ago)
+- [DevPress/address-autocomplete-google-places](https://github.com/DevPress/address-autocomplete-google-places) - Address Autocomplete with Google Places (1 day ago)
+- [gatsbyjs/gatsby-starter-shopify](https://github.com/gatsbyjs/gatsby-starter-shopify) - A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart (2 days ago)
+- [Epic-Design-Labs/gatsby-source-bigcommerce](https://github.com/Epic-Design-Labs/gatsby-source-bigcommerce) - This unofficial source plugin makes BigCommerce API data available in GatsbyJS sites. Currently in active development. (2 days ago)
+- [thirdandgrove/gatsby-source-bigcommerce](https://github.com/thirdandgrove/gatsby-source-bigcommerce) - Gatsby source plugin that makes Big Commerce api data available (2 days ago)
+- [getconversio/node-bigcommerce](https://github.com/getconversio/node-bigcommerce) - A node module for authentication and use with the BigCommerce API (2 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
