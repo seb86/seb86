@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [joolfe/postman-to-openapi](https://github.com/joolfe/postman-to-openapi) - 🛸 Convert postman collection to OpenAPI (today)
+- [apideck-libraries/portman](https://github.com/apideck-libraries/portman) - Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀 (today)
 - [driesvints/laravel-lemon-squeezy](https://github.com/driesvints/laravel-lemon-squeezy) - A package to easily integrate your Laravel application with Lemon Squeezy&#39;s billing services. (1 day ago)
 - [DevPress/address-autocomplete-google-places](https://github.com/DevPress/address-autocomplete-google-places) - Address Autocomplete with Google Places (2 days ago)
 - [gatsbyjs/gatsby-starter-shopify](https://github.com/gatsbyjs/gatsby-starter-shopify) - A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart (3 days ago)
-- [Epic-Design-Labs/gatsby-source-bigcommerce](https://github.com/Epic-Design-Labs/gatsby-source-bigcommerce) - This unofficial source plugin makes BigCommerce API data available in GatsbyJS sites. Currently in active development. (3 days ago)
-- [thirdandgrove/gatsby-source-bigcommerce](https://github.com/thirdandgrove/gatsby-source-bigcommerce) - Gatsby source plugin that makes Big Commerce api data available (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
