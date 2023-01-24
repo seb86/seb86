@@ -5,7 +5,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 #### 👷 Check out what I'm currently working on
 
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (today)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (4 days ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (5 days ago)
 - [co-cart/cocart-plugin-suggestions](https://github.com/co-cart/cocart-plugin-suggestions) - Manages the plugin suggestions before uploaded to server.  (2 weeks ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (2 weeks ago)
 - [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (2 weeks ago)
@@ -23,7 +23,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 2 weeks ago) - Enables the rate limiting feature for CoCart.
+- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 3 weeks ago) - Enables the rate limiting feature for CoCart.
 - [seb86/attachment-slugs](https://github.com/seb86/attachment-slugs) ([v2.0.0](https://github.com/seb86/attachment-slugs/releases/tag/v2.0.0), 1 month ago) - Enables you to add permalink support for media attachments making the attachment URLs more friendly and great for SEO results.
 - [co-cart/cocart-example-package](https://github.com/co-cart/cocart-example-package) ([v1.0.4](https://github.com/co-cart/cocart-example-package/releases/tag/v1.0.4), 4 months ago) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin.
 - [co-cart/cocart-cors](https://github.com/co-cart/cocart-cors) ([v1.0.2](https://github.com/co-cart/cocart-cors/releases/tag/v1.0.2), 6 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [joolfe/postman-to-openapi](https://github.com/joolfe/postman-to-openapi) - 🛸 Convert postman collection to OpenAPI (today)
-- [apideck-libraries/portman](https://github.com/apideck-libraries/portman) - Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀 (today)
-- [driesvints/laravel-lemon-squeezy](https://github.com/driesvints/laravel-lemon-squeezy) - A package to easily integrate your Laravel application with Lemon Squeezy&#39;s billing services. (1 day ago)
-- [DevPress/address-autocomplete-google-places](https://github.com/DevPress/address-autocomplete-google-places) - Address Autocomplete with Google Places (2 days ago)
-- [gatsbyjs/gatsby-starter-shopify](https://github.com/gatsbyjs/gatsby-starter-shopify) - A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart (3 days ago)
+- [joolfe/postman-to-openapi](https://github.com/joolfe/postman-to-openapi) - 🛸 Convert postman collection to OpenAPI (1 day ago)
+- [apideck-libraries/portman](https://github.com/apideck-libraries/portman) - Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀 (1 day ago)
+- [driesvints/laravel-lemon-squeezy](https://github.com/driesvints/laravel-lemon-squeezy) - A package to easily integrate your Laravel application with Lemon Squeezy&#39;s billing services. (2 days ago)
+- [DevPress/address-autocomplete-google-places](https://github.com/DevPress/address-autocomplete-google-places) - Address Autocomplete with Google Places (3 days ago)
+- [gatsbyjs/gatsby-starter-shopify](https://github.com/gatsbyjs/gatsby-starter-shopify) - A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
