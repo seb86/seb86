@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (today)
 - [joolfe/postman-to-openapi](https://github.com/joolfe/postman-to-openapi) - 🛸 Convert postman collection to OpenAPI (1 day ago)
 - [apideck-libraries/portman](https://github.com/apideck-libraries/portman) - Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman 👨🏽‍🚀 (1 day ago)
 - [driesvints/laravel-lemon-squeezy](https://github.com/driesvints/laravel-lemon-squeezy) - A package to easily integrate your Laravel application with Lemon Squeezy&#39;s billing services. (2 days ago)
 - [DevPress/address-autocomplete-google-places](https://github.com/DevPress/address-autocomplete-google-places) - Address Autocomplete with Google Places (3 days ago)
-- [gatsbyjs/gatsby-starter-shopify](https://github.com/gatsbyjs/gatsby-starter-shopify) - A Gatsby starter using the latest Shopify plugin showcasing a store with product overview, individual product pages, and a cart (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
