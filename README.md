@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [njleonzhang/docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) (today)
+- [Plugin-contrib/docsify-plugin](https://github.com/Plugin-contrib/docsify-plugin) - This is a docsify plugin to render changelog from given path (today)
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11&#43;). (today)
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (today)
 - [uwburn/cardia](https://github.com/uwburn/cardia) - Heart rate monitoring client for gamers (1 day ago)
-- [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser (1 day ago)
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (1 day ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
