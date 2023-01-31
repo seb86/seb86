@@ -4,10 +4,10 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (2 days ago)
-- [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (5 days ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (6 days ago)
-- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (6 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (3 days ago)
+- [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (6 days ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
+- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 week ago)
 - [co-cart/cocart-plugin-suggestions](https://github.com/co-cart/cocart-plugin-suggestions) - Manages the plugin suggestions before uploaded to server.  (3 weeks ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (3 weeks ago)
 - [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (3 weeks ago)
@@ -23,8 +23,8 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) ([v2.2.0](https://github.com/co-cart/cocart-beta-tester/releases/tag/v2.2.0), 5 days ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
-- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 3 weeks ago) - Enables the rate limiting feature for CoCart.
+- [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) ([v2.2.0](https://github.com/co-cart/cocart-beta-tester/releases/tag/v2.2.0), 6 days ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
+- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 4 weeks ago) - Enables the rate limiting feature for CoCart.
 - [seb86/attachment-slugs](https://github.com/seb86/attachment-slugs) ([v2.0.0](https://github.com/seb86/attachment-slugs/releases/tag/v2.0.0), 1 month ago) - Enables you to add permalink support for media attachments making the attachment URLs more friendly and great for SEO results.
 - [co-cart/cocart-example-package](https://github.com/co-cart/cocart-example-package) ([v1.0.4](https://github.com/co-cart/cocart-example-package/releases/tag/v1.0.4), 4 months ago) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin.
 - [co-cart/cocart-cors](https://github.com/co-cart/cocart-cors) ([v1.0.2](https://github.com/co-cart/cocart-cors/releases/tag/v1.0.2), 6 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [uwburn/cardia](https://github.com/uwburn/cardia) - Heart rate monitoring client for gamers (today)
-- [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser (today)
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (today)
-- [TailAdmin/tailadmin-free-tailwind-dashboard-template](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template) - Free and Open-source Tailwind CSS Dashboard Admin Template that comes with all essential dashboard UI components, pages and elements (1 day ago)
-- [samuelthomas2774/oauth-client](https://github.com/samuelthomas2774/oauth-client) - A PHP OAuth 2.0 Client library with built-in support for Facebook, Google, Microsoft, Yahoo, GitHub, LinkedIn and more. (2 days ago)
+- [uwburn/cardia](https://github.com/uwburn/cardia) - Heart rate monitoring client for gamers (1 day ago)
+- [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser (1 day ago)
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (1 day ago)
+- [TailAdmin/tailadmin-free-tailwind-dashboard-template](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template) - Free and Open-source Tailwind CSS Dashboard Admin Template that comes with all essential dashboard UI components, pages and elements (2 days ago)
+- [samuelthomas2774/oauth-client](https://github.com/samuelthomas2774/oauth-client) - A PHP OAuth 2.0 Client library with built-in support for Facebook, Google, Microsoft, Yahoo, GitHub, LinkedIn and more. (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
