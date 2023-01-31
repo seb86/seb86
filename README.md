@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (today)
 - [uwburn/cardia](https://github.com/uwburn/cardia) - Heart rate monitoring client for gamers (1 day ago)
 - [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) - Iceraven Browser (1 day ago)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (1 day ago)
 - [TailAdmin/tailadmin-free-tailwind-dashboard-template](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template) - Free and Open-source Tailwind CSS Dashboard Admin Template that comes with all essential dashboard UI components, pages and elements (2 days ago)
-- [samuelthomas2774/oauth-client](https://github.com/samuelthomas2774/oauth-client) - A PHP OAuth 2.0 Client library with built-in support for Facebook, Google, Microsoft, Yahoo, GitHub, LinkedIn and more. (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
