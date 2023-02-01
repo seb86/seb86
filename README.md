@@ -4,14 +4,14 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (today)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (3 days ago)
-- [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (6 days ago)
+- [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (4 days ago)
+- [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (1 week ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 week ago)
 - [co-cart/cocart-plugin-suggestions](https://github.com/co-cart/cocart-plugin-suggestions) - Manages the plugin suggestions before uploaded to server.  (3 weeks ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (3 weeks ago)
-- [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (4 weeks ago)
+- [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -23,7 +23,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) ([v2.2.0](https://github.com/co-cart/cocart-beta-tester/releases/tag/v2.2.0), 6 days ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
+- [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) ([v2.2.0](https://github.com/co-cart/cocart-beta-tester/releases/tag/v2.2.0), 1 week ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 4 weeks ago) - Enables the rate limiting feature for CoCart.
 - [seb86/attachment-slugs](https://github.com/seb86/attachment-slugs) ([v2.0.0](https://github.com/seb86/attachment-slugs/releases/tag/v2.0.0), 1 month ago) - Enables you to add permalink support for media attachments making the attachment URLs more friendly and great for SEO results.
 - [co-cart/cocart-example-package](https://github.com/co-cart/cocart-example-package) ([v1.0.4](https://github.com/co-cart/cocart-example-package/releases/tag/v1.0.4), 4 months ago) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin.
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [njleonzhang/docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) (today)
-- [Plugin-contrib/docsify-plugin](https://github.com/Plugin-contrib/docsify-plugin) - This is a docsify plugin to render changelog from given path (today)
-- [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11&#43;). (today)
-- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (today)
-- [uwburn/cardia](https://github.com/uwburn/cardia) - Heart rate monitoring client for gamers (1 day ago)
+- [njleonzhang/docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) (1 day ago)
+- [Plugin-contrib/docsify-plugin](https://github.com/Plugin-contrib/docsify-plugin) - This is a docsify plugin to render changelog from given path (1 day ago)
+- [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11&#43;). (1 day ago)
+- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (1 day ago)
+- [uwburn/cardia](https://github.com/uwburn/cardia) - Heart rate monitoring client for gamers (2 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
