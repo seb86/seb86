@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [JEverhart383/astro-wordpress-starter](https://github.com/JEverhart383/astro-wordpress-starter) (today)
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (today)
 - [njleonzhang/docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) (1 day ago)
 - [Plugin-contrib/docsify-plugin](https://github.com/Plugin-contrib/docsify-plugin) - This is a docsify plugin to render changelog from given path (1 day ago)
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11&#43;). (1 day ago)
-- [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (1 day ago)
-- [uwburn/cardia](https://github.com/uwburn/cardia) - Heart rate monitoring client for gamers (2 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
