@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [stellarwp/db](https://github.com/stellarwp/db) - A WPDB wrapper and query builder library. (today)
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application&#39;s data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching. (3 days ago)
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) -  TablePlus macOS issue tracker (6 days ago)
 - [JEverhart383/astro-wordpress-starter](https://github.com/JEverhart383/astro-wordpress-starter) (6 days ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (6 days ago)
-- [njleonzhang/docsify-edit-on-github](https://github.com/njleonzhang/docsify-edit-on-github) (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
