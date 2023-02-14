@@ -4,11 +4,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (6 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 week ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 week ago)
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (1 week ago)
-- [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (1 week ago)
+- [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (2 weeks ago)
 - [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (2 weeks ago)
 - [co-cart/cocart-plugin-suggestions](https://github.com/co-cart/cocart-plugin-suggestions) - Manages the plugin suggestions before uploaded to server.  (1 month ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (1 month ago)
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [madeITBelgium/WordPress-PHP-SDK](https://github.com/madeITBelgium/WordPress-PHP-SDK) (3 days ago)
-- [WordPress/Requests](https://github.com/WordPress/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries. (3 days ago)
-- [devMEremenko/XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) - XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro (3 days ago)
-- [vsavkin/large-monorepo](https://github.com/vsavkin/large-monorepo) - Benchmarking Nx and Turborepo (3 days ago)
-- [aaemnnosttv/wp-sqlite-db](https://github.com/aaemnnosttv/wp-sqlite-db) - A single file drop-in for using a SQLite database with WordPress. Based on the original SQLite Integration plugin. (4 days ago)
+- [madeITBelgium/WordPress-PHP-SDK](https://github.com/madeITBelgium/WordPress-PHP-SDK) (4 days ago)
+- [WordPress/Requests](https://github.com/WordPress/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries. (4 days ago)
+- [devMEremenko/XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) - XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro (4 days ago)
+- [vsavkin/large-monorepo](https://github.com/vsavkin/large-monorepo) - Benchmarking Nx and Turborepo (4 days ago)
+- [aaemnnosttv/wp-sqlite-db](https://github.com/aaemnnosttv/wp-sqlite-db) - A single file drop-in for using a SQLite database with WordPress. Based on the original SQLite Integration plugin. (5 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
