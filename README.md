@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [the-via/keyboards](https://github.com/the-via/keyboards) (today)
+- [the-via/releases](https://github.com/the-via/releases) (today)
 - [egoist/tailwindcss-icons](https://github.com/egoist/tailwindcss-icons) - Use any icon (100,000&#43;) from Iconify, for TailwindCSS (1 day ago)
 - [moishinetzer/PBandJ](https://github.com/moishinetzer/PBandJ) - Zero-Config Reusable Component Framework for React 🥜💜 (1 day ago)
 - [madeITBelgium/WordPress-PHP-SDK](https://github.com/madeITBelgium/WordPress-PHP-SDK) (1 week ago)
-- [WordPress/Requests](https://github.com/WordPress/Requests) - Requests for PHP is a humble HTTP request library. It simplifies how you interact with other sites and takes away all your worries. (1 week ago)
-- [devMEremenko/XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) - XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
