@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with automatic patching fixing detection of Linux/Wine and telemetry disabling  Our discord server: https://discord.gg/ck37X6UWBp (today)
 - [the-via/keyboards](https://github.com/the-via/keyboards) (1 day ago)
 - [the-via/releases](https://github.com/the-via/releases) (1 day ago)
 - [egoist/tailwindcss-icons](https://github.com/egoist/tailwindcss-icons) - Use any icon (100,000&#43;) from Iconify, for TailwindCSS (2 days ago)
 - [moishinetzer/PBandJ](https://github.com/moishinetzer/PBandJ) - Zero-Config Reusable Component Framework for React 🥜💜 (2 days ago)
-- [madeITBelgium/WordPress-PHP-SDK](https://github.com/madeITBelgium/WordPress-PHP-SDK) (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
