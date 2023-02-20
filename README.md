@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [Shopify/storefront-api-learning-kit](https://github.com/Shopify/storefront-api-learning-kit) (today)
 - [monkeytypegame/monkeytype-bot](https://github.com/monkeytypegame/monkeytype-bot) - Discord bot for Monkeytype (2 days ago)
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (2 days ago)
 - [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with automatic patching fixing detection of Linux/Wine and telemetry disabling  Our discord server: https://discord.gg/ck37X6UWBp (2 days ago)
 - [the-via/keyboards](https://github.com/the-via/keyboards) (3 days ago)
-- [the-via/releases](https://github.com/the-via/releases) (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
