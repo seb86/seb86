@@ -4,14 +4,14 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (5 days ago)
-- [co-cart/cocart-pro-reports](https://github.com/co-cart/cocart-pro-reports) - This repository is for reporting bugs in CoCart Pro. It is not for asking support. (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (6 days ago)
+- [co-cart/cocart-pro-reports](https://github.com/co-cart/cocart-pro-reports) - This repository is for reporting bugs in CoCart Pro. It is not for asking support. (6 days ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (2 weeks ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (2 weeks ago)
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (2 weeks ago)
-- [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (2 weeks ago)
+- [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (3 weeks ago)
 - [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (3 weeks ago)
-- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (1 month ago)
+- [co-cart/cocart-plugin-suggestions](https://github.com/co-cart/cocart-plugin-suggestions) - Manages the plugin suggestions before uploaded to server.  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions (today)
-- [Shopify/storefront-api-learning-kit](https://github.com/Shopify/storefront-api-learning-kit) (today)
-- [monkeytypegame/monkeytype-bot](https://github.com/monkeytypegame/monkeytype-bot) - Discord bot for Monkeytype (2 days ago)
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (2 days ago)
-- [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with automatic patching fixing detection of Linux/Wine and telemetry disabling  Our discord server: https://discord.gg/ck37X6UWBp (2 days ago)
+- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions (1 day ago)
+- [Shopify/storefront-api-learning-kit](https://github.com/Shopify/storefront-api-learning-kit) (1 day ago)
+- [monkeytypegame/monkeytype-bot](https://github.com/monkeytypegame/monkeytype-bot) - Discord bot for Monkeytype (3 days ago)
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (3 days ago)
+- [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with automatic patching fixing detection of Linux/Wine and telemetry disabling  Our discord server: https://discord.gg/ck37X6UWBp (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
