@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [ahmadnassri/awesome-startup-resources](https://github.com/ahmadnassri/awesome-startup-resources) - A curated list of useful resources for building a new startup business (today)
 - [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. (today)
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One (1 day ago)
 - [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions (2 days ago)
 - [Shopify/storefront-api-learning-kit](https://github.com/Shopify/storefront-api-learning-kit) (2 days ago)
-- [monkeytypegame/monkeytype-bot](https://github.com/monkeytypegame/monkeytype-bot) - Discord bot for Monkeytype (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
