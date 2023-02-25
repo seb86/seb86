@@ -6,9 +6,9 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 week ago)
 - [co-cart/cocart-pro-reports](https://github.com/co-cart/cocart-pro-reports) - This repository is for reporting bugs in CoCart Pro. It is not for asking support. (1 week ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (2 weeks ago)
-- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (2 weeks ago)
-- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (2 weeks ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (3 weeks ago)
+- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (3 weeks ago)
+- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (3 weeks ago)
 - [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (3 weeks ago)
 - [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (1 month ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (1 month ago)
@@ -23,7 +23,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 2 weeks ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
+- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 3 weeks ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
 - [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) ([v2.2.0](https://github.com/co-cart/cocart-beta-tester/releases/tag/v2.2.0), 1 month ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 1 month ago) - Enables the rate limiting feature for CoCart.
 - [seb86/attachment-slugs](https://github.com/seb86/attachment-slugs) ([v2.0.0](https://github.com/seb86/attachment-slugs/releases/tag/v2.0.0), 2 months ago) - Enables you to add permalink support for media attachments making the attachment URLs more friendly and great for SEO results.
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [ahmadnassri/awesome-startup-resources](https://github.com/ahmadnassri/awesome-startup-resources) - A curated list of useful resources for building a new startup business (2 days ago)
-- [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. (2 days ago)
-- [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One (3 days ago)
-- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions (4 days ago)
-- [Shopify/storefront-api-learning-kit](https://github.com/Shopify/storefront-api-learning-kit) (4 days ago)
+- [ahmadnassri/awesome-startup-resources](https://github.com/ahmadnassri/awesome-startup-resources) - A curated list of useful resources for building a new startup business (3 days ago)
+- [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. (3 days ago)
+- [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One (4 days ago)
+- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions (5 days ago)
+- [Shopify/storefront-api-learning-kit](https://github.com/Shopify/storefront-api-learning-kit) (5 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
