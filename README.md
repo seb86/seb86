@@ -4,8 +4,8 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (today)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (today)
+- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 day ago)
 - [co-cart/cocart-pro-reports](https://github.com/co-cart/cocart-pro-reports) - This repository is for reporting bugs in CoCart Pro. It is not for asking support. (1 week ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (3 weeks ago)
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (3 weeks ago)
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [ahmadnassri/awesome-startup-resources](https://github.com/ahmadnassri/awesome-startup-resources) - A curated list of useful resources for building a new startup business (3 days ago)
-- [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. (3 days ago)
-- [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One (4 days ago)
-- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions (5 days ago)
-- [Shopify/storefront-api-learning-kit](https://github.com/Shopify/storefront-api-learning-kit) (5 days ago)
+- [ahmadnassri/awesome-startup-resources](https://github.com/ahmadnassri/awesome-startup-resources) - A curated list of useful resources for building a new startup business (4 days ago)
+- [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. (4 days ago)
+- [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One (5 days ago)
+- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions (6 days ago)
+- [Shopify/storefront-api-learning-kit](https://github.com/Shopify/storefront-api-learning-kit) (6 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
