@@ -25,9 +25,9 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 3 weeks ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
 - [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) ([v2.2.0](https://github.com/co-cart/cocart-beta-tester/releases/tag/v2.2.0), 1 month ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
-- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 1 month ago) - Enables the rate limiting feature for CoCart.
 - [seb86/attachment-slugs](https://github.com/seb86/attachment-slugs) ([v2.0.0](https://github.com/seb86/attachment-slugs/releases/tag/v2.0.0), 2 months ago) - Enables you to add permalink support for media attachments making the attachment URLs more friendly and great for SEO results.
 - [co-cart/cocart-example-package](https://github.com/co-cart/cocart-example-package) ([v1.0.4](https://github.com/co-cart/cocart-example-package/releases/tag/v1.0.4), 5 months ago) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin.
+- [co-cart/cocart-cors](https://github.com/co-cart/cocart-cors) ([v1.0.2](https://github.com/co-cart/cocart-cors/releases/tag/v1.0.2), 7 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 
 #### 🔨 Latest Pull Requests I published
 
