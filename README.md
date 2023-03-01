@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [toolstack/gp-auto-extract](https://github.com/toolstack/gp-auto-extract) - A plugin for GlotPress that automatically extracts strings from remote source repo. (today)
+- [webaware/glotpress-notify](https://github.com/webaware/glotpress-notify) - notify WordPress users when new GlotPress translations strings are awaiting review (today)
 - [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE (1 day ago)
 - [ahmadnassri/awesome-startup-resources](https://github.com/ahmadnassri/awesome-startup-resources) - A curated list of useful resources for building a new startup business (1 week ago)
 - [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. (1 week ago)
-- [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One (1 week ago)
-- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
