@@ -4,14 +4,14 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 day ago)
-- [co-cart/cocart-example-package](https://github.com/co-cart/cocart-example-package) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin. (2 days ago)
-- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (4 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (2 days ago)
+- [co-cart/cocart-example-package](https://github.com/co-cart/cocart-example-package) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin. (3 days ago)
+- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (5 days ago)
 - [co-cart/cocart-pro-reports](https://github.com/co-cart/cocart-pro-reports) - This repository is for reporting bugs in CoCart Pro. It is not for asking support. (2 weeks ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (3 weeks ago)
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (3 weeks ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (3 weeks ago)
-- [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (4 weeks ago)
+- [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -39,9 +39,9 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [toolstack/gp-auto-extract](https://github.com/toolstack/gp-auto-extract) - A plugin for GlotPress that automatically extracts strings from remote source repo. (today)
-- [webaware/glotpress-notify](https://github.com/webaware/glotpress-notify) - notify WordPress users when new GlotPress translations strings are awaiting review (today)
-- [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE (1 day ago)
+- [toolstack/gp-auto-extract](https://github.com/toolstack/gp-auto-extract) - A plugin for GlotPress that automatically extracts strings from remote source repo. (1 day ago)
+- [webaware/glotpress-notify](https://github.com/webaware/glotpress-notify) - notify WordPress users when new GlotPress translations strings are awaiting review (1 day ago)
+- [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE (2 days ago)
 - [ahmadnassri/awesome-startup-resources](https://github.com/ahmadnassri/awesome-startup-resources) - A curated list of useful resources for building a new startup business (1 week ago)
 - [NightmareAI/Real-ESRGAN](https://github.com/NightmareAI/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. (1 week ago)
 
