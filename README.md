@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (today)
 - [nielslange/woo-test-environment](https://github.com/nielslange/woo-test-environment) - Spin up a WooCommerce Blocks testing environment in seconds. (today)
 - [co-cart/cocart-sync-carts](https://github.com/co-cart/cocart-sync-carts) - Used to keep track of cart changes made to a previously loaded cart when passing a guest cart to a logged in customer. (1 day ago)
 - [toolstack/gp-auto-extract](https://github.com/toolstack/gp-auto-extract) - A plugin for GlotPress that automatically extracts strings from remote source repo. (2 days ago)
 - [webaware/glotpress-notify](https://github.com/webaware/glotpress-notify) - notify WordPress users when new GlotPress translations strings are awaiting review (2 days ago)
-- [zvizvi/GitHub-Web-IDE](https://github.com/zvizvi/GitHub-Web-IDE) - ⚡ Open GitHub repositories in online web IDE (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
