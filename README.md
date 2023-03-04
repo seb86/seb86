@@ -23,8 +23,8 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔭 Latest releases I've contributed to
 
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.8.1](https://github.com/co-cart/co-cart/releases/tag/v3.8.1), today) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies.
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), today) - Enables the rate limiting feature for CoCart.
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.8.0](https://github.com/co-cart/co-cart/releases/tag/v3.8.0), 2 days ago) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies.
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 4 weeks ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
 - [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) ([v2.2.0](https://github.com/co-cart/cocart-beta-tester/releases/tag/v2.2.0), 1 month ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [seb86/attachment-slugs](https://github.com/seb86/attachment-slugs) ([v2.0.0](https://github.com/seb86/attachment-slugs/releases/tag/v2.0.0), 2 months ago) - Enables you to add permalink support for media attachments making the attachment URLs more friendly and great for SEO results.
