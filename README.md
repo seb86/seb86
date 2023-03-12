@@ -4,9 +4,9 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (today)
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (4 days ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (5 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (5 days ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (1 week ago)
 - [co-cart/cocart-sync-carts](https://github.com/co-cart/cocart-sync-carts) - Used to keep track of cart changes made to a previously loaded cart when passing a guest cart to a logged in customer. (1 week ago)
 - [co-cart/cocart-example-package](https://github.com/co-cart/cocart-example-package) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin. (1 week ago)
