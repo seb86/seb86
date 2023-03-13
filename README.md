@@ -4,12 +4,12 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (today)
-- [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (4 days ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 day ago)
+- [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (5 days ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (6 days ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (1 week ago)
 - [co-cart/cocart-sync-carts](https://github.com/co-cart/cocart-sync-carts) - Used to keep track of cart changes made to a previously loaded cart when passing a guest cart to a logged in customer. (1 week ago)
-- [co-cart/cocart-example-package](https://github.com/co-cart/cocart-example-package) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin. (1 week ago)
+- [co-cart/cocart-example-package](https://github.com/co-cart/cocart-example-package) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin. (2 weeks ago)
 - [co-cart/cocart-pro-reports](https://github.com/co-cart/cocart-pro-reports) - This repository is for reporting bugs in CoCart Pro. It is not for asking support. (3 weeks ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 month ago)
 
@@ -23,11 +23,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.0](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.0), 3 days ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
+- [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.0](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.0), 4 days ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 1 week ago) - Enables the rate limiting feature for CoCart.
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 1 month ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
 - [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) ([v2.2.0](https://github.com/co-cart/cocart-beta-tester/releases/tag/v2.2.0), 1 month ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
-- [seb86/attachment-slugs](https://github.com/seb86/attachment-slugs) ([v2.0.0](https://github.com/seb86/attachment-slugs/releases/tag/v2.0.0), 2 months ago) - Enables you to add permalink support for media attachments making the attachment URLs more friendly and great for SEO results.
+- [seb86/attachment-slugs](https://github.com/seb86/attachment-slugs) ([v2.0.0](https://github.com/seb86/attachment-slugs/releases/tag/v2.0.0), 3 months ago) - Enables you to add permalink support for media attachments making the attachment URLs more friendly and great for SEO results.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -39,8 +39,8 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (4 days ago)
-- [wp-hooks/generator](https://github.com/wp-hooks/generator) - Generates a JSON representation of the WordPress actions and filters in your code (4 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (5 days ago)
+- [wp-hooks/generator](https://github.com/wp-hooks/generator) - Generates a JSON representation of the WordPress actions and filters in your code (5 days ago)
 - [donavon/use-persisted-state](https://github.com/donavon/use-persisted-state) - A custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state. (1 week ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (1 week ago)
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 week ago)
