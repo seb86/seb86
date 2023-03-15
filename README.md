@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (today)
+- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (today)
 - [Automattic/HyperDB](https://github.com/Automattic/HyperDB) - HyperDB is an advanced database class that supports replication, failover, load balancing, and partitioning. (1 day ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 week ago)
 - [wp-hooks/generator](https://github.com/wp-hooks/generator) - Generates a JSON representation of the WordPress actions and filters in your code (1 week ago)
-- [donavon/use-persisted-state](https://github.com/donavon/use-persisted-state) - A custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state. (1 week ago)
-- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
