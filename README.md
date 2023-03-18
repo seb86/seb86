@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [10up/plugin-check](https://github.com/10up/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (today)
 - [rxnlabs/wp-composer](https://github.com/rxnlabs/wp-composer) - Manage your WordPress site dependencies using the power of Composer, WP CLI, and wpackagist.org (2 days ago)
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (3 days ago)
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (3 days ago)
 - [Automattic/HyperDB](https://github.com/Automattic/HyperDB) - HyperDB is an advanced database class that supports replication, failover, load balancing, and partitioning. (4 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
