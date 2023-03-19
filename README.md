@@ -4,7 +4,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (6 days ago)
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 week ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (2 weeks ago)
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports (today)
-- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API (today)
-- [10up/plugin-check](https://github.com/10up/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (today)
-- [rxnlabs/wp-composer](https://github.com/rxnlabs/wp-composer) - Manage your WordPress site dependencies using the power of Composer, WP CLI, and wpackagist.org (2 days ago)
-- [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (3 days ago)
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports (1 day ago)
+- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API (1 day ago)
+- [10up/plugin-check](https://github.com/10up/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (1 day ago)
+- [rxnlabs/wp-composer](https://github.com/rxnlabs/wp-composer) - Manage your WordPress site dependencies using the power of Composer, WP CLI, and wpackagist.org (3 days ago)
+- [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
