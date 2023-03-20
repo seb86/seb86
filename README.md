@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (today)
 - [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports (2 days ago)
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API (2 days ago)
 - [10up/plugin-check](https://github.com/10up/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (2 days ago)
 - [rxnlabs/wp-composer](https://github.com/rxnlabs/wp-composer) - Manage your WordPress site dependencies using the power of Composer, WP CLI, and wpackagist.org (4 days ago)
-- [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (5 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
