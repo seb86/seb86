@@ -6,7 +6,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 week ago)
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 week ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (2 weeks ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (2 weeks ago)
 - [co-cart/cocart-sync-carts](https://github.com/co-cart/cocart-sync-carts) - Used to keep track of cart changes made to a previously loaded cart when passing a guest cart to a logged in customer. (2 weeks ago)
 - [co-cart/cocart-example-package](https://github.com/co-cart/cocart-example-package) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin. (3 weeks ago)
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (today)
-- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports (2 days ago)
-- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API (2 days ago)
-- [10up/plugin-check](https://github.com/10up/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (2 days ago)
-- [rxnlabs/wp-composer](https://github.com/rxnlabs/wp-composer) - Manage your WordPress site dependencies using the power of Composer, WP CLI, and wpackagist.org (4 days ago)
+- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (1 day ago)
+- [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics) - Generate interactive, beautiful and insightful chat analysis reports (3 days ago)
+- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API (3 days ago)
+- [10up/plugin-check](https://github.com/10up/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (3 days ago)
+- [rxnlabs/wp-composer](https://github.com/rxnlabs/wp-composer) - Manage your WordPress site dependencies using the power of Composer, WP CLI, and wpackagist.org (5 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
