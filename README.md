@@ -4,7 +4,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 week ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (today)
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (2 weeks ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (2 weeks ago)
