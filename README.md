@@ -4,7 +4,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (2 days ago)
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (2 weeks ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (2 weeks ago)
@@ -31,7 +31,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update fork](https://github.com/seb86/coblocks-theme/pull/2) on [seb86/coblocks-theme](https://github.com/seb86/coblocks-theme) (11 months ago)
+- [Update fork](https://github.com/seb86/coblocks-theme/pull/2) on [seb86/coblocks-theme](https://github.com/seb86/coblocks-theme) (1 year ago)
 - [Revert &#34;API v3 experiment&#34;](https://github.com/co-cart/co-cart/pull/316) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 year ago)
 - [API v3 experiment](https://github.com/co-cart/co-cart/pull/315) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 year ago)
 - [Update from master branch](https://github.com/co-cart/co-cart/pull/314) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 year ago)
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [ndiego/block-visibility](https://github.com/ndiego/block-visibility) - Conditional visibility controls for all WordPress blocks. (today)
-- [awesomemotive/wp-mail-logging](https://github.com/awesomemotive/wp-mail-logging) - :envelope: Logs each email sent by WordPress. (today)
-- [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js (1 day ago)
-- [carlalexander/passwords-evolved](https://github.com/carlalexander/passwords-evolved) - WordPress password authentication for the modern era (2 days ago)
-- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (3 days ago)
+- [ndiego/block-visibility](https://github.com/ndiego/block-visibility) - Conditional visibility controls for all WordPress blocks. (1 day ago)
+- [awesomemotive/wp-mail-logging](https://github.com/awesomemotive/wp-mail-logging) - :envelope: Logs each email sent by WordPress. (1 day ago)
+- [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js (2 days ago)
+- [carlalexander/passwords-evolved](https://github.com/carlalexander/passwords-evolved) - WordPress password authentication for the modern era (3 days ago)
+- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
