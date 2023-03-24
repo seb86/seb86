@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [michelve/software-license-manager](https://github.com/michelve/software-license-manager) - 🔐Wordpress Software License Management. Supports WooCommerce, and WP eStore. (today)
 - [ndiego/block-visibility](https://github.com/ndiego/block-visibility) - Conditional visibility controls for all WordPress blocks. (1 day ago)
 - [awesomemotive/wp-mail-logging](https://github.com/awesomemotive/wp-mail-logging) - :envelope: Logs each email sent by WordPress. (1 day ago)
 - [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js (2 days ago)
 - [carlalexander/passwords-evolved](https://github.com/carlalexander/passwords-evolved) - WordPress password authentication for the modern era (3 days ago)
-- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
