@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script. (today)
+- [eduardoboucas/include-media](https://github.com/eduardoboucas/include-media) - 📐 Simple, elegant and maintainable media queries in Sass (today)
 - [AxeWP/wp-graphql-headless-login](https://github.com/AxeWP/wp-graphql-headless-login) - A WordPress plugin that provides Headless login and authentication for WPGraphQL, supporting traditional passwords, OAuth2/OpenID Connect, JWT, and more. (1 day ago)
 - [michelve/software-license-manager](https://github.com/michelve/software-license-manager) - 🔐Wordpress Software License Management. Supports WooCommerce, and WP eStore. (1 day ago)
 - [ndiego/block-visibility](https://github.com/ndiego/block-visibility) - Conditional visibility controls for all WordPress blocks. (2 days ago)
-- [awesomemotive/wp-mail-logging](https://github.com/awesomemotive/wp-mail-logging) - :envelope: Logs each email sent by WordPress. (2 days ago)
-- [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
