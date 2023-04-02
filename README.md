@@ -23,7 +23,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) ([v3.3.0](https://github.com/co-cart/cocart-get-cart-enhanced/releases/tag/v3.3.0), today) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
+- [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) ([v3.3.0](https://github.com/co-cart/cocart-get-cart-enhanced/releases/tag/v3.3.0), 1 day ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.0](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.0), 3 weeks ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 4 weeks ago) - Enables the rate limiting feature for CoCart.
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 1 month ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [OllieWP/ollie](https://github.com/OllieWP/ollie) - A finely-crafted WordPress block theme by Mike McAlister (2 days ago)
-- [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure &amp; OneDrive and OpenStack Swift file transfer client for Mac and Windows. (4 days ago)
-- [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice (4 days ago)
-- [ndiego/icon-block](https://github.com/ndiego/icon-block) - Effortlessly add SVG icons and graphics to the WordPress block editor. (4 days ago)
-- [youknowriad/asblocks](https://github.com/youknowriad/asblocks) - Share content as blocks (4 days ago)
+- [OllieWP/ollie](https://github.com/OllieWP/ollie) - A finely-crafted WordPress block theme by Mike McAlister (3 days ago)
+- [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure &amp; OneDrive and OpenStack Swift file transfer client for Mac and Windows. (5 days ago)
+- [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice (5 days ago)
+- [ndiego/icon-block](https://github.com/ndiego/icon-block) - Effortlessly add SVG icons and graphics to the WordPress block editor. (5 days ago)
+- [youknowriad/asblocks](https://github.com/youknowriad/asblocks) - Share content as blocks (5 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
