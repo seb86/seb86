@@ -11,7 +11,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 - [co-cart/cocart-sync-carts](https://github.com/co-cart/cocart-sync-carts) - Used to keep track of cart changes made to a previously loaded cart when passing a guest cart to a logged in customer. (1 month ago)
 - [co-cart/cocart-example-package](https://github.com/co-cart/cocart-example-package) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin. (1 month ago)
 - [co-cart/cocart-pro-reports](https://github.com/co-cart/cocart-pro-reports) - This repository is for reporting bugs in CoCart Pro. It is not for asking support. (1 month ago)
-- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 month ago)
+- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (1 month ago)
 
 #### 🌱 My latest projects
 
