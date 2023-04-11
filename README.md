@@ -39,9 +39,9 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [resendlabs/resend-php](https://github.com/resendlabs/resend-php) - :envelope: Resend&#39;s PHP SDK (4 days ago)
-- [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React (4 days ago)
-- [elastic/elasticsearch-php](https://github.com/elastic/elasticsearch-php) - Official PHP client for Elasticsearch. (4 days ago)
+- [resendlabs/resend-php](https://github.com/resendlabs/resend-php) - :envelope: Resend&#39;s PHP SDK (5 days ago)
+- [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React (5 days ago)
+- [elastic/elasticsearch-php](https://github.com/elastic/elasticsearch-php) - Official PHP client for Elasticsearch. (5 days ago)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue (1 week ago)
 - [OllieWP/ollie](https://github.com/OllieWP/ollie) - A finely-crafted WordPress block theme by Mike McAlister (1 week ago)
 
