@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [lee-dohm/no-response](https://github.com/lee-dohm/no-response) - A GitHub Action that closes Issues where the author hasn&#39;t responded to a request for more information (today)
+- [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies in your PRs (today)
 - [php-stubs/woocommerce-stubs](https://github.com/php-stubs/woocommerce-stubs) - WooCommerce function and class declaration stubs for static analysis (today)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (2 days ago)
 - [resendlabs/resend-php](https://github.com/resendlabs/resend-php) - :envelope: Resend&#39;s PHP SDK (1 week ago)
-- [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React (1 week ago)
-- [elastic/elasticsearch-php](https://github.com/elastic/elasticsearch-php) - Official PHP client for Elasticsearch. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
