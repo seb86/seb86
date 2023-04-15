@@ -23,7 +23,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) ([v3.3.0](https://github.com/co-cart/cocart-get-cart-enhanced/releases/tag/v3.3.0), 1 week ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
+- [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) ([v3.3.0](https://github.com/co-cart/cocart-get-cart-enhanced/releases/tag/v3.3.0), 2 weeks ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.0](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.0), 1 month ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 1 month ago) - Enables the rate limiting feature for CoCart.
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 2 months ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
@@ -39,10 +39,10 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [lee-dohm/no-response](https://github.com/lee-dohm/no-response) - A GitHub Action that closes Issues where the author hasn&#39;t responded to a request for more information (today)
-- [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies in your PRs (today)
-- [php-stubs/woocommerce-stubs](https://github.com/php-stubs/woocommerce-stubs) - WooCommerce function and class declaration stubs for static analysis (today)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (2 days ago)
+- [lee-dohm/no-response](https://github.com/lee-dohm/no-response) - A GitHub Action that closes Issues where the author hasn&#39;t responded to a request for more information (1 day ago)
+- [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies in your PRs (1 day ago)
+- [php-stubs/woocommerce-stubs](https://github.com/php-stubs/woocommerce-stubs) - WooCommerce function and class declaration stubs for static analysis (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (3 days ago)
 - [resendlabs/resend-php](https://github.com/resendlabs/resend-php) - :envelope: Resend&#39;s PHP SDK (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
