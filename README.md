@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [Lameguy64/n00brom](https://github.com/Lameguy64/n00brom) - Open-source Caetla equivalent for PS1 homebrew development (today)
 - [woocommerce/automations](https://github.com/woocommerce/automations) - Various GitHub Action automations to assist with repository project management. (today)
 - [lee-dohm/no-response](https://github.com/lee-dohm/no-response) - A GitHub Action that closes Issues where the author hasn&#39;t responded to a request for more information (3 days ago)
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies in your PRs (3 days ago)
 - [php-stubs/woocommerce-stubs](https://github.com/php-stubs/woocommerce-stubs) - WooCommerce function and class declaration stubs for static analysis (3 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (5 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
