@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development) (today)
 - [Lameguy64/n00brom](https://github.com/Lameguy64/n00brom) - Open-source Caetla equivalent for PS1 homebrew development (1 day ago)
 - [woocommerce/automations](https://github.com/woocommerce/automations) - Various GitHub Action automations to assist with repository project management. (1 day ago)
 - [lee-dohm/no-response](https://github.com/lee-dohm/no-response) - A GitHub Action that closes Issues where the author hasn&#39;t responded to a request for more information (4 days ago)
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies in your PRs (4 days ago)
-- [php-stubs/woocommerce-stubs](https://github.com/php-stubs/woocommerce-stubs) - WooCommerce function and class declaration stubs for static analysis (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
