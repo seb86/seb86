@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [red-prig/fpPS4](https://github.com/red-prig/fpPS4) - PS4 compatibility layer (emulator) on Free Pascal (today)
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger (today)
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development) (today)
 - [Lameguy64/n00brom](https://github.com/Lameguy64/n00brom) - Open-source Caetla equivalent for PS1 homebrew development (1 day ago)
 - [woocommerce/automations](https://github.com/woocommerce/automations) - Various GitHub Action automations to assist with repository project management. (1 day ago)
-- [lee-dohm/no-response](https://github.com/lee-dohm/no-response) - A GitHub Action that closes Issues where the author hasn&#39;t responded to a request for more information (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
