@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [snicco/better-wpdb](https://github.com/snicco/better-wpdb) - [READ ONLY] Subtree split of the snicco/better-wpdb package (see snicco/snicco). (today)
 - [szepeviktor/wordpress-website-lifecycle](https://github.com/szepeviktor/wordpress-website-lifecycle) - How to work with WordPress 📅 for long years (today)
 - [maxton/LibOrbisPkg](https://github.com/maxton/LibOrbisPkg) - Library, GUI, CLI for creating, inspecting, and modifying PS4 PKG, SFO, PFS, and related filetypes (2 days ago)
 - [temmieheartz/fpPS4-Temmie-s-Launcher](https://github.com/temmieheartz/fpPS4-Temmie-s-Launcher) - A simple launcher for fpPS4 project (2 days ago)
 - [red-prig/fpPS4](https://github.com/red-prig/fpPS4) - PS4 compatibility layer (emulator) on Free Pascal (2 days ago)
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger (2 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
