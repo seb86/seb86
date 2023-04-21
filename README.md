@@ -4,7 +4,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (3 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (4 days ago)
 - [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (2 weeks ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (2 weeks ago)
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 month ago)
@@ -31,19 +31,19 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔨 Latest Pull Requests I published
 
-- [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 days ago)
-- [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 days ago)
+- [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 days ago)
+- [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 days ago)
 - [Update fork](https://github.com/seb86/coblocks-theme/pull/2) on [seb86/coblocks-theme](https://github.com/seb86/coblocks-theme) (1 year ago)
 - [Revert &#34;API v3 experiment&#34;](https://github.com/co-cart/co-cart/pull/316) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 year ago)
 - [API v3 experiment](https://github.com/co-cart/co-cart/pull/315) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 year ago)
 
 #### ⭐ Recent stars
 
-- [snicco/better-wpdb](https://github.com/snicco/better-wpdb) - [READ ONLY] Subtree split of the snicco/better-wpdb package (see snicco/snicco). (today)
-- [szepeviktor/wordpress-website-lifecycle](https://github.com/szepeviktor/wordpress-website-lifecycle) - How to work with WordPress 📅 for long years (today)
-- [maxton/LibOrbisPkg](https://github.com/maxton/LibOrbisPkg) - Library, GUI, CLI for creating, inspecting, and modifying PS4 PKG, SFO, PFS, and related filetypes (2 days ago)
-- [temmieheartz/fpPS4-Temmie-s-Launcher](https://github.com/temmieheartz/fpPS4-Temmie-s-Launcher) - A simple launcher for fpPS4 project (2 days ago)
-- [red-prig/fpPS4](https://github.com/red-prig/fpPS4) - PS4 compatibility layer (emulator) on Free Pascal (2 days ago)
+- [snicco/better-wpdb](https://github.com/snicco/better-wpdb) - [READ ONLY] Subtree split of the snicco/better-wpdb package (see snicco/snicco). (1 day ago)
+- [szepeviktor/wordpress-website-lifecycle](https://github.com/szepeviktor/wordpress-website-lifecycle) - How to work with WordPress 📅 for long years (1 day ago)
+- [maxton/LibOrbisPkg](https://github.com/maxton/LibOrbisPkg) - Library, GUI, CLI for creating, inspecting, and modifying PS4 PKG, SFO, PFS, and related filetypes (3 days ago)
+- [temmieheartz/fpPS4-Temmie-s-Launcher](https://github.com/temmieheartz/fpPS4-Temmie-s-Launcher) - A simple launcher for fpPS4 project (3 days ago)
+- [red-prig/fpPS4](https://github.com/red-prig/fpPS4) - PS4 compatibility layer (emulator) on Free Pascal (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
