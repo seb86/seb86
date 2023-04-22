@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [littlebalup/PyPS3tools](https://github.com/littlebalup/PyPS3tools) - Suite of python tools for PS3 flash memory dump files. (today)
 - [lmirel/fm_psx](https://github.com/lmirel/fm_psx) - simple file manager for psx (today)
 - [bucanero/apollo-ps3](https://github.com/bucanero/apollo-ps3) - Apollo Save Tool (PS3) (today)
 - [13xforever/ps3-disc-dumper](https://github.com/13xforever/ps3-disc-dumper) - A handy utility to make decrypted PS3 disc dumps (today)
 - [snicco/better-wpdb](https://github.com/snicco/better-wpdb) - [READ ONLY] Subtree split of the snicco/better-wpdb package (see snicco/snicco). (2 days ago)
-- [szepeviktor/wordpress-website-lifecycle](https://github.com/szepeviktor/wordpress-website-lifecycle) - How to work with WordPress 📅 for long years (2 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
