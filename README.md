@@ -4,11 +4,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/repo-labels](https://github.com/co-cart/repo-labels) - GitHub action to sync a repo&#39;s issue labels across CoCart repositories. (1 day ago)
-- [PerfectCheckout/perfect-labels](https://github.com/PerfectCheckout/perfect-labels) - GitHub action to sync a repo&#39;s issue labels across Perfect repositories. (1 day ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 day ago)
+- [co-cart/repo-labels](https://github.com/co-cart/repo-labels) - GitHub action to sync a repo&#39;s issue labels across CoCart repositories. (2 days ago)
+- [PerfectCheckout/perfect-labels](https://github.com/PerfectCheckout/perfect-labels) - GitHub action to sync a repo&#39;s issue labels across Perfect repositories. (2 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (2 days ago)
 - [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (2 weeks ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (2 weeks ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (3 weeks ago)
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 month ago)
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) - Enables the rate limiting feature for CoCart. (1 month ago)
 - [co-cart/cocart-sync-carts](https://github.com/co-cart/cocart-sync-carts) - Used to keep track of cart changes made to a previously loaded cart when passing a guest cart to a logged in customer. (1 month ago)
@@ -31,19 +31,19 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔨 Latest Pull Requests I published
 
-- [Install modules on repository](https://github.com/co-cart/repo-labels/pull/1) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (1 day ago)
-- [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (5 days ago)
-- [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (5 days ago)
+- [Install modules on repository](https://github.com/co-cart/repo-labels/pull/1) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (2 days ago)
+- [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (6 days ago)
+- [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (6 days ago)
 - [Update fork](https://github.com/seb86/coblocks-theme/pull/2) on [seb86/coblocks-theme](https://github.com/seb86/coblocks-theme) (1 year ago)
 - [Revert &#34;API v3 experiment&#34;](https://github.com/co-cart/co-cart/pull/316) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 year ago)
 
 #### ⭐ Recent stars
 
-- [littlebalup/PyPS3tools](https://github.com/littlebalup/PyPS3tools) - Suite of python tools for PS3 flash memory dump files. (today)
-- [lmirel/fm_psx](https://github.com/lmirel/fm_psx) - simple file manager for psx (today)
-- [bucanero/apollo-ps3](https://github.com/bucanero/apollo-ps3) - Apollo Save Tool (PS3) (today)
-- [13xforever/ps3-disc-dumper](https://github.com/13xforever/ps3-disc-dumper) - A handy utility to make decrypted PS3 disc dumps (today)
-- [snicco/better-wpdb](https://github.com/snicco/better-wpdb) - [READ ONLY] Subtree split of the snicco/better-wpdb package (see snicco/snicco). (2 days ago)
+- [littlebalup/PyPS3tools](https://github.com/littlebalup/PyPS3tools) - Suite of python tools for PS3 flash memory dump files. (1 day ago)
+- [lmirel/fm_psx](https://github.com/lmirel/fm_psx) - simple file manager for psx (1 day ago)
+- [bucanero/apollo-ps3](https://github.com/bucanero/apollo-ps3) - Apollo Save Tool (PS3) (1 day ago)
+- [13xforever/ps3-disc-dumper](https://github.com/13xforever/ps3-disc-dumper) - A handy utility to make decrypted PS3 disc dumps (1 day ago)
+- [snicco/better-wpdb](https://github.com/snicco/better-wpdb) - [READ ONLY] Subtree split of the snicco/better-wpdb package (see snicco/snicco). (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
