@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software (today)
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (today)
 - [jazzsequence/WordPress-Screen-Options-Framework](https://github.com/jazzsequence/WordPress-Screen-Options-Framework) - Quick start, plug and play include for extending and creating Screen Options in the WordPress admin. (1 day ago)
 - [codestation/qcma](https://github.com/codestation/qcma) - Cross-platform content manager assistant for the PS Vita (No longer maintained) (4 days ago)
 - [littlebalup/PyPS3tools](https://github.com/littlebalup/PyPS3tools) - Suite of python tools for PS3 flash memory dump files. (5 days ago)
-- [lmirel/fm_psx](https://github.com/lmirel/fm_psx) - simple file manager for psx (5 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
