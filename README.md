@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [10up/retro-winamp-block](https://github.com/10up/retro-winamp-block) - A Winamp-styled audio block for all your retro music player needs. (today)
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software (1 day ago)
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (1 day ago)
 - [jazzsequence/WordPress-Screen-Options-Framework](https://github.com/jazzsequence/WordPress-Screen-Options-Framework) - Quick start, plug and play include for extending and creating Screen Options in the WordPress admin. (2 days ago)
 - [codestation/qcma](https://github.com/codestation/qcma) - Cross-platform content manager assistant for the PS Vita (No longer maintained) (5 days ago)
-- [littlebalup/PyPS3tools](https://github.com/littlebalup/PyPS3tools) - Suite of python tools for PS3 flash memory dump files. (6 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
