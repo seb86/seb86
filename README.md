@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (today)
 - [10up/retro-winamp-block](https://github.com/10up/retro-winamp-block) - A Winamp-styled audio block for all your retro music player needs. (1 day ago)
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software (2 days ago)
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (2 days ago)
 - [jazzsequence/WordPress-Screen-Options-Framework](https://github.com/jazzsequence/WordPress-Screen-Options-Framework) - Quick start, plug and play include for extending and creating Screen Options in the WordPress admin. (3 days ago)
-- [codestation/qcma](https://github.com/codestation/qcma) - Cross-platform content manager assistant for the PS Vita (No longer maintained) (6 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
