@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [autobleem/AutoBleem](https://github.com/autobleem/AutoBleem) - AutoBleem -  Alternative to BleemSync/BootMenu, C&#43;&#43; based, GameScanner and Updater for Playstation Classic (today)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (1 day ago)
 - [10up/retro-winamp-block](https://github.com/10up/retro-winamp-block) - A Winamp-styled audio block for all your retro music player needs. (2 days ago)
 - [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software (3 days ago)
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (3 days ago)
-- [jazzsequence/WordPress-Screen-Options-Framework](https://github.com/jazzsequence/WordPress-Screen-Options-Framework) - Quick start, plug and play include for extending and creating Screen Options in the WordPress admin. (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
