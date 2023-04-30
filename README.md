@@ -4,14 +4,14 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (2 days ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (2 days ago)
-- [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (2 days ago)
-- [co-cart/cocart-settings-example](https://github.com/co-cart/cocart-settings-example) - Provides an example of adding your own settings to CoCart. Requires CoCart 4.0&#43; (4 days ago)
-- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (5 days ago)
-- [co-cart/cocart-carts-in-session](https://github.com/co-cart/cocart-carts-in-session) - Allows you to view all the carts in session via the WordPress admin. (5 days ago)
-- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view the sessions for CoCart. (5 days ago)
-- [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (3 days ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (3 days ago)
+- [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (3 days ago)
+- [co-cart/cocart-settings-example](https://github.com/co-cart/cocart-settings-example) - Provides an example of adding your own settings to CoCart. Requires CoCart 4.0&#43; (5 days ago)
+- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (6 days ago)
+- [co-cart/cocart-carts-in-session](https://github.com/co-cart/cocart-carts-in-session) - Allows you to view all the carts in session via the WordPress admin. (6 days ago)
+- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view the sessions for CoCart. (6 days ago)
+- [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (today)
-- [10up/retro-winamp-block](https://github.com/10up/retro-winamp-block) - A Winamp-styled audio block for all your retro music player needs. (1 day ago)
-- [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software (2 days ago)
-- [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (2 days ago)
-- [jazzsequence/WordPress-Screen-Options-Framework](https://github.com/jazzsequence/WordPress-Screen-Options-Framework) - Quick start, plug and play include for extending and creating Screen Options in the WordPress admin. (3 days ago)
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (1 day ago)
+- [10up/retro-winamp-block](https://github.com/10up/retro-winamp-block) - A Winamp-styled audio block for all your retro music player needs. (2 days ago)
+- [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software (3 days ago)
+- [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (3 days ago)
+- [jazzsequence/WordPress-Screen-Options-Framework](https://github.com/jazzsequence/WordPress-Screen-Options-Framework) - Quick start, plug and play include for extending and creating Screen Options in the WordPress admin. (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
