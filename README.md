@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [pingdotgg/zapdos](https://github.com/pingdotgg/zapdos) (today)
 - [DanielRiera/estimated-delivery-woocommerce](https://github.com/DanielRiera/estimated-delivery-woocommerce) (1 day ago)
 - [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin &#43; i18n API for Next.js 🌍  -  Load page translations and use them in an easy way! (1 day ago)
 - [autobleem/AutoBleem](https://github.com/autobleem/AutoBleem) - AutoBleem -  Alternative to BleemSync/BootMenu, C&#43;&#43; based, GameScanner and Updater for Playstation Classic (2 days ago)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (3 days ago)
-- [10up/retro-winamp-block](https://github.com/10up/retro-winamp-block) - A Winamp-styled audio block for all your retro music player needs. (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
