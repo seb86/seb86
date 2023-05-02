@@ -4,10 +4,10 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (4 days ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (4 days ago)
-- [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (4 days ago)
-- [co-cart/cocart-settings-example](https://github.com/co-cart/cocart-settings-example) - Provides an example of adding your own settings to CoCart. Requires CoCart 4.0&#43; (6 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (5 days ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (5 days ago)
+- [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (5 days ago)
+- [co-cart/cocart-settings-example](https://github.com/co-cart/cocart-settings-example) - Provides an example of adding your own settings to CoCart. Requires CoCart 4.0&#43; (1 week ago)
 - [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view the sessions for CoCart. (1 week ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 week ago)
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (1 week ago)
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [DanielRiera/estimated-delivery-woocommerce](https://github.com/DanielRiera/estimated-delivery-woocommerce) (today)
-- [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin &#43; i18n API for Next.js 🌍  -  Load page translations and use them in an easy way! (today)
-- [autobleem/AutoBleem](https://github.com/autobleem/AutoBleem) - AutoBleem -  Alternative to BleemSync/BootMenu, C&#43;&#43; based, GameScanner and Updater for Playstation Classic (1 day ago)
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (2 days ago)
-- [10up/retro-winamp-block](https://github.com/10up/retro-winamp-block) - A Winamp-styled audio block for all your retro music player needs. (3 days ago)
+- [DanielRiera/estimated-delivery-woocommerce](https://github.com/DanielRiera/estimated-delivery-woocommerce) (1 day ago)
+- [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin &#43; i18n API for Next.js 🌍  -  Load page translations and use them in an easy way! (1 day ago)
+- [autobleem/AutoBleem](https://github.com/autobleem/AutoBleem) - AutoBleem -  Alternative to BleemSync/BootMenu, C&#43;&#43; based, GameScanner and Updater for Playstation Classic (2 days ago)
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (3 days ago)
+- [10up/retro-winamp-block](https://github.com/10up/retro-winamp-block) - A Winamp-styled audio block for all your retro music player needs. (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
