@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [ymirapp/wordpress-plugin](https://github.com/ymirapp/wordpress-plugin) - Ymir WordPress plugin (today)
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components (today)
 - [andersnoren/abisko](https://github.com/andersnoren/abisko) - Abisko is a stylish blog theme with an emphasis on bold typography. (today)
 - [pingdotgg/zapdos](https://github.com/pingdotgg/zapdos) (1 day ago)
 - [DanielRiera/estimated-delivery-woocommerce](https://github.com/DanielRiera/estimated-delivery-woocommerce) (2 days ago)
-- [aralroca/next-translate](https://github.com/aralroca/next-translate) - Next.js plugin &#43; i18n API for Next.js 🌍  -  Load page translations and use them in an easy way! (2 days ago)
-- [autobleem/AutoBleem](https://github.com/autobleem/AutoBleem) - AutoBleem -  Alternative to BleemSync/BootMenu, C&#43;&#43; based, GameScanner and Updater for Playstation Classic (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
