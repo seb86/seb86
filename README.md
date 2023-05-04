@@ -4,9 +4,9 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (6 days ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (6 days ago)
-- [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (6 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 week ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
+- [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (1 week ago)
 - [co-cart/cocart-settings-example](https://github.com/co-cart/cocart-settings-example) - Provides an example of adding your own settings to CoCart. Requires CoCart 4.0&#43; (1 week ago)
 - [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view the sessions for CoCart. (1 week ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 week ago)
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [ymirapp/wordpress-plugin](https://github.com/ymirapp/wordpress-plugin) - Ymir WordPress plugin (today)
-- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components (today)
-- [andersnoren/abisko](https://github.com/andersnoren/abisko) - Abisko is a stylish blog theme with an emphasis on bold typography. (today)
-- [pingdotgg/zapdos](https://github.com/pingdotgg/zapdos) (1 day ago)
-- [DanielRiera/estimated-delivery-woocommerce](https://github.com/DanielRiera/estimated-delivery-woocommerce) (2 days ago)
+- [ymirapp/wordpress-plugin](https://github.com/ymirapp/wordpress-plugin) - Ymir WordPress plugin (1 day ago)
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components (1 day ago)
+- [andersnoren/abisko](https://github.com/andersnoren/abisko) - Abisko is a stylish blog theme with an emphasis on bold typography. (1 day ago)
+- [pingdotgg/zapdos](https://github.com/pingdotgg/zapdos) (2 days ago)
+- [DanielRiera/estimated-delivery-woocommerce](https://github.com/DanielRiera/estimated-delivery-woocommerce) (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
