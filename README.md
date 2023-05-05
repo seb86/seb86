@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [PerfectCheckout/trust-metrics](https://github.com/PerfectCheckout/trust-metrics) - Easily establish trust with shoppers to increase conversions by 30% or more. (today)
 - [ymirapp/wordpress-plugin](https://github.com/ymirapp/wordpress-plugin) - Ymir WordPress plugin (2 days ago)
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components (2 days ago)
 - [andersnoren/abisko](https://github.com/andersnoren/abisko) - Abisko is a stylish blog theme with an emphasis on bold typography. (2 days ago)
 - [pingdotgg/zapdos](https://github.com/pingdotgg/zapdos) (3 days ago)
-- [DanielRiera/estimated-delivery-woocommerce](https://github.com/DanielRiera/estimated-delivery-woocommerce) (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
