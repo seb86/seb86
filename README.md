@@ -4,7 +4,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 day ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (2 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 week ago)
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (1 week ago)
 - [co-cart/cocart-settings-example](https://github.com/co-cart/cocart-settings-example) - Provides an example of adding your own settings to CoCart. Requires CoCart 4.0&#43; (1 week ago)
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [adrianhajdin/project_next_13_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you&#39;ll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you&#39;ll put your skills to the test by building a modern full-stack Next 13 application. (today)
-- [PerfectCheckout/trust-metrics](https://github.com/PerfectCheckout/trust-metrics) - Easily establish trust with shoppers to increase conversions by 30% or more. (today)
-- [ymirapp/wordpress-plugin](https://github.com/ymirapp/wordpress-plugin) - Ymir WordPress plugin (2 days ago)
-- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components (2 days ago)
-- [andersnoren/abisko](https://github.com/andersnoren/abisko) - Abisko is a stylish blog theme with an emphasis on bold typography. (2 days ago)
+- [adrianhajdin/project_next_13_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you&#39;ll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you&#39;ll put your skills to the test by building a modern full-stack Next 13 application. (1 day ago)
+- [PerfectCheckout/trust-metrics](https://github.com/PerfectCheckout/trust-metrics) - Easily establish trust with shoppers to increase conversions by 30% or more. (1 day ago)
+- [ymirapp/wordpress-plugin](https://github.com/ymirapp/wordpress-plugin) - Ymir WordPress plugin (3 days ago)
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components (3 days ago)
+- [andersnoren/abisko](https://github.com/andersnoren/abisko) - Abisko is a stylish blog theme with an emphasis on bold typography. (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
