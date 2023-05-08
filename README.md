@@ -4,14 +4,14 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (3 days ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (4 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 week ago)
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools (1 week ago)
 - [co-cart/cocart-settings-example](https://github.com/co-cart/cocart-settings-example) - Provides an example of adding your own settings to CoCart. Requires CoCart 4.0&#43; (1 week ago)
-- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view the sessions for CoCart. (1 week ago)
-- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 week ago)
-- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (1 week ago)
-- [co-cart/cocart-pro-reports](https://github.com/co-cart/cocart-pro-reports) - This repository is for reporting bugs in CoCart Pro. It is not for asking support. (1 week ago)
+- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view the sessions for CoCart. (2 weeks ago)
+- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (2 weeks ago)
+- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (2 weeks ago)
+- [co-cart/cocart-pro-reports](https://github.com/co-cart/cocart-pro-reports) - This repository is for reporting bugs in CoCart Pro. It is not for asking support. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 #### 🔭 Latest releases I've contributed to
 
 - [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) ([v3.3.0](https://github.com/co-cart/cocart-get-cart-enhanced/releases/tag/v3.3.0), 1 month ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
-- [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.0](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.0), 1 month ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
+- [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.0](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.0), 2 months ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 2 months ago) - Enables the rate limiting feature for CoCart.
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 3 months ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
 - [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) ([v2.2.0](https://github.com/co-cart/cocart-beta-tester/releases/tag/v2.2.0), 3 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
@@ -32,18 +32,18 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 #### 🔨 Latest Pull Requests I published
 
 - [Install modules on repository](https://github.com/co-cart/repo-labels/pull/1) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (2 weeks ago)
-- [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 weeks ago)
-- [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 weeks ago)
+- [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
+- [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
 - [Update fork](https://github.com/seb86/coblocks-theme/pull/2) on [seb86/coblocks-theme](https://github.com/seb86/coblocks-theme) (1 year ago)
 - [Revert &#34;API v3 experiment&#34;](https://github.com/co-cart/co-cart/pull/316) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 year ago)
 
 #### ⭐ Recent stars
 
-- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development. (today)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 day ago)
-- [adrianhajdin/project_next_13_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you&#39;ll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you&#39;ll put your skills to the test by building a modern full-stack Next 13 application. (2 days ago)
-- [PerfectCheckout/trust-metrics](https://github.com/PerfectCheckout/trust-metrics) - Easily establish trust with shoppers to increase conversions by 30% or more. (2 days ago)
-- [ymirapp/wordpress-plugin](https://github.com/ymirapp/wordpress-plugin) - Ymir WordPress plugin (4 days ago)
+- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development. (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (2 days ago)
+- [adrianhajdin/project_next_13_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you&#39;ll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you&#39;ll put your skills to the test by building a modern full-stack Next 13 application. (3 days ago)
+- [PerfectCheckout/trust-metrics](https://github.com/PerfectCheckout/trust-metrics) - Easily establish trust with shoppers to increase conversions by 30% or more. (3 days ago)
+- [ymirapp/wordpress-plugin](https://github.com/ymirapp/wordpress-plugin) - Ymir WordPress plugin (5 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
