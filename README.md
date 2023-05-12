@@ -31,7 +31,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔨 Latest Pull Requests I published
 
-- [Install modules on repository](https://github.com/co-cart/repo-labels/pull/1) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (2 weeks ago)
+- [Install modules on repository](https://github.com/co-cart/repo-labels/pull/1) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (3 weeks ago)
 - [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
 - [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
 - [Update fork](https://github.com/seb86/coblocks-theme/pull/2) on [seb86/coblocks-theme](https://github.com/seb86/coblocks-theme) (1 year ago)
@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
-- [aldostools/Resources](https://github.com/aldostools/Resources) - Repository of resources for webMAN MOD and IRISMAN (1 day ago)
-- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development. (4 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (5 days ago)
-- [adrianhajdin/project_next_13_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you&#39;ll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you&#39;ll put your skills to the test by building a modern full-stack Next 13 application. (6 days ago)
-- [PerfectCheckout/trust-metrics](https://github.com/PerfectCheckout/trust-metrics) - Easily establish trust with shoppers to increase conversions by 30% or more. (6 days ago)
+- [aldostools/Resources](https://github.com/aldostools/Resources) - Repository of resources for webMAN MOD and IRISMAN (2 days ago)
+- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development. (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (6 days ago)
+- [adrianhajdin/project_next_13_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you&#39;ll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you&#39;ll put your skills to the test by building a modern full-stack Next 13 application. (1 week ago)
+- [PerfectCheckout/trust-metrics](https://github.com/PerfectCheckout/trust-metrics) - Easily establish trust with shoppers to increase conversions by 30% or more. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
