@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [13xforever/psn-pkg-validator](https://github.com/13xforever/psn-pkg-validator) - Tool to check PS3 PSN PKG integrity (today)
 - [pbatard/uefi-ntfs](https://github.com/pbatard/uefi-ntfs) - UEFI:NTFS - Boot NTFS or exFAT partitions from UEFI (1 day ago)
 - [aldostools/webMAN-MOD](https://github.com/aldostools/webMAN-MOD) - Extended services for PS3 console (web server, ftp server, netiso, ntfs, ps3mapi, etc.) (1 day ago)
 - [aldostools/Resources](https://github.com/aldostools/Resources) - Repository of resources for webMAN MOD and IRISMAN (4 days ago)
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development. (1 week ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
