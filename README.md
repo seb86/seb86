@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [OllieJones/index-wp-mysql-for-speed](https://github.com/OllieJones/index-wp-mysql-for-speed) - A plugin to add useful indexes to your WordPress installation&#39;s MySQL database. (today)
 - [13xforever/psn-pkg-validator](https://github.com/13xforever/psn-pkg-validator) - Tool to check PS3 PSN PKG integrity (1 day ago)
 - [pbatard/uefi-ntfs](https://github.com/pbatard/uefi-ntfs) - UEFI:NTFS - Boot NTFS or exFAT partitions from UEFI (2 days ago)
 - [aldostools/webMAN-MOD](https://github.com/aldostools/webMAN-MOD) - Extended services for PS3 console (web server, ftp server, netiso, ntfs, ps3mapi, etc.) (2 days ago)
 - [aldostools/Resources](https://github.com/aldostools/Resources) - Repository of resources for webMAN MOD and IRISMAN (5 days ago)
-- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
