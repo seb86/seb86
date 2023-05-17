@@ -32,18 +32,18 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 #### 🔨 Latest Pull Requests I published
 
 - [Install modules on repository](https://github.com/co-cart/repo-labels/pull/1) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (3 weeks ago)
-- [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 weeks ago)
-- [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 weeks ago)
+- [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
+- [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
 - [Update fork](https://github.com/seb86/coblocks-theme/pull/2) on [seb86/coblocks-theme](https://github.com/seb86/coblocks-theme) (1 year ago)
 - [Revert &#34;API v3 experiment&#34;](https://github.com/co-cart/co-cart/pull/316) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 year ago)
 
 #### ⭐ Recent stars
 
-- [OllieJones/index-wp-mysql-for-speed](https://github.com/OllieJones/index-wp-mysql-for-speed) - A plugin to add useful indexes to your WordPress installation&#39;s MySQL database. (1 day ago)
-- [13xforever/psn-pkg-validator](https://github.com/13xforever/psn-pkg-validator) - Tool to check PS3 PSN PKG integrity (2 days ago)
-- [pbatard/uefi-ntfs](https://github.com/pbatard/uefi-ntfs) - UEFI:NTFS - Boot NTFS or exFAT partitions from UEFI (3 days ago)
-- [aldostools/webMAN-MOD](https://github.com/aldostools/webMAN-MOD) - Extended services for PS3 console (web server, ftp server, netiso, ntfs, ps3mapi, etc.) (3 days ago)
-- [aldostools/Resources](https://github.com/aldostools/Resources) - Repository of resources for webMAN MOD and IRISMAN (6 days ago)
+- [OllieJones/index-wp-mysql-for-speed](https://github.com/OllieJones/index-wp-mysql-for-speed) - A plugin to add useful indexes to your WordPress installation&#39;s MySQL database. (2 days ago)
+- [13xforever/psn-pkg-validator](https://github.com/13xforever/psn-pkg-validator) - Tool to check PS3 PSN PKG integrity (3 days ago)
+- [pbatard/uefi-ntfs](https://github.com/pbatard/uefi-ntfs) - UEFI:NTFS - Boot NTFS or exFAT partitions from UEFI (4 days ago)
+- [aldostools/webMAN-MOD](https://github.com/aldostools/webMAN-MOD) - Extended services for PS3 console (web server, ftp server, netiso, ntfs, ps3mapi, etc.) (4 days ago)
+- [aldostools/Resources](https://github.com/aldostools/Resources) - Repository of resources for webMAN MOD and IRISMAN (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
