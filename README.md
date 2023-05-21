@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file. (today)
 - [OllieJones/index-wp-mysql-for-speed](https://github.com/OllieJones/index-wp-mysql-for-speed) - A plugin to add useful indexes to your WordPress installation&#39;s MySQL database. (6 days ago)
 - [13xforever/psn-pkg-validator](https://github.com/13xforever/psn-pkg-validator) - Tool to check PS3 PSN PKG integrity (1 week ago)
 - [pbatard/uefi-ntfs](https://github.com/pbatard/uefi-ntfs) - UEFI:NTFS - Boot NTFS or exFAT partitions from UEFI (1 week ago)
 - [aldostools/webMAN-MOD](https://github.com/aldostools/webMAN-MOD) - Extended services for PS3 console (web server, ftp server, netiso, ntfs, ps3mapi, etc.) (1 week ago)
-- [aldostools/Resources](https://github.com/aldostools/Resources) - Repository of resources for webMAN MOD and IRISMAN (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
