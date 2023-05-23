@@ -40,7 +40,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 #### ⭐ Recent stars
 
 - [lmsqueezy/laravel](https://github.com/lmsqueezy/laravel) - A package to easily integrate your Laravel application with Lemon Squeezy. (2 days ago)
-- [NuroDev/npm-template](https://github.com/NuroDev/npm-template) - ❗ Template project to build a new NPM package using TypeScript (2 days ago)
+- [NuroDev/npm-template](https://github.com/NuroDev/npm-template) - 💙 Template project to build a new npm package using TypeScript (2 days ago)
 - [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file. (2 days ago)
 - [OllieJones/index-wp-mysql-for-speed](https://github.com/OllieJones/index-wp-mysql-for-speed) - A plugin to add useful indexes to your WordPress installation&#39;s MySQL database. (1 week ago)
 - [13xforever/psn-pkg-validator](https://github.com/13xforever/psn-pkg-validator) - Tool to check PS3 PSN PKG integrity (1 week ago)
