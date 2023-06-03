@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [disposable/disposable](https://github.com/disposable/disposable) - A list of disposable/temporary email address domains (today)
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP (1 week ago)
 - [lmsqueezy/laravel](https://github.com/lmsqueezy/laravel) - A package to easily integrate your Laravel application with Lemon Squeezy. (1 week ago)
 - [NuroDev/npm-template](https://github.com/NuroDev/npm-template) - 💙 Template project to build a new npm package using TypeScript (1 week ago)
 - [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file. (1 week ago)
-- [OllieJones/index-wp-mysql-for-speed](https://github.com/OllieJones/index-wp-mysql-for-speed) - A plugin to add useful indexes to your WordPress installation&#39;s MySQL database. (2 weeks ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
