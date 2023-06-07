@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) - Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface (today)
 - [disposable/disposable](https://github.com/disposable/disposable) - A list of disposable/temporary email address domains (4 days ago)
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP (2 weeks ago)
 - [lmsqueezy/laravel](https://github.com/lmsqueezy/laravel) - A package to easily integrate your Laravel application with Lemon Squeezy. (2 weeks ago)
 - [NuroDev/npm-template](https://github.com/NuroDev/npm-template) - 💙 Template project to build a new npm package using TypeScript (2 weeks ago)
-- [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file. (2 weeks ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
