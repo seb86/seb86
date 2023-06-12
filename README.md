@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [woocommerce/qit-cli](https://github.com/woocommerce/qit-cli) - Quality Insights Toolkit CLI tool to run managed automated tests against the extensions on the Woo Marketplace. (today)
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository (today)
 - [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) - Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface (5 days ago)
 - [disposable/disposable](https://github.com/disposable/disposable) - A list of disposable/temporary email address domains (1 week ago)
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP (2 weeks ago)
-- [lmsqueezy/laravel](https://github.com/lmsqueezy/laravel) - A package to easily integrate your Laravel application with Lemon Squeezy. (3 weeks ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
