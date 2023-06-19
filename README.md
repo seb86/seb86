@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (today)
 - [woocommerce/qit-cli](https://github.com/woocommerce/qit-cli) - Quality Insights Toolkit CLI tool to run managed automated tests against the extensions on the Woo Marketplace. (1 week ago)
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository (1 week ago)
 - [slatinsky/DiscordChatExporter-frontend](https://github.com/slatinsky/DiscordChatExporter-frontend) - Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface (1 week ago)
 - [disposable/disposable](https://github.com/disposable/disposable) - A list of disposable/temporary email address domains (2 weeks ago)
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP (3 weeks ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
