@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [codewithkristian/mailinglisthackers-members](https://github.com/codewithkristian/mailinglisthackers-members) - Members of Mailing List Hackers, a community for people building newsletters and mailing lists.  (today)
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –  (1 day ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (2 days ago)
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (1 week ago)
 - [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
-- [Automattic/VIP-Coding-Standards](https://github.com/Automattic/VIP-Coding-Standards) - PHP_CodeSniffer ruleset to enforce WordPress VIP coding standards. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
