@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (today)
 - [codewithkristian/mailinglisthackers-members](https://github.com/codewithkristian/mailinglisthackers-members) - Members of Mailing List Hackers, a community for people building newsletters and mailing lists.  (1 day ago)
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –  (2 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a customizable WordPress REST API for WooCommerce that lets you build headless eCommerce using your favorite technologies. (3 days ago)
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (1 week ago)
-- [sebastianbergmann/comparator](https://github.com/sebastianbergmann/comparator) - Provides the functionality to compare PHP values for equality. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
