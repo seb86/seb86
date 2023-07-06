@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (today)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (2 days ago)
 - [useIceberg/iceberg-editor](https://github.com/useIceberg/iceberg-editor) - A beautiful writing editor for crafting posts with the WordPress block editor. (5 days ago)
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (5 days ago)
 - [codewithkristian/mailinglisthackers-members](https://github.com/codewithkristian/mailinglisthackers-members) - Members of Mailing List Hackers, a community for people building newsletters and mailing lists.  (6 days ago)
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! –  (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
