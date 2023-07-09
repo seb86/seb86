@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [Crontap/crontap](https://github.com/Crontap/crontap) - Schedule recurring API calls without the hassle (today)
+- [parsecph/clobbr](https://github.com/parsecph/clobbr) - ⚡️ A tool to check the speed and resilience of your API endpoints against multiple parallel or sequence requests. (today)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (3 days ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (5 days ago)
 - [useIceberg/iceberg-editor](https://github.com/useIceberg/iceberg-editor) - A beautiful writing editor for crafting posts with the WordPress block editor. (1 week ago)
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (1 week ago)
-- [codewithkristian/mailinglisthackers-members](https://github.com/codewithkristian/mailinglisthackers-members) - Members of Mailing List Hackers, a community for people building newsletters and mailing lists.  (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
