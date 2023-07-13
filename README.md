@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [marklawlor/nativewind](https://github.com/marklawlor/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS (today)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (2 days ago)
 - [Crontap/crontap](https://github.com/Crontap/crontap) - Schedule recurring API calls without the hassle (4 days ago)
 - [parsecph/clobbr](https://github.com/parsecph/clobbr) - ⚡️ A tool to check the speed and resilience of your API endpoints against multiple parallel or sequence requests. (4 days ago)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (1 week ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
