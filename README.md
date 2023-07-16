@@ -4,11 +4,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 👷 Check out what I'm currently working on
 
-- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (today)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (4 days ago)
-- [co-cart/repo-labels](https://github.com/co-cart/repo-labels) - GitHub action to sync a repo&#39;s issue labels across CoCart repositories. (4 days ago)
-- [co-cart/cocart-plugin-suggestions](https://github.com/co-cart/cocart-plugin-suggestions) - Manages the plugin suggestions before uploaded to server.  (4 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (6 days ago)
+- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 day ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (5 days ago)
+- [co-cart/repo-labels](https://github.com/co-cart/repo-labels) - GitHub action to sync a repo&#39;s issue labels across CoCart repositories. (5 days ago)
+- [co-cart/cocart-plugin-suggestions](https://github.com/co-cart/cocart-plugin-suggestions) - Manages the plugin suggestions before uploaded to server.  (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (1 week ago)
 - [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (3 weeks ago)
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (3 weeks ago)
 - [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (3 weeks ago)
@@ -23,7 +23,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.8.2](https://github.com/co-cart/co-cart/releases/tag/v3.8.2), 3 days ago) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.8.2](https://github.com/co-cart/co-cart/releases/tag/v3.8.2), 4 days ago) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing.
 - [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) ([v3.3.0](https://github.com/co-cart/cocart-get-cart-enhanced/releases/tag/v3.3.0), 3 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.0](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.0), 4 months ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 4 months ago) - Enables the rate limiting feature for CoCart.
@@ -32,17 +32,17 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 #### 🔨 Latest Pull Requests I published
 
 - [Install modules on repository](https://github.com/co-cart/repo-labels/pull/1) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (2 months ago)
-- [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
-- [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
+- [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
+- [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
 - [Update fork](https://github.com/seb86/coblocks-theme/pull/2) on [seb86/coblocks-theme](https://github.com/seb86/coblocks-theme) (1 year ago)
 - [Revert &#34;API v3 experiment&#34;](https://github.com/co-cart/co-cart/pull/316) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 year ago)
 
 #### ⭐ Recent stars
 
-- [marklawlor/nativewind](https://github.com/marklawlor/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS (2 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (4 days ago)
-- [Crontap/crontap](https://github.com/Crontap/crontap) - Schedule recurring API calls without the hassle (6 days ago)
-- [parsecph/clobbr](https://github.com/parsecph/clobbr) - ⚡️ A tool to check the speed and resilience of your API endpoints against multiple parallel or sequence requests. (6 days ago)
+- [marklawlor/nativewind](https://github.com/marklawlor/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS (3 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (5 days ago)
+- [Crontap/crontap](https://github.com/Crontap/crontap) - Schedule recurring API calls without the hassle (1 week ago)
+- [parsecph/clobbr](https://github.com/parsecph/clobbr) - ⚡️ A tool to check the speed and resilience of your API endpoints against multiple parallel or sequence requests. (1 week ago)
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
