@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.  (today)
 - [ShendoXT/memcardrex](https://github.com/ShendoXT/memcardrex) - Advanced PlayStation 1 Memory Card editor (1 day ago)
 - [pilcrowOnPaper/lucia](https://github.com/pilcrowOnPaper/lucia) - Authentication, simple and clean (1 day ago)
 - [seisigmasrl/lemonsqueezy.php](https://github.com/seisigmasrl/lemonsqueezy.php) - Lemon Squeezy API SDK/Client for PHP. (1 day ago)
 - [marklawlor/nativewind](https://github.com/marklawlor/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS (4 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (6 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
