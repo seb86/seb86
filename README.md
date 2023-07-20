@@ -1,8 +1,25 @@
 ### Hi there 👋
 
-I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress developer. I am the creator of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woocommerce/).
+I'm [Sebastien Dumont](https://sebastiendumont.com/). I’ve worked in the WordPress space for over a decade, focusing on providing solutions for clients and customers alike that are deeply customizable but also very easy to use.
 
-#### 👷 Check out what I'm currently working on
+I’m a self-taught developer and since 2007, I’ve been using WordPress to build websites. I first started using it to blog random things while learning to code.
+
+I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woocommerce/) that takes the pain out of developing allowing developers to freely build an eCommerce store powered by WooCommerce using their favourite frameworks that they know and love and I'm Co-Founder of [Perfect](https://perfectcheckout.com/). The best and fastest, single step, customizable headless hosted checkout out there that beats the likes of Bolt, Rally and even Shopify.
+
+* 🌱 I’m currently learning more about: React, GraphQL and Tailwind CSS.
+* 📫 How to reach me: [Twitter](https://twitter.com/sebd86)
+* 💬 If you use any of my projects, I'd love to hear from you! Don't be shy and let me know what you liked about and what needs being improved. Got an issue? Open a ticket and will try my best to help!
+* ☕ If you like the open source projects I work on or even use any of them. [Buy me a coffee](https://www.buymeacoffee.com/sebastien) to show your support.
+
+#### 🛒 CoCart [Developer News](https://cocart.dev)
+
+- [CoCart JWT Authentication v1.0.0 Release Notes](https://cocart.dev/cocart-jwt-authentication-v1-0-0-release-notes/) (4 months ago)
+- [CoCart v3.8 Release Notes](https://cocart.dev/cocart-v3-8-release-notes/) (4 months ago)
+- [RCF: Currency and Language Support](https://cocart.dev/rcf-currency-and-language-support/) (11 months ago)
+- [CoCart Lite v3.7 Release Notes](https://cocart.dev/cocart-lite-v3-7-release-notes/) (1 year ago)
+- [Roadmap to 4.0](https://cocart.dev/roadmap-to-4-0/) (1 year ago)
+
+#### 👷 Currently working on
 
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (1 day ago)
 - [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (3 days ago)
@@ -29,7 +46,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 5 months ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
 - [co-cart/cocart-beta-tester](https://github.com/co-cart/cocart-beta-tester) ([v2.2.0](https://github.com/co-cart/cocart-beta-tester/releases/tag/v2.2.0), 5 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 
-#### 🔨 Latest Pull Requests I published
+#### 🔨 Latest Pull Requests I have published
 
 - [Install modules on repository](https://github.com/co-cart/repo-labels/pull/1) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (3 months ago)
 - [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
@@ -37,7 +54,7 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 - [Update fork](https://github.com/seb86/coblocks-theme/pull/2) on [seb86/coblocks-theme](https://github.com/seb86/coblocks-theme) (1 year ago)
 - [Revert &#34;API v3 experiment&#34;](https://github.com/co-cart/co-cart/pull/316) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 year ago)
 
-#### ⭐ Recent stars
+#### ⭐ Recent Stars
 
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. (today)
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.  (3 days ago)
@@ -47,16 +64,3 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
-
-#### 💬 Feedback
-
-If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
-and what needs being improved. Got an issue? Open a ticket and will try my best to help!
-
-#### ☕ Support me
-
-If you like the open source projects I work on or even use any of them, you can [buy me a coffee](https://www.buymeacoffee.com/sebastien) to show your support. Thank you!
-
-#### 📫 How to reach me
-
-* [Twitter](https://twitter.com/sebd86)
