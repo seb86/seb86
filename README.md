@@ -39,11 +39,11 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 
 #### ⭐ Recent stars
 
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. (today)
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.  (3 days ago)
 - [ShendoXT/memcardrex](https://github.com/ShendoXT/memcardrex) - Advanced PlayStation 1 Memory Card editor (4 days ago)
 - [pilcrowOnPaper/lucia](https://github.com/pilcrowOnPaper/lucia) - Authentication, simple and clean (4 days ago)
 - [seisigmasrl/lemonsqueezy.php](https://github.com/seisigmasrl/lemonsqueezy.php) - Lemon Squeezy API SDK/Client for PHP. (4 days ago)
-- [marklawlor/nativewind](https://github.com/marklawlor/nativewind) - React Native utility-first universal design system - powered by Tailwind CSS (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
