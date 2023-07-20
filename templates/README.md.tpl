@@ -1,8 +1,22 @@
 ### Hi there 👋
 
-I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress developer. I am the creator of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woocommerce/).
+I'm [Sebastien Dumont](https://sebastiendumont.com/). I’ve worked in the WordPress space for over a decade, focusing on providing solutions for clients and customers alike that are deeply customizable but also very easy to use.
 
-#### 👷 Check out what I'm currently working on
+I’m a self-taught developer and since 2007, I’ve been using WordPress to build websites. I first started using it to blog random things while learning to code.
+
+I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woocommerce/) that takes the pain out of developing allowing developers to freely build an eCommerce store powered by WooCommerce using their favourite frameworks that they know and love and I'm Co-Founder of [Perfect](https://perfectcheckout.com/). The best and fastest, single step, customizable headless hosted checkout out there that beats the likes of Bolt, Rally and even Shopify.
+
+* 🌱 I’m currently learning more about: React, GraphQL and Tailwind CSS.
+* 📫 How to reach me: [Twitter](https://twitter.com/sebd86)
+* 💬 If you use any of my projects, I'd love to hear from you! Don't be shy and let me know what you liked about and what needs being improved. Got an issue? Open a ticket and will try my best to help!
+* ☕ If you like the open source projects I work on or even use any of them. [Buy me a coffee](https://www.buymeacoffee.com/sebastien) to show your support.
+
+#### 🛒 CoCart [Developer News](https://cocart.dev)
+{{range rss "https://cocart.dev/feed/" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+#### 👷 Currently working on
 {{range recentContributions 8}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
@@ -17,12 +31,12 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### 🔨 Latest Pull Requests I published
+#### 🔨 Latest Pull Requests I have published
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### ⭐ Recent stars
+#### ⭐ Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
@@ -31,16 +45,3 @@ I'm [Sebastien Dumont](https://sebastiendumont.com/), a full time WordPress deve
 {{range rss "https://sebastiendumont.com/feed/" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
-
-#### 💬 Feedback
-
-If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
-and what needs being improved. Got an issue? Open a ticket and will try my best to help!
-
-#### ☕ Support me
-
-If you like the open source projects I work on or even use any of them, you can [buy me a coffee](https://www.buymeacoffee.com/sebastien) to show your support. Thank you!
-
-#### 📫 How to reach me
-
-* [Twitter](https://twitter.com/sebd86)
