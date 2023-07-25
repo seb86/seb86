@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [fayazara/bring-back-twitter-bird](https://github.com/fayazara/bring-back-twitter-bird) - An extension which replaces the x logo with the og twitter bird logo (today)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (1 day ago)
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. (5 days ago)
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.  (1 week ago)
 - [ShendoXT/memcardrex](https://github.com/ShendoXT/memcardrex) - Advanced PlayStation 1 Memory Card editor (1 week ago)
-- [pilcrowOnPaper/lucia](https://github.com/pilcrowOnPaper/lucia) - Authentication, simple and clean (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
