@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [praydog/REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games (today)
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (1 day ago)
 - [kint-php/kint](https://github.com/kint-php/kint) - Kint - a powerful and modern PHP debugging tool. (1 day ago)
 - [KnowTheCode/debug-toolkit](https://github.com/KnowTheCode/debug-toolkit) - Code debug made easier and more enjoyable - WordPress Plugin (1 day ago)
 - [fayazara/bring-back-twitter-bird](https://github.com/fayazara/bring-back-twitter-bird) - An extension which replaces the x logo with the og twitter bird logo (1 day ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (2 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
