@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [expo/vscode-expo-theme](https://github.com/expo/vscode-expo-theme) (today)
 - [lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js) - Official JavaScript SDK for Lemon Squeezy. (4 days ago)
 - [praydog/REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games (5 days ago)
 - [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (6 days ago)
 - [kint-php/kint](https://github.com/kint-php/kint) - Kint - a powerful and modern PHP debugging tool. (6 days ago)
-- [KnowTheCode/debug-toolkit](https://github.com/KnowTheCode/debug-toolkit) - Code debug made easier and more enjoyable - WordPress Plugin (6 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
