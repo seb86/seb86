@@ -13,18 +13,18 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (1 day ago)
-- [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (2 days ago)
+- [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (2 days ago)
+- [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (3 days ago)
 - [CoCart JWT Authentication v1.0.0 Release Notes](https://cocart.dev/cocart-jwt-authentication-v1-0-0-release-notes/) (4 months ago)
 - [CoCart v3.8 Release Notes](https://cocart.dev/cocart-v3-8-release-notes/) (4 months ago)
 - [RCF: Currency and Language Support](https://cocart.dev/rcf-currency-and-language-support/) (11 months ago)
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (2 days ago)
-- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (2 days ago)
-- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (5 days ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (6 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (3 days ago)
+- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (3 days ago)
+- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (6 days ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 week ago)
 - [co-cart/repo-labels](https://github.com/co-cart/repo-labels) - GitHub action to sync a repo&#39;s issue labels across CoCart repositories. (2 weeks ago)
 - [co-cart/cocart-plugin-suggestions](https://github.com/co-cart/cocart-plugin-suggestions) - Manages the plugin suggestions before uploaded to server.  (2 weeks ago)
@@ -40,7 +40,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.0.0-beta.1](https://github.com/co-cart/co-cart/releases/tag/v4.0.0-beta.1), 2 days ago) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.0.0-beta.1](https://github.com/co-cart/co-cart/releases/tag/v4.0.0-beta.1), 3 days ago) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing.
 - [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) ([v3.3.0](https://github.com/co-cart/cocart-get-cart-enhanced/releases/tag/v3.3.0), 4 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.0](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.0), 4 months ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.0](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.0), 4 months ago) - Enables the rate limiting feature for CoCart.
@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js) - Official JavaScript SDK for Lemon Squeezy. (3 days ago)
-- [praydog/REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games (4 days ago)
-- [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (5 days ago)
-- [kint-php/kint](https://github.com/kint-php/kint) - Kint - a powerful and modern PHP debugging tool. (5 days ago)
-- [KnowTheCode/debug-toolkit](https://github.com/KnowTheCode/debug-toolkit) - Code debug made easier and more enjoyable - WordPress Plugin (5 days ago)
+- [lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js) - Official JavaScript SDK for Lemon Squeezy. (4 days ago)
+- [praydog/REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games (5 days ago)
+- [symfony/var-dumper](https://github.com/symfony/var-dumper) - Provides mechanisms for walking through any arbitrary PHP variable (6 days ago)
+- [kint-php/kint](https://github.com/kint-php/kint) - Kint - a powerful and modern PHP debugging tool. (6 days ago)
+- [KnowTheCode/debug-toolkit](https://github.com/KnowTheCode/debug-toolkit) - Code debug made easier and more enjoyable - WordPress Plugin (6 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
