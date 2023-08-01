@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/ (today)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (today)
 - [christopherarter/CoolCharts](https://github.com/christopherarter/CoolCharts) - 😎 (today)
 - [expo/vscode-expo-theme](https://github.com/expo/vscode-expo-theme) (1 day ago)
 - [lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js) - Official JavaScript SDK for Lemon Squeezy. (5 days ago)
-- [praydog/REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games (6 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
