@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [10up/wp_mock](https://github.com/10up/wp_mock) - WordPress API Mocking Framework (today)
+- [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - The easy and reliable way to test WordPress with Codeception. 10 years of proven success. (today)
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/ (1 day ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (1 day ago)
 - [christopherarter/CoolCharts](https://github.com/christopherarter/CoolCharts) - 😎 (1 day ago)
-- [expo/vscode-expo-theme](https://github.com/expo/vscode-expo-theme) (2 days ago)
-- [lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js) - Official JavaScript SDK for Lemon Squeezy. (6 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
