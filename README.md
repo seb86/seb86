@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [phpgl/flappyphpant](https://github.com/phpgl/flappyphpant) - A very simple Flappy Bird-like game written in PHP, built on PHP-GLFW and the VISU framework. (today)
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs (3 days ago)
 - [co-cart/cocart-plugin-suggestions](https://github.com/co-cart/cocart-plugin-suggestions) - Manages the plugin suggestions before uploaded to server.  (3 days ago)
 - [10up/wp_mock](https://github.com/10up/wp_mock) - WordPress API Mocking Framework (5 days ago)
 - [lucatume/wp-browser](https://github.com/lucatume/wp-browser) - The easy and reliable way to test WordPress with Codeception. 10 years of proven success. (5 days ago)
-- [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/ (6 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
