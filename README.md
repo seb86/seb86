@@ -13,11 +13,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
+- [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (today)
 - [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (1 week ago)
 - [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (1 week ago)
 - [CoCart JWT Authentication v1.0.0 Release Notes](https://cocart.dev/cocart-jwt-authentication-v1-0-0-release-notes/) (5 months ago)
 - [CoCart v3.8 Release Notes](https://cocart.dev/cocart-v3-8-release-notes/) (5 months ago)
-- [RCF: Currency and Language Support](https://cocart.dev/rcf-currency-and-language-support/) (1 year ago)
 
 #### 👷 Currently working on
 
