@@ -56,8 +56,8 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (today)
 - [10up/insecure-content-warning](https://github.com/10up/insecure-content-warning) - Prevent editors from adding insecure content in the editor. (1 day ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (2 days ago)
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation (2 days ago)
 - [phpgl/flappyphpant](https://github.com/phpgl/flappyphpant) - A very simple Flappy Bird-like game written in PHP, built on PHP-GLFW and the VISU framework. (3 days ago)
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs (6 days ago)
