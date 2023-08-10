@@ -13,11 +13,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
+- [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (today)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (2 days ago)
 - [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (1 week ago)
 - [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (1 week ago)
 - [CoCart JWT Authentication v1.0.0 Release Notes](https://cocart.dev/cocart-jwt-authentication-v1-0-0-release-notes/) (5 months ago)
-- [CoCart v3.8 Release Notes](https://cocart.dev/cocart-v3-8-release-notes/) (5 months ago)
 
 #### 👷 Currently working on
 
@@ -40,11 +40,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 🔭 Latest releases I've contributed to
 
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.0.0-beta.2](https://github.com/co-cart/co-cart/releases/tag/v4.0.0-beta.2), today) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing.
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.1](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.1), 2 days ago) - Enables the rate limiting feature for CoCart.
 - [co-cart/cocart-cors](https://github.com/co-cart/cocart-cors) ([v1.0.3](https://github.com/co-cart/cocart-cors/releases/tag/v1.0.3), 2 days ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) ([v4.0.1](https://github.com/co-cart/cocart-get-cart-enhanced/releases/tag/v4.0.1), 1 week ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.1](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.1), 1 week ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
-- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 6 months ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
 
 #### 🔨 Latest Pull Requests I have published
 
