@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [thebarbican19/EnalogSwift](https://github.com/thebarbican19/EnalogSwift) - The Official Enalog Swift Client Developed &amp; Maintained by Joe Barbour (today)
+- [thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi) - A Replacement for the Battery Icon in the MacOS Menu Bar.  (today)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (1 day ago)
 - [10up/insecure-content-warning](https://github.com/10up/insecure-content-warning) - Prevent editors from adding insecure content in the editor. (2 days ago)
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation (3 days ago)
-- [phpgl/flappyphpant](https://github.com/phpgl/flappyphpant) - A very simple Flappy Bird-like game written in PHP, built on PHP-GLFW and the VISU framework. (4 days ago)
-- [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
