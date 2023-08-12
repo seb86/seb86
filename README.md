@@ -22,7 +22,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 #### 👷 Currently working on
 
 - [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (1 day ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 day ago)
 - [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 day ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 day ago)
 - [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (1 day ago)
@@ -58,7 +58,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 - [thebarbican19/EnalogSwift](https://github.com/thebarbican19/EnalogSwift) - The Official Enalog Swift Client Developed &amp; Maintained by Joe Barbour (1 day ago)
 - [thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi) - A Replacement for the Battery Icon in the MacOS Menu Bar.  (1 day ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart brings everything you need to build fast and flexible headless stores – the only customizable REST API collection for WooCommerce that takes the pain out of developing. (2 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 days ago)
 - [10up/insecure-content-warning](https://github.com/10up/insecure-content-warning) - Prevent editors from adding insecure content in the editor. (3 days ago)
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation (4 days ago)
 
