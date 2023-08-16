@@ -13,22 +13,22 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (4 days ago)
-- [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (5 days ago)
+- [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (5 days ago)
+- [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (6 days ago)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (1 week ago)
 - [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (2 weeks ago)
 - [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (2 weeks ago)
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (today)
-- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (today)
-- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (2 days ago)
-- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (2 days ago)
-- [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (4 days ago)
-- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (4 days ago)
-- [co-cart/cocart-cart-callback-example](https://github.com/co-cart/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (4 days ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 day ago)
+- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 day ago)
+- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (3 days ago)
+- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (3 days ago)
+- [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (5 days ago)
+- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (5 days ago)
+- [co-cart/cocart-cart-callback-example](https://github.com/co-cart/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (5 days ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -56,10 +56,10 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [thebarbican19/EnalogSwift](https://github.com/thebarbican19/EnalogSwift) - The Official Enalog Swift Client Developed &amp; Maintained by Joe Barbour (4 days ago)
-- [thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi) - A Replacement for the Battery Icon in the MacOS Menu Bar.  (4 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (5 days ago)
-- [10up/insecure-content-warning](https://github.com/10up/insecure-content-warning) - Prevent editors from adding insecure content in the editor. (6 days ago)
+- [thebarbican19/EnalogSwift](https://github.com/thebarbican19/EnalogSwift) - The Official Enalog Swift Client Developed &amp; Maintained by Joe Barbour (5 days ago)
+- [thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi) - A Replacement for the Battery Icon in the MacOS Menu Bar.  (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (6 days ago)
+- [10up/insecure-content-warning](https://github.com/10up/insecure-content-warning) - Prevent editors from adding insecure content in the editor. (1 week ago)
 - [withastro/docs](https://github.com/withastro/docs) - Astro documentation (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
