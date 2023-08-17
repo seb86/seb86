@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla (today)
 - [WordPress/wp-movies-demo](https://github.com/WordPress/wp-movies-demo) - Demo of the Interactivity API (1 day ago)
 - [developeratul/lemonsqueezy-nextjs](https://github.com/developeratul/lemonsqueezy-nextjs) - How to implement subscription model using LemonSqueezy in Next.js (13.4 stable app router) (1 day ago)
 - [thebarbican19/EnalogSwift](https://github.com/thebarbican19/EnalogSwift) - The Official Enalog Swift Client Developed &amp; Maintained by Joe Barbour (6 days ago)
 - [thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi) - A Replacement for the Battery Icon in the MacOS Menu Bar.  (6 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
