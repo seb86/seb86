@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (today)
 - [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (2 days ago)
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js (2 days ago)
 - [gpbl/SwiftChart](https://github.com/gpbl/SwiftChart) - Line and area chart library for iOS (2 days ago)
 - [gpbl/react-day-picker](https://github.com/gpbl/react-day-picker) - DayPicker is a customizable date picker component for React, with native TypeScript support. (2 days ago)
-- [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla (2 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
