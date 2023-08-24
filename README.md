@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [WordPress/twentytwentyfour](https://github.com/WordPress/twentytwentyfour) (today)
 - [rollbar/rollbar-php](https://github.com/rollbar/rollbar-php) - Error tracking and logging from PHP to Rollbar (3 days ago)
 - [pmndrs/react-three-a11y](https://github.com/pmndrs/react-three-a11y) - ♿️ Accessibility tools for React Three Fiber (3 days ago)
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library (3 days ago)
 - [emilwidlund/alma](https://github.com/emilwidlund/alma) - An interactive playground for generative graphics. Combine nodes &amp; logic into WebGL shaders - all through an intuitive no-code interface. (3 days ago)
-- [hipstersmoothie/github-dark-high-contrast](https://github.com/hipstersmoothie/github-dark-high-contrast) (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
