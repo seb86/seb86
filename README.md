@@ -14,7 +14,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
 - [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (1 week ago)
-- [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (1 week ago)
+- [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (2 weeks ago)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (2 weeks ago)
 - [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (3 weeks ago)
 - [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (3 weeks ago)
@@ -22,8 +22,8 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 #### 👷 Currently working on
 
 - [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (today)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (today)
-- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 day ago)
+- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (2 days ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
 - [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (1 week ago)
 - [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (1 week ago)
@@ -42,8 +42,8 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.1](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.1), 2 weeks ago) - Enables the rate limiting feature for CoCart.
 - [co-cart/cocart-cors](https://github.com/co-cart/cocart-cors) ([v1.0.3](https://github.com/co-cart/cocart-cors/releases/tag/v1.0.3), 2 weeks ago) - Enables support for CORS to allow CoCart to work across multiple domains.
-- [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) ([v4.0.1](https://github.com/co-cart/cocart-get-cart-enhanced/releases/tag/v4.0.1), 2 weeks ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
-- [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.1](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.1), 2 weeks ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
+- [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) ([v4.0.1](https://github.com/co-cart/cocart-get-cart-enhanced/releases/tag/v4.0.1), 3 weeks ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
+- [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.1](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.1), 3 weeks ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 6 months ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
 
 #### 🔨 Latest Pull Requests I have published
@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [rollbar/rollbar-php](https://github.com/rollbar/rollbar-php) - Error tracking and logging from PHP to Rollbar (2 days ago)
-- [pmndrs/react-three-a11y](https://github.com/pmndrs/react-three-a11y) - ♿️ Accessibility tools for React Three Fiber (2 days ago)
-- [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library (2 days ago)
-- [emilwidlund/alma](https://github.com/emilwidlund/alma) - An interactive playground for generative graphics. Combine nodes &amp; logic into WebGL shaders - all through an intuitive no-code interface. (2 days ago)
-- [hipstersmoothie/github-dark-high-contrast](https://github.com/hipstersmoothie/github-dark-high-contrast) (3 days ago)
+- [rollbar/rollbar-php](https://github.com/rollbar/rollbar-php) - Error tracking and logging from PHP to Rollbar (3 days ago)
+- [pmndrs/react-three-a11y](https://github.com/pmndrs/react-three-a11y) - ♿️ Accessibility tools for React Three Fiber (3 days ago)
+- [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library (3 days ago)
+- [emilwidlund/alma](https://github.com/emilwidlund/alma) - An interactive playground for generative graphics. Combine nodes &amp; logic into WebGL shaders - all through an intuitive no-code interface. (3 days ago)
+- [hipstersmoothie/github-dark-high-contrast](https://github.com/hipstersmoothie/github-dark-high-contrast) (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
