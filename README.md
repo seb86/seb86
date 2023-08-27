@@ -17,15 +17,15 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 - [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (2 weeks ago)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (2 weeks ago)
 - [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (4 weeks ago)
-- [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (4 weeks ago)
+- [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (1 month ago)
 
 #### 👷 Currently working on
 
-- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 day ago)
-- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (2 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (3 days ago)
+- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (2 days ago)
+- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (3 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (4 days ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
-- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (1 week ago)
+- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (2 weeks ago)
 - [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (2 weeks ago)
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (2 weeks ago)
 - [co-cart/cocart-cart-callback-example](https://github.com/co-cart/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (2 weeks ago)
@@ -48,7 +48,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 🔨 Latest Pull Requests I have published
 
-- [Merge pull request #1 from co-cart/trunk](https://github.com/co-cart/repo-labels/pull/2) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (2 days ago)
+- [Merge pull request #1 from co-cart/trunk](https://github.com/co-cart/repo-labels/pull/2) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (3 days ago)
 - [Install modules on repository](https://github.com/co-cart/repo-labels/pull/1) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (4 months ago)
 - [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 months ago)
 - [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 months ago)
@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [hexagoncircle/ryan-mulligan-dev](https://github.com/hexagoncircle/ryan-mulligan-dev) - My very own space on the web (2 days ago)
-- [WordPress/twentytwentyfour](https://github.com/WordPress/twentytwentyfour) (2 days ago)
-- [rollbar/rollbar-php](https://github.com/rollbar/rollbar-php) - Error tracking and logging from PHP to Rollbar (5 days ago)
-- [pmndrs/react-three-a11y](https://github.com/pmndrs/react-three-a11y) - ♿️ Accessibility tools for React Three Fiber (5 days ago)
-- [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library (5 days ago)
+- [hexagoncircle/ryan-mulligan-dev](https://github.com/hexagoncircle/ryan-mulligan-dev) - My very own space on the web (3 days ago)
+- [WordPress/twentytwentyfour](https://github.com/WordPress/twentytwentyfour) (3 days ago)
+- [rollbar/rollbar-php](https://github.com/rollbar/rollbar-php) - Error tracking and logging from PHP to Rollbar (6 days ago)
+- [pmndrs/react-three-a11y](https://github.com/pmndrs/react-three-a11y) - ♿️ Accessibility tools for React Three Fiber (6 days ago)
+- [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library (6 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
