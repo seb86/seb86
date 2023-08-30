@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team. (today)
 - [generoi/sage-woocommerce](https://github.com/generoi/sage-woocommerce) (1 day ago)
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user&#39;s focus across the page (3 days ago)
 - [hexagoncircle/ryan-mulligan-dev](https://github.com/hexagoncircle/ryan-mulligan-dev) - My very own space on the web (6 days ago)
 - [WordPress/twentytwentyfour](https://github.com/WordPress/twentytwentyfour) (6 days ago)
-- [rollbar/rollbar-php](https://github.com/rollbar/rollbar-php) - Error tracking and logging from PHP to Rollbar (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
