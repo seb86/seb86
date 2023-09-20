@@ -21,11 +21,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 👷 Currently working on
 
-- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (4 days ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (4 days ago)
+- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (5 days ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (5 days ago)
 - [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (1 week ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
-- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 week ago)
+- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (2 weeks ago)
 - [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (1 month ago)
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (1 month ago)
 - [co-cart/cocart-cart-callback-example](https://github.com/co-cart/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (1 month ago)
@@ -52,15 +52,15 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 - [Install modules on repository](https://github.com/co-cart/repo-labels/pull/1) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (5 months ago)
 - [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (5 months ago)
 - [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (5 months ago)
-- [Update fork](https://github.com/seb86/coblocks-theme/pull/2) on [seb86/coblocks-theme](https://github.com/seb86/coblocks-theme) (1 year ago)
+- [Update fork](https://github.com/seb86/coblocks-theme/pull/2) on [seb86/coblocks-theme](https://github.com/seb86/coblocks-theme) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [commercelayer/mfe-checkout](https://github.com/commercelayer/mfe-checkout) - Commerce Layer Hosted Checkout (today)
-- [commercelayer/commercelayer-react-components](https://github.com/commercelayer/commercelayer-react-components) - The Official Commerce Layer React Components Library (today)
-- [commercelayer/commercelayer-sdk](https://github.com/commercelayer/commercelayer-sdk) - The official Commerce Layer JavaScript library wrapper, that makes it quick and easy to interact with Commerce Layer API. (today)
-- [commercelayer/mfe-cart](https://github.com/commercelayer/mfe-cart) - Commerce Layer Hosted Cart (today)
-- [mollie/mollie-api-php](https://github.com/mollie/mollie-api-php) - Mollie API client for PHP (today)
+- [commercelayer/mfe-checkout](https://github.com/commercelayer/mfe-checkout) - Commerce Layer Hosted Checkout (1 day ago)
+- [commercelayer/commercelayer-react-components](https://github.com/commercelayer/commercelayer-react-components) - The Official Commerce Layer React Components Library (1 day ago)
+- [commercelayer/commercelayer-sdk](https://github.com/commercelayer/commercelayer-sdk) - The official Commerce Layer JavaScript library wrapper, that makes it quick and easy to interact with Commerce Layer API. (1 day ago)
+- [commercelayer/mfe-cart](https://github.com/commercelayer/mfe-cart) - Commerce Layer Hosted Cart (1 day ago)
+- [mollie/mollie-api-php](https://github.com/mollie/mollie-api-php) - Mollie API client for PHP (1 day ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
