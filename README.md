@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers and living room home theater PCs. (today)
+- [ryanrudolfoba/SteamDeck-Windows-WiFi-Fix](https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix) - This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows. (today)
+- [Minibattle/WinDeckOS](https://github.com/Minibattle/WinDeckOS) - Simplifying Windows on Steam Deck with a custom image that makes it feel much more like steamOS and includes many ease of use additions. (today)
 - [deliciousbrains/wp-db-backup](https://github.com/deliciousbrains/wp-db-backup) (today)
 - [commercelayer/mfe-checkout](https://github.com/commercelayer/mfe-checkout) - Commerce Layer Hosted Checkout (2 days ago)
-- [commercelayer/commercelayer-react-components](https://github.com/commercelayer/commercelayer-react-components) - The Official Commerce Layer React Components Library (2 days ago)
-- [commercelayer/commercelayer-sdk](https://github.com/commercelayer/commercelayer-sdk) - The official Commerce Layer JavaScript library wrapper, that makes it quick and easy to interact with Commerce Layer API. (2 days ago)
-- [commercelayer/mfe-cart](https://github.com/commercelayer/mfe-cart) - Commerce Layer Hosted Cart (2 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
