@@ -57,7 +57,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 #### ⭐ Recent Stars
 
 - [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google. (today)
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers and living room home theater PCs. (1 day ago)
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs. (1 day ago)
 - [ryanrudolfoba/SteamDeck-Windows-WiFi-Fix](https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix) - This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows. (1 day ago)
 - [Minibattle/WinDeckOS](https://github.com/Minibattle/WinDeckOS) - Simplifying Windows on Steam Deck with a custom image that makes it feel much more like steamOS and includes many ease of use additions. (1 day ago)
 - [deliciousbrains/wp-db-backup](https://github.com/deliciousbrains/wp-db-backup) (1 day ago)
