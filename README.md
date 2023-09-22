@@ -21,8 +21,8 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 👷 Currently working on
 
-- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (6 days ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (6 days ago)
+- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 week ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
 - [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (1 week ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (2 weeks ago)
@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers and living room home theater PCs. (today)
-- [ryanrudolfoba/SteamDeck-Windows-WiFi-Fix](https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix) - This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows. (today)
-- [Minibattle/WinDeckOS](https://github.com/Minibattle/WinDeckOS) - Simplifying Windows on Steam Deck with a custom image that makes it feel much more like steamOS and includes many ease of use additions. (today)
-- [deliciousbrains/wp-db-backup](https://github.com/deliciousbrains/wp-db-backup) (today)
-- [commercelayer/mfe-checkout](https://github.com/commercelayer/mfe-checkout) - Commerce Layer Hosted Checkout (2 days ago)
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers and living room home theater PCs. (1 day ago)
+- [ryanrudolfoba/SteamDeck-Windows-WiFi-Fix](https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix) - This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows. (1 day ago)
+- [Minibattle/WinDeckOS](https://github.com/Minibattle/WinDeckOS) - Simplifying Windows on Steam Deck with a custom image that makes it feel much more like steamOS and includes many ease of use additions. (1 day ago)
+- [deliciousbrains/wp-db-backup](https://github.com/deliciousbrains/wp-db-backup) (1 day ago)
+- [commercelayer/mfe-checkout](https://github.com/commercelayer/mfe-checkout) - Commerce Layer Hosted Checkout (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
