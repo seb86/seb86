@@ -24,7 +24,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 - [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 week ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
 - [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (1 week ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 weeks ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (2 weeks ago)
 - [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (1 month ago)
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (1 month ago)
@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [10up/plugin-check](https://github.com/10up/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (1 day ago)
-- [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google. (2 days ago)
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs. (3 days ago)
-- [ryanrudolfoba/SteamDeck-Windows-WiFi-Fix](https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix) - This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows. (3 days ago)
-- [Minibattle/WinDeckOS](https://github.com/Minibattle/WinDeckOS) - Simplifying Windows on Steam Deck with a custom image that makes it feel much more like steamOS and includes many ease of use additions. (3 days ago)
+- [10up/plugin-check](https://github.com/10up/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (2 days ago)
+- [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google. (3 days ago)
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs. (4 days ago)
+- [ryanrudolfoba/SteamDeck-Windows-WiFi-Fix](https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix) - This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows. (4 days ago)
+- [Minibattle/WinDeckOS](https://github.com/Minibattle/WinDeckOS) - Simplifying Windows on Steam Deck with a custom image that makes it feel much more like steamOS and includes many ease of use additions. (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
