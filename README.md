@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [hntd187/re-speedrun-overlay](https://github.com/hntd187/re-speedrun-overlay) - An overlay to help speed runners of Resident Evil games (today)
+- [SpeedrunTooling/SRTPluginManager](https://github.com/SpeedrunTooling/SRTPluginManager) (today)
 - [10up/plugin-check](https://github.com/10up/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (2 days ago)
 - [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google. (3 days ago)
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs. (4 days ago)
-- [ryanrudolfoba/SteamDeck-Windows-WiFi-Fix](https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix) - This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows. (4 days ago)
-- [Minibattle/WinDeckOS](https://github.com/Minibattle/WinDeckOS) - Simplifying Windows on Steam Deck with a custom image that makes it feel much more like steamOS and includes many ease of use additions. (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
