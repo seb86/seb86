@@ -17,13 +17,13 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 - [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (1 month ago)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (1 month ago)
 - [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (1 month ago)
-- [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (1 month ago)
+- [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (2 months ago)
 
 #### 👷 Currently working on
 
 - [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 week ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 week ago)
-- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (1 week ago)
+- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (2 weeks ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 weeks ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (2 weeks ago)
 - [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (1 month ago)
@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [hntd187/re-speedrun-overlay](https://github.com/hntd187/re-speedrun-overlay) - An overlay to help speed runners of Resident Evil games (today)
-- [SpeedrunTooling/SRTPluginManager](https://github.com/SpeedrunTooling/SRTPluginManager) (today)
-- [10up/plugin-check](https://github.com/10up/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (2 days ago)
-- [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google. (3 days ago)
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs. (4 days ago)
+- [hntd187/re-speedrun-overlay](https://github.com/hntd187/re-speedrun-overlay) - An overlay to help speed runners of Resident Evil games (1 day ago)
+- [SpeedrunTooling/SRTPluginManager](https://github.com/SpeedrunTooling/SRTPluginManager) (1 day ago)
+- [10up/plugin-check](https://github.com/10up/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (3 days ago)
+- [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google. (4 days ago)
+- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs. (5 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
