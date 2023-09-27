@@ -58,7 +58,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 - [hntd187/re-speedrun-overlay](https://github.com/hntd187/re-speedrun-overlay) - An overlay to help speed runners of Resident Evil games (2 days ago)
 - [SpeedrunTooling/SRTPluginManager](https://github.com/SpeedrunTooling/SRTPluginManager) (2 days ago)
-- [10up/plugin-check](https://github.com/10up/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (4 days ago)
+- [WordPress/plugin-check](https://github.com/WordPress/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (4 days ago)
 - [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google. (5 days ago)
 - [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs. (6 days ago)
 
