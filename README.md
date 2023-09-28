@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [Freemius/wordpress-sdk](https://github.com/Freemius/wordpress-sdk) (today)
 - [lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js) - Official JavaScript SDK for Lemon Squeezy. (today)
 - [hntd187/re-speedrun-overlay](https://github.com/hntd187/re-speedrun-overlay) - An overlay to help speed runners of Resident Evil games (3 days ago)
 - [SpeedrunTooling/SRTPluginManager](https://github.com/SpeedrunTooling/SRTPluginManager) (3 days ago)
 - [WordPress/plugin-check](https://github.com/WordPress/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (5 days ago)
-- [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google. (6 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
