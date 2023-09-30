@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [LogSnag/logsnag.js](https://github.com/LogSnag/logsnag.js) (today)
 - [Freemius/wordpress-sdk](https://github.com/Freemius/wordpress-sdk) (2 days ago)
 - [lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js) - Official JavaScript SDK for Lemon Squeezy. (2 days ago)
 - [hntd187/re-speedrun-overlay](https://github.com/hntd187/re-speedrun-overlay) - An overlay to help speed runners of Resident Evil games (5 days ago)
 - [SpeedrunTooling/SRTPluginManager](https://github.com/SpeedrunTooling/SRTPluginManager) (5 days ago)
-- [WordPress/plugin-check](https://github.com/WordPress/plugin-check) - A repository for the new Plugin Check plugin from the WordPress Performance team (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
