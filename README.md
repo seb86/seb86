@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [Marc-Lou-Org/ship-fast-ts](https://github.com/Marc-Lou-Org/ship-fast-ts) - The NextJs boilerplate to ship. FAST. ⚡️ (today)
+- [Marc-Lou-Org/ship-fast](https://github.com/Marc-Lou-Org/ship-fast) - NextJs boilerplate to ship. FAST. (today)
+- [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React (today)
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center (today)
 - [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar. (1 day ago)
-- [LogSnag/logsnag.js](https://github.com/LogSnag/logsnag.js) (1 day ago)
-- [Freemius/wordpress-sdk](https://github.com/Freemius/wordpress-sdk) (3 days ago)
-- [lmsqueezy/lemonsqueezy.js](https://github.com/lmsqueezy/lemonsqueezy.js) - Official JavaScript SDK for Lemon Squeezy. (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
