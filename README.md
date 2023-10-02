@@ -59,7 +59,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 - [Marc-Lou-Org/ship-fast-ts](https://github.com/Marc-Lou-Org/ship-fast-ts) - The NextJs boilerplate to ship. FAST. ⚡️ (1 day ago)
 - [Marc-Lou-Org/ship-fast](https://github.com/Marc-Lou-Org/ship-fast) - NextJs boilerplate to ship. FAST. (1 day ago)
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React (1 day ago)
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center (1 day ago)
+- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀 (1 day ago)
 - [skiff-org/skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar. (2 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
