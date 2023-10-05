@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [jcsmorais/open-exchange-rates-lib](https://github.com/jcsmorais/open-exchange-rates-lib) - PHP library for the services provided by Open Exchange Rates: a real-time exchange rates API. (today)
-- [unfulvio/wp-currencies](https://github.com/unfulvio/wp-currencies) - :yen: Currency data and updated currency exchange rates for WordPress. (today)
-- [aveiv/open-exchange-rates-api](https://github.com/aveiv/open-exchange-rates-api) - PHP wrapper for Open Exchange Rates API (today)
-- [Marc-Lou-Org/ship-fast-ts](https://github.com/Marc-Lou-Org/ship-fast-ts) - The NextJs boilerplate to ship. FAST. ⚡️ (3 days ago)
-- [Marc-Lou-Org/ship-fast](https://github.com/Marc-Lou-Org/ship-fast) - NextJs boilerplate to ship. FAST. (3 days ago)
+- [jcsmorais/open-exchange-rates-lib](https://github.com/jcsmorais/open-exchange-rates-lib) - PHP library for the services provided by Open Exchange Rates: a real-time exchange rates API. (1 day ago)
+- [unfulvio/wp-currencies](https://github.com/unfulvio/wp-currencies) - :yen: Currency data and updated currency exchange rates for WordPress. (1 day ago)
+- [aveiv/open-exchange-rates-api](https://github.com/aveiv/open-exchange-rates-api) - PHP wrapper for Open Exchange Rates API (1 day ago)
+- [Marc-Lou-Org/ship-fast-ts](https://github.com/Marc-Lou-Org/ship-fast-ts) - The NextJs boilerplate to ship. FAST. ⚡️ (4 days ago)
+- [Marc-Lou-Org/ship-fast](https://github.com/Marc-Lou-Org/ship-fast) - NextJs boilerplate to ship. FAST. (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
