@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics &#43; free custom domains. (today)
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion. (today)
 - [jcsmorais/open-exchange-rates-lib](https://github.com/jcsmorais/open-exchange-rates-lib) - PHP library for the services provided by Open Exchange Rates: a real-time exchange rates API. (2 days ago)
 - [unfulvio/wp-currencies](https://github.com/unfulvio/wp-currencies) - :yen: Currency data and updated currency exchange rates for WordPress. (2 days ago)
 - [aveiv/open-exchange-rates-api](https://github.com/aveiv/open-exchange-rates-api) - PHP wrapper for Open Exchange Rates API (2 days ago)
-- [Marc-Lou-Org/ship-fast-ts](https://github.com/Marc-Lou-Org/ship-fast-ts) - The NextJs boilerplate to ship. FAST. ⚡️ (5 days ago)
-- [Marc-Lou-Org/ship-fast](https://github.com/Marc-Lou-Org/ship-fast) - NextJs boilerplate to ship. FAST. (5 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
