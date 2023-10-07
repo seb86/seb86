@@ -15,7 +15,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 - [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (1 month ago)
 - [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (1 month ago)
-- [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (1 month ago)
+- [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (2 months ago)
 - [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (2 months ago)
 - [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (2 months ago)
 
@@ -40,8 +40,8 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.1](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.1), 1 month ago) - Enables the rate limiting feature for CoCart.
-- [co-cart/cocart-cors](https://github.com/co-cart/cocart-cors) ([v1.0.3](https://github.com/co-cart/cocart-cors/releases/tag/v1.0.3), 1 month ago) - Enables support for CORS to allow CoCart to work across multiple domains.
+- [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.1](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.1), 2 months ago) - Enables the rate limiting feature for CoCart.
+- [co-cart/cocart-cors](https://github.com/co-cart/cocart-cors) ([v1.0.3](https://github.com/co-cart/cocart-cors/releases/tag/v1.0.3), 2 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) ([v4.0.1](https://github.com/co-cart/cocart-get-cart-enhanced/releases/tag/v4.0.1), 2 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.1](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.1), 2 months ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 8 months ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [equalizedigital/accessibility-checker](https://github.com/equalizedigital/accessibility-checker) (today)
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics &#43; free custom domains. (today)
-- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion. (today)
-- [jcsmorais/open-exchange-rates-lib](https://github.com/jcsmorais/open-exchange-rates-lib) - PHP library for the services provided by Open Exchange Rates: a real-time exchange rates API. (2 days ago)
-- [unfulvio/wp-currencies](https://github.com/unfulvio/wp-currencies) - :yen: Currency data and updated currency exchange rates for WordPress. (2 days ago)
+- [equalizedigital/accessibility-checker](https://github.com/equalizedigital/accessibility-checker) (1 day ago)
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics &#43; free custom domains. (1 day ago)
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion. (1 day ago)
+- [jcsmorais/open-exchange-rates-lib](https://github.com/jcsmorais/open-exchange-rates-lib) - PHP library for the services provided by Open Exchange Rates: a real-time exchange rates API. (3 days ago)
+- [unfulvio/wp-currencies](https://github.com/unfulvio/wp-currencies) - :yen: Currency data and updated currency exchange rates for WordPress. (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
