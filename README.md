@@ -21,9 +21,9 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 👷 Currently working on
 
-- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (today)
-- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (today)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (today)
+- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 day ago)
+- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 day ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (3 weeks ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 month ago)
 - [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (2 months ago)
@@ -56,10 +56,10 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React (4 days ago)
-- [equalizedigital/accessibility-checker](https://github.com/equalizedigital/accessibility-checker) (5 days ago)
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics &#43; free custom domains. (5 days ago)
-- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion. (5 days ago)
+- [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React (5 days ago)
+- [equalizedigital/accessibility-checker](https://github.com/equalizedigital/accessibility-checker) (6 days ago)
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics &#43; free custom domains. (6 days ago)
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion. (6 days ago)
 - [jcsmorais/open-exchange-rates-lib](https://github.com/jcsmorais/open-exchange-rates-lib) - PHP library for the services provided by Open Exchange Rates: a real-time exchange rates API. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
