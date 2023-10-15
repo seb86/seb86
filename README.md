@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [DeckWizard/steamdeck_dualboot](https://github.com/DeckWizard/steamdeck_dualboot) - jlobue10 Steam Deck rEFInd Script altered with a few tweaks (today)
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React (1 week ago)
 - [equalizedigital/accessibility-checker](https://github.com/equalizedigital/accessibility-checker) (1 week ago)
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics &#43; free custom domains. (1 week ago)
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion. (1 week ago)
-- [jcsmorais/open-exchange-rates-lib](https://github.com/jcsmorais/open-exchange-rates-lib) - PHP library for the services provided by Open Exchange Rates: a real-time exchange rates API. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
