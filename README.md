@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [Valkirie/HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) - ControllerService (today)
+- [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Experience Windows 11 in your way! (today)
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend &#43; admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. (today)
 - [jlobue10/SteamDeck_rEFInd](https://github.com/jlobue10/SteamDeck_rEFInd) - Simple rEFInd install script for the Steam Deck (with GUI customization) (1 day ago)
 - [DeckWizard/steamdeck_dualboot](https://github.com/DeckWizard/steamdeck_dualboot) - jlobue10 Steam Deck rEFInd Script altered with a few tweaks (1 day ago)
-- [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React (1 week ago)
-- [equalizedigital/accessibility-checker](https://github.com/equalizedigital/accessibility-checker) (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
