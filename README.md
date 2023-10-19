@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [dulnan/nuxt-graphql-middleware](https://github.com/dulnan/nuxt-graphql-middleware) - GraphQL in the backend, fetch in the frontend. With TypeScript support. (today)
 - [resendlabs/resend-openapi](https://github.com/resendlabs/resend-openapi) - Resend&#39;s OpenAPI Spec (1 day ago)
 - [OllieJones/index-wp-users-for-speed](https://github.com/OllieJones/index-wp-users-for-speed) - WordPress plugin: speed up handling on sites with many users. (3 days ago)
 - [Valkirie/HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) - ControllerService (3 days ago)
 - [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Experience Windows 11 in your way! (3 days ago)
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend &#43; admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
