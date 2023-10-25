@@ -23,7 +23,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 - [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 week ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
-- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (1 week ago)
+- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (2 weeks ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 month ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 month ago)
 - [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (2 months ago)
@@ -56,9 +56,9 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [godaddy-wordpress/woocommerce-sequential-order-numbers](https://github.com/godaddy-wordpress/woocommerce-sequential-order-numbers) - This plugin extends the WooCommerce e-commerce plugin by setting sequential order numbers for new orders. (2 days ago)
-- [dulnan/nuxt-graphql-middleware](https://github.com/dulnan/nuxt-graphql-middleware) - GraphQL in the backend, fetch in the frontend. With TypeScript support. (5 days ago)
-- [resendlabs/resend-openapi](https://github.com/resendlabs/resend-openapi) - Resend&#39;s OpenAPI Spec (6 days ago)
+- [godaddy-wordpress/woocommerce-sequential-order-numbers](https://github.com/godaddy-wordpress/woocommerce-sequential-order-numbers) - This plugin extends the WooCommerce e-commerce plugin by setting sequential order numbers for new orders. (3 days ago)
+- [dulnan/nuxt-graphql-middleware](https://github.com/dulnan/nuxt-graphql-middleware) - GraphQL in the backend, fetch in the frontend. With TypeScript support. (6 days ago)
+- [resendlabs/resend-openapi](https://github.com/resendlabs/resend-openapi) - Resend&#39;s OpenAPI Spec (1 week ago)
 - [OllieJones/index-wp-users-for-speed](https://github.com/OllieJones/index-wp-users-for-speed) - WordPress plugin: speed up handling on sites with many users. (1 week ago)
 - [Valkirie/HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) - ControllerService (1 week ago)
 
