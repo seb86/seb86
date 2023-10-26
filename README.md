@@ -17,7 +17,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 - [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (2 months ago)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (2 months ago)
 - [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (2 months ago)
-- [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (2 months ago)
+- [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (3 months ago)
 
 #### 👷 Currently working on
 
@@ -56,9 +56,9 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS (today)
-- [godaddy-wordpress/woocommerce-sequential-order-numbers](https://github.com/godaddy-wordpress/woocommerce-sequential-order-numbers) - This plugin extends the WooCommerce e-commerce plugin by setting sequential order numbers for new orders. (3 days ago)
-- [dulnan/nuxt-graphql-middleware](https://github.com/dulnan/nuxt-graphql-middleware) - GraphQL in the backend, fetch in the frontend. With TypeScript support. (6 days ago)
+- [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS (1 day ago)
+- [godaddy-wordpress/woocommerce-sequential-order-numbers](https://github.com/godaddy-wordpress/woocommerce-sequential-order-numbers) - This plugin extends the WooCommerce e-commerce plugin by setting sequential order numbers for new orders. (4 days ago)
+- [dulnan/nuxt-graphql-middleware](https://github.com/dulnan/nuxt-graphql-middleware) - GraphQL in the backend, fetch in the frontend. With TypeScript support. (1 week ago)
 - [resendlabs/resend-openapi](https://github.com/resendlabs/resend-openapi) - Resend&#39;s OpenAPI Spec (1 week ago)
 - [OllieJones/index-wp-users-for-speed](https://github.com/OllieJones/index-wp-users-for-speed) - WordPress plugin: speed up handling on sites with many users. (1 week ago)
 
