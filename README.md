@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [trouble/next-wp-rest](https://github.com/trouble/next-wp-rest) - A Headless WordPress &#43; NextJS Boilerplate. (today)
 - [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS (2 days ago)
 - [godaddy-wordpress/woocommerce-sequential-order-numbers](https://github.com/godaddy-wordpress/woocommerce-sequential-order-numbers) - This plugin extends the WooCommerce e-commerce plugin by setting sequential order numbers for new orders. (5 days ago)
 - [dulnan/nuxt-graphql-middleware](https://github.com/dulnan/nuxt-graphql-middleware) - GraphQL in the backend, fetch in the frontend. With TypeScript support. (1 week ago)
 - [resendlabs/resend-openapi](https://github.com/resendlabs/resend-openapi) - Resend&#39;s OpenAPI Spec (1 week ago)
-- [OllieJones/index-wp-users-for-speed](https://github.com/OllieJones/index-wp-users-for-speed) - WordPress plugin: speed up handling on sites with many users. (1 week ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
