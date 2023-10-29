@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React. (1 day ago)
-- [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of UI Snippets. (1 day ago)
-- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React. (1 day ago)
-- [trouble/next-wp-rest](https://github.com/trouble/next-wp-rest) - A Headless WordPress &#43; NextJS Boilerplate. (1 day ago)
-- [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS (3 days ago)
+- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React. (2 days ago)
+- [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of UI Snippets. (2 days ago)
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React. (2 days ago)
+- [trouble/next-wp-rest](https://github.com/trouble/next-wp-rest) - A Headless WordPress &#43; NextJS Boilerplate. (2 days ago)
+- [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
