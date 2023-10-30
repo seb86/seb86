@@ -21,8 +21,8 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 👷 Currently working on
 
-- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 week ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
+- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (2 weeks ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 weeks ago)
 - [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (2 weeks ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 month ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 month ago)
@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher, Glyph and Minecraft. Now with SD Card Support (today)
-- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React. (2 days ago)
-- [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of UI Snippets. (2 days ago)
-- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React. (2 days ago)
-- [trouble/next-wp-rest](https://github.com/trouble/next-wp-rest) - A Headless WordPress &#43; NextJS Boilerplate. (2 days ago)
+- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher, Glyph and Minecraft. Now with SD Card Support (1 day ago)
+- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React. (3 days ago)
+- [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of UI Snippets. (3 days ago)
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React. (3 days ago)
+- [trouble/next-wp-rest](https://github.com/trouble/next-wp-rest) - A Headless WordPress &#43; NextJS Boilerplate. (3 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
