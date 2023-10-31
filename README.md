@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher, Glyph and Minecraft. Now with SD Card Support (1 day ago)
-- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React. (3 days ago)
-- [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of UI Snippets. (3 days ago)
-- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React. (3 days ago)
-- [trouble/next-wp-rest](https://github.com/trouble/next-wp-rest) - A Headless WordPress &#43; NextJS Boilerplate. (3 days ago)
+- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher, Glyph and Minecraft. Now with SD Card Support (2 days ago)
+- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React. (4 days ago)
+- [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of UI Snippets. (4 days ago)
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React. (4 days ago)
+- [trouble/next-wp-rest](https://github.com/trouble/next-wp-rest) - A Headless WordPress &#43; NextJS Boilerplate. (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
