@@ -23,7 +23,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 - [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (2 weeks ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 weeks ago)
-- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (2 weeks ago)
+- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (3 weeks ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 month ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 month ago)
 - [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (2 months ago)
@@ -42,9 +42,9 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 - [co-cart/cocart-rate-limiting](https://github.com/co-cart/cocart-rate-limiting) ([v1.0.1](https://github.com/co-cart/cocart-rate-limiting/releases/tag/v1.0.1), 2 months ago) - Enables the rate limiting feature for CoCart.
 - [co-cart/cocart-cors](https://github.com/co-cart/cocart-cors) ([v1.0.3](https://github.com/co-cart/cocart-cors/releases/tag/v1.0.3), 2 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
-- [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) ([v4.0.1](https://github.com/co-cart/cocart-get-cart-enhanced/releases/tag/v4.0.1), 2 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
-- [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.1](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.1), 2 months ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
-- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 8 months ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
+- [co-cart/cocart-get-cart-enhanced](https://github.com/co-cart/cocart-get-cart-enhanced) ([v4.0.1](https://github.com/co-cart/cocart-get-cart-enhanced/releases/tag/v4.0.1), 3 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
+- [co-cart/cocart-jwt-authentication](https://github.com/co-cart/cocart-jwt-authentication) ([v1.0.1](https://github.com/co-cart/cocart-jwt-authentication/releases/tag/v1.0.1), 3 months ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
+- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) ([v4.0.0](https://github.com/co-cart/cocart-third-party/releases/tag/v4.0.0), 9 months ago) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart.
 
 #### 🔨 Latest Pull Requests I have published
 
@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher, Glyph and Minecraft. Now with SD Card Support (2 days ago)
-- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React. (4 days ago)
-- [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of UI Snippets. (4 days ago)
-- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React. (4 days ago)
-- [trouble/next-wp-rest](https://github.com/trouble/next-wp-rest) - A Headless WordPress &#43; NextJS Boilerplate. (4 days ago)
+- [moraroy/NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher, Glyph and Minecraft. Now with SD Card Support (3 days ago)
+- [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - An unstyled drawer component for React. (5 days ago)
+- [emilkowalski/ui-snippets](https://github.com/emilkowalski/ui-snippets) - A collection of UI Snippets. (5 days ago)
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React. (5 days ago)
+- [trouble/next-wp-rest](https://github.com/trouble/next-wp-rest) - A Headless WordPress &#43; NextJS Boilerplate. (5 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
