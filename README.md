@@ -48,8 +48,8 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 🔨 Latest Pull Requests I have published
 
-- [Merge pull request #1 from co-cart/trunk](https://github.com/co-cart/repo-labels/pull/2) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (2 months ago)
-- [Install modules on repository](https://github.com/co-cart/repo-labels/pull/1) on [co-cart/repo-labels](https://github.com/co-cart/repo-labels) (6 months ago)
+- [Merge pull request #1 from co-cart/trunk](https://github.com/cocart-headless/wp-repo-labels/pull/2) on [cocart-headless/wp-repo-labels](https://github.com/cocart-headless/wp-repo-labels) (2 months ago)
+- [Install modules on repository](https://github.com/cocart-headless/wp-repo-labels/pull/1) on [cocart-headless/wp-repo-labels](https://github.com/cocart-headless/wp-repo-labels) (6 months ago)
 - [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (6 months ago)
 - [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (6 months ago)
 - [Update fork](https://github.com/seb86/coblocks-theme/pull/2) on [seb86/coblocks-theme](https://github.com/seb86/coblocks-theme) (2 years ago)
