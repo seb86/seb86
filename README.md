@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (today)
 - [leerob/nextjs-postgres-email-client](https://github.com/leerob/nextjs-postgres-email-client) - An email client built with the Next.js App Router and Postgres as the database. (2 days ago)
 - [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (3 days ago)
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (3 days ago)
 - [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - A Next.js billing app with Lemon Squeezy (4 days ago)
-- [Pondorasti/tailwindcss-snippets](https://github.com/Pondorasti/tailwindcss-snippets) - Collection of animation snippets made for TailwindCSS (4 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
