@@ -13,7 +13,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (2 months ago)
+- [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (3 months ago)
 - [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (3 months ago)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (3 months ago)
 - [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (3 months ago)
@@ -21,14 +21,14 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (2 days ago)
+- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (3 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (3 weeks ago)
 - [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (3 weeks ago)
 - [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (4 weeks ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 month ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (2 months ago)
-- [cocart-headless/cocart-cart-callback-example](https://github.com/cocart-headless/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (2 months ago)
-- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (2 months ago)
+- [cocart-headless/cocart-cart-callback-example](https://github.com/cocart-headless/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (3 months ago)
+- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -40,7 +40,7 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### 🔭 Latest releases I've contributed to
 
-- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.4](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.4), 2 days ago) - Enables support for CORS to allow CoCart to work across multiple domains.
+- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.4](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.4), 3 days ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.1](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.1), 3 months ago) - Enables the rate limiting feature for CoCart.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.1](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.1), 3 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v1.0.1](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v1.0.1), 3 months ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
@@ -56,11 +56,11 @@ I am the Founder of [CoCart](https://wordpress.org/plugins/cart-rest-api-for-woo
 
 #### ⭐ Recent Stars
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 day ago)
-- [leerob/nextjs-postgres-email-client](https://github.com/leerob/nextjs-postgres-email-client) - An email client built with the Next.js App Router and Postgres as the database. (3 days ago)
-- [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (4 days ago)
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (4 days ago)
-- [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - A Next.js billing app with Lemon Squeezy (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 days ago)
+- [leerob/nextjs-postgres-email-client](https://github.com/leerob/nextjs-postgres-email-client) - An email client built with the Next.js App Router and Postgres as the database. (4 days ago)
+- [hardentools/hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (5 days ago)
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (5 days ago)
+- [lmsqueezy/nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - A Next.js billing app with Lemon Squeezy (6 days ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
