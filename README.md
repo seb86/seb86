@@ -56,9 +56,9 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
-- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (298 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores (today)
-- [pirsch-analytics/pirsch-js-sdk](https://github.com/pirsch-analytics/pirsch-js-sdk) - JavaScript Client SDK for Pirsch Analytics. (2 days ago)
-- [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS. (4 days ago)
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (298 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores (1 day ago)
+- [pirsch-analytics/pirsch-js-sdk](https://github.com/pirsch-analytics/pirsch-js-sdk) - JavaScript Client SDK for Pirsch Analytics. (3 days ago)
+- [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS. (5 days ago)
 - [ocean90/public-post-preview](https://github.com/ocean90/public-post-preview) - WordPress plugin to allow anonymous users to preview a post before it is published. (1 week ago)
 - [JakeChampion/polyfill-service](https://github.com/JakeChampion/polyfill-service) - Automatic polyfill service. (1 week ago)
 
