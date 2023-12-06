@@ -15,13 +15,13 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 - [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (3 months ago)
 - [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (3 months ago)
-- [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (3 months ago)
+- [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (4 months ago)
 - [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (4 months ago)
 - [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (4 months ago)
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (4 weeks ago)
+- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 month ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 month ago)
 - [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 month ago)
 - [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (1 month ago)
@@ -40,9 +40,9 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.10.0-beta.1](https://github.com/co-cart/co-cart/releases/tag/v3.10.0-beta.1), 1 week ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
-- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.4](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.4), 4 weeks ago) - Enables support for CORS to allow CoCart to work across multiple domains.
-- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.1](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.1), 3 months ago) - Enables the rate limiting feature for CoCart.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.10.0-beta.1](https://github.com/co-cart/co-cart/releases/tag/v3.10.0-beta.1), 2 weeks ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
+- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.4](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.4), 1 month ago) - Enables support for CORS to allow CoCart to work across multiple domains.
+- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.1](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.1), 4 months ago) - Enables the rate limiting feature for CoCart.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.1](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.1), 4 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v1.0.1](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v1.0.1), 4 months ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 
@@ -56,7 +56,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 days ago)
 - [spatie/once](https://github.com/spatie/once) - A magic memoization function (1 week ago)
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (298 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores (2 weeks ago)
 - [pirsch-analytics/pirsch-js-sdk](https://github.com/pirsch-analytics/pirsch-js-sdk) - JavaScript Client SDK for Pirsch Analytics. (2 weeks ago)
