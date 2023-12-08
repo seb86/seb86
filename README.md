@@ -14,7 +14,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
 - [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (3 months ago)
-- [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (3 months ago)
+- [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (4 months ago)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (4 months ago)
 - [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (4 months ago)
 - [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (4 months ago)
@@ -56,7 +56,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (3 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (4 days ago)
 - [spatie/once](https://github.com/spatie/once) - A magic memoization function (2 weeks ago)
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (298 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores (2 weeks ago)
 - [pirsch-analytics/pirsch-js-sdk](https://github.com/pirsch-analytics/pirsch-js-sdk) - JavaScript Client SDK for Pirsch Analytics. (2 weeks ago)
