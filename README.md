@@ -24,7 +24,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 month ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 month ago)
 - [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 month ago)
-- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (1 month ago)
+- [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (2 months ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (2 months ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (3 months ago)
 - [cocart-headless/cocart-cart-callback-example](https://github.com/cocart-headless/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (4 months ago)
@@ -56,7 +56,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (6 days ago)
 - [spatie/once](https://github.com/spatie/once) - A magic memoization function (2 weeks ago)
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (298 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores (2 weeks ago)
 - [pirsch-analytics/pirsch-js-sdk](https://github.com/pirsch-analytics/pirsch-js-sdk) - JavaScript Client SDK for Pirsch Analytics. (3 weeks ago)
