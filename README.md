@@ -56,10 +56,10 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
-- [wpengine/atlas-shopify-blueprint](https://github.com/wpengine/atlas-shopify-blueprint) - Atlas Shopify Blueprint (today)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (6 days ago)
+- [wpengine/atlas-shopify-blueprint](https://github.com/wpengine/atlas-shopify-blueprint) - Atlas Shopify Blueprint (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
 - [spatie/once](https://github.com/spatie/once) - A magic memoization function (2 weeks ago)
-- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (298 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores (2 weeks ago)
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (298 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores (3 weeks ago)
 - [pirsch-analytics/pirsch-js-sdk](https://github.com/pirsch-analytics/pirsch-js-sdk) - JavaScript Client SDK for Pirsch Analytics. (3 weeks ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
