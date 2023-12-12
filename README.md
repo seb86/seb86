@@ -56,7 +56,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
-- [wpengine/atlas-shopify-blueprint](https://github.com/wpengine/atlas-shopify-blueprint) - Atlas Shopify Blueprint (1 day ago)
+- [wpengine/atlas-shopify-blueprint](https://github.com/wpengine/atlas-shopify-blueprint) - Atlas Shopify Blueprint (2 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
 - [spatie/once](https://github.com/spatie/once) - A magic memoization function (2 weeks ago)
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (298 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores (3 weeks ago)
