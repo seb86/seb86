@@ -56,11 +56,11 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
+- [OllieWP/ollie-dash](https://github.com/OllieWP/ollie-dash) - A companion plugin for the Ollie theme. (today)
 - [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️ (today)
 - [wpengine/atlas-shopify-blueprint](https://github.com/wpengine/atlas-shopify-blueprint) - Atlas Shopify Blueprint (4 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
 - [spatie/once](https://github.com/spatie/once) - A magic memoization function (3 weeks ago)
-- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (298 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores (3 weeks ago)
 
 #### 📜 My recent [blog posts](https://sebastiendumont.com)
 
