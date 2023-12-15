@@ -22,8 +22,8 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 #### 👷 Currently working on
 
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 month ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 month ago)
-- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 month ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 months ago)
+- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (2 months ago)
 - [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (2 months ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (3 months ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (3 months ago)
@@ -56,9 +56,9 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
-- [OllieWP/ollie-dash](https://github.com/OllieWP/ollie-dash) - A companion plugin for the Ollie theme. (today)
-- [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️ (today)
-- [wpengine/atlas-shopify-blueprint](https://github.com/wpengine/atlas-shopify-blueprint) - Atlas Shopify Blueprint (4 days ago)
+- [OllieWP/ollie-dash](https://github.com/OllieWP/ollie-dash) - A companion plugin for the Ollie theme. (1 day ago)
+- [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️ (1 day ago)
+- [wpengine/atlas-shopify-blueprint](https://github.com/wpengine/atlas-shopify-blueprint) - Atlas Shopify Blueprint (5 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
 - [spatie/once](https://github.com/spatie/once) - A magic memoization function (3 weeks ago)
 
