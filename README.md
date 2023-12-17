@@ -56,8 +56,8 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
+- [btahir/next-shopify-starter](https://github.com/btahir/next-shopify-starter) - Nextjs &#43; Tailwind CSS &#43; Shopify Starter (today)
 - [iskurbanov/shopify-next.js-tailwind](https://github.com/iskurbanov/shopify-next.js-tailwind) - Learn the Shopify &#43; Next.js &#43; Tailwind CSS Stack! SWR, Hydrogen, &#43; more (today)
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (1 day ago)
 - [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library (2 days ago)
 - [OllieWP/ollie-dash](https://github.com/OllieWP/ollie-dash) - A companion plugin for the Ollie theme. (3 days ago)
-- [Coframe/coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️ (3 days ago)
