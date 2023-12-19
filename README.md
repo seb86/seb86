@@ -56,8 +56,8 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable (today)
-- [btahir/next-shopify-starter](https://github.com/btahir/next-shopify-starter) - Nextjs &#43; Tailwind CSS &#43; Shopify Starter (1 day ago)
-- [iskurbanov/shopify-next.js-tailwind](https://github.com/iskurbanov/shopify-next.js-tailwind) - Learn the Shopify &#43; Next.js &#43; Tailwind CSS Stack! SWR, Hydrogen, &#43; more (1 day ago)
-- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (2 days ago)
-- [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library (3 days ago)
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable (1 day ago)
+- [btahir/next-shopify-starter](https://github.com/btahir/next-shopify-starter) - Nextjs &#43; Tailwind CSS &#43; Shopify Starter (2 days ago)
+- [iskurbanov/shopify-next.js-tailwind](https://github.com/iskurbanov/shopify-next.js-tailwind) - Learn the Shopify &#43; Next.js &#43; Tailwind CSS Stack! SWR, Hydrogen, &#43; more (2 days ago)
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (3 days ago)
+- [primefaces/primereact](https://github.com/primefaces/primereact) - The Most Complete React UI Component Library (4 days ago)
