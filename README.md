@@ -56,8 +56,8 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
+- [brainstormforce/all-in-one-schemaorg-rich-snippets](https://github.com/brainstormforce/all-in-one-schemaorg-rich-snippets) - WordPress Plugin that Boost CTR. Improve SEO &amp; Rankings. Supports most of the content type. Works perfectly with Google, Bing, Yahoo &amp; Facebook. (today)
 - [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids  (today)
 - [smalltowndev/vajrawp](https://github.com/smalltowndev/vajrawp) - A starter WordPress plugin scaffold which comes pre-configured for block development, admin dashboard, onboarding and file autoloaders all while following standard WordPress functions and rules. (6 days ago)
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS. (1 week ago)
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing (1 week ago)
-- [thebarbican19/RateBoi](https://github.com/thebarbican19/RateBoi) - RateBoi is an open-source dependency for iOS &amp; MacOS designed to make it easy to trigger reviews at the right time, built for BatteryBoi &amp; SprintDock made by Joe Barbour (1 week ago)
