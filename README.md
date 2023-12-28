@@ -21,7 +21,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### 👷 Currently working on
 
-- [seb86/docs](https://github.com/seb86/docs) -  (6 days ago)
+- [seb86/docs](https://github.com/seb86/docs) -  (1 week ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 month ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 months ago)
 - [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (2 months ago)
@@ -56,7 +56,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
-- [smalltowndev/vajrawp](https://github.com/smalltowndev/vajrawp) - A starter WordPress plugin scaffold which comes pre-configured for block development, admin dashboard, onboarding and file autoloaders all while following standard WordPress functions and rules. (5 days ago)
+- [smalltowndev/vajrawp](https://github.com/smalltowndev/vajrawp) - A starter WordPress plugin scaffold which comes pre-configured for block development, admin dashboard, onboarding and file autoloaders all while following standard WordPress functions and rules. (6 days ago)
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS. (1 week ago)
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing (1 week ago)
 - [thebarbican19/RateBoi](https://github.com/thebarbican19/RateBoi) - RateBoi is an open-source dependency for iOS &amp; MacOS designed to make it easy to trigger reviews at the right time, built for BatteryBoi &amp; SprintDock made by Joe Barbour (1 week ago)
