@@ -56,8 +56,8 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
+- [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids  (today)
 - [smalltowndev/vajrawp](https://github.com/smalltowndev/vajrawp) - A starter WordPress plugin scaffold which comes pre-configured for block development, admin dashboard, onboarding and file autoloaders all while following standard WordPress functions and rules. (6 days ago)
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS. (1 week ago)
 - [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes) - Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing (1 week ago)
 - [thebarbican19/RateBoi](https://github.com/thebarbican19/RateBoi) - RateBoi is an open-source dependency for iOS &amp; MacOS designed to make it easy to trigger reviews at the right time, built for BatteryBoi &amp; SprintDock made by Joe Barbour (1 week ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
