@@ -13,11 +13,11 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
+- [CoCart v3.10 Released](https://cocart.dev/cocart-v3-10-released/) (today)
 - [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (4 months ago)
 - [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (4 months ago)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (4 months ago)
 - [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (5 months ago)
-- [What’s coming to CoCart v4](https://cocart.dev/whats-coming-to-cocart-v4/) (5 months ago)
 
 #### 👷 Currently working on
 
