@@ -13,7 +13,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart v3.10 Released](https://cocart.dev/cocart-v3-10-released/) (today)
+- [CoCart v3.10 Released](https://cocart.dev/cocart-v3-10-released/) (1 day ago)
 - [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (4 months ago)
 - [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (4 months ago)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (4 months ago)
@@ -56,8 +56,8 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
-- [KevinBatdorf/gutenberg-rust-starter](https://github.com/KevinBatdorf/gutenberg-rust-starter) - Gutenberg &#43; Rust &#43; TypeScript (today)
-- [brainstormforce/all-in-one-schemaorg-rich-snippets](https://github.com/brainstormforce/all-in-one-schemaorg-rich-snippets) - WordPress Plugin that Boost CTR. Improve SEO &amp; Rankings. Supports most of the content type. Works perfectly with Google, Bing, Yahoo &amp; Facebook. (1 day ago)
-- [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids  (1 day ago)
+- [KevinBatdorf/gutenberg-rust-starter](https://github.com/KevinBatdorf/gutenberg-rust-starter) - Gutenberg &#43; Rust &#43; TypeScript (1 day ago)
+- [brainstormforce/all-in-one-schemaorg-rich-snippets](https://github.com/brainstormforce/all-in-one-schemaorg-rich-snippets) - WordPress Plugin that Boost CTR. Improve SEO &amp; Rankings. Supports most of the content type. Works perfectly with Google, Bing, Yahoo &amp; Facebook. (2 days ago)
+- [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids  (2 days ago)
 - [smalltowndev/vajrawp](https://github.com/smalltowndev/vajrawp) - A starter WordPress plugin scaffold which comes pre-configured for block development, admin dashboard, onboarding and file autoloaders all while following standard WordPress functions and rules. (1 week ago)
 - [lmsqueezy/wedges](https://github.com/lmsqueezy/wedges) - An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS. (1 week ago)
