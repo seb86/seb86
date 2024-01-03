@@ -13,7 +13,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart v3.10 Released](https://cocart.dev/cocart-v3-10-released/) (4 days ago)
+- [CoCart v3.10 Released](https://cocart.dev/cocart-v3-10-released/) (5 days ago)
 - [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (4 months ago)
 - [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (4 months ago)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (4 months ago)
@@ -56,8 +56,8 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
-- [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image (today)
-- [KevinBatdorf/gutenberg-rust-starter](https://github.com/KevinBatdorf/gutenberg-rust-starter) - Gutenberg &#43; Rust &#43; TypeScript (4 days ago)
-- [brainstormforce/all-in-one-schemaorg-rich-snippets](https://github.com/brainstormforce/all-in-one-schemaorg-rich-snippets) - WordPress Plugin that Boost CTR. Improve SEO &amp; Rankings. Supports most of the content type. Works perfectly with Google, Bing, Yahoo &amp; Facebook. (5 days ago)
-- [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids  (5 days ago)
+- [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image (1 day ago)
+- [KevinBatdorf/gutenberg-rust-starter](https://github.com/KevinBatdorf/gutenberg-rust-starter) - Gutenberg &#43; Rust &#43; TypeScript (5 days ago)
+- [brainstormforce/all-in-one-schemaorg-rich-snippets](https://github.com/brainstormforce/all-in-one-schemaorg-rich-snippets) - WordPress Plugin that Boost CTR. Improve SEO &amp; Rankings. Supports most of the content type. Works perfectly with Google, Bing, Yahoo &amp; Facebook. (6 days ago)
+- [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids  (6 days ago)
 - [smalltowndev/vajrawp](https://github.com/smalltowndev/vajrawp) - A starter WordPress plugin scaffold which comes pre-configured for block development, admin dashboard, onboarding and file autoloaders all while following standard WordPress functions and rules. (1 week ago)
