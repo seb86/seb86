@@ -22,21 +22,21 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 #### 👷 Currently working on
 
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (today)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 months ago)
+- [seb86/self-hosted-status-page](https://github.com/seb86/self-hosted-status-page) - Self host your own status page for checking uptime for webpages or API&#39;s (today)
 - [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (2 months ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 months ago)
 - [co-cart/cocart-session-api](https://github.com/co-cart/cocart-session-api) - Provides administrators the ability to view and delete cart sessions with CoCart. (2 months ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (3 months ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (3 months ago)
-- [cocart-headless/cocart-cart-callback-example](https://github.com/cocart-headless/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (4 months ago)
-- [co-cart/cocart-compatibility](https://github.com/co-cart/cocart-compatibility) - Package containing compatibility support for CoCart. (4 months ago)
+- [co-cart/cocart-third-party](https://github.com/co-cart/cocart-third-party) - Package containing third party support for specific plugins, WooCommerce extensions and web hosts with CoCart. (4 months ago)
 
 #### 🌱 My latest projects
 
+- [seb86/self-hosted-status-page](https://github.com/seb86/self-hosted-status-page) - Self host your own status page for checking uptime for webpages or API&#39;s
 - [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API
 - [seb86/github-action-tests](https://github.com/seb86/github-action-tests) - A repo for testing GitHub actions.
 - [seb86/gatsby-starter-default](https://github.com/seb86/gatsby-starter-default) - The default Gatsby starter
 - [seb86/wcs-extend-next-payment-date](https://github.com/seb86/wcs-extend-next-payment-date) - Extends the next payment date of any new subscription defined by your `wp-config.php`. PHP v7&#43; required!
-- [seb86/wc-admin-notice-example](https://github.com/seb86/wc-admin-notice-example) - Adds a note to the merchant&#39;s inbox showing dummy text and two action buttons. Can be used as a template for creating your own.
 
 #### 🔭 Latest releases I've contributed to
 
