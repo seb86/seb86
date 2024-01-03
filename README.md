@@ -56,8 +56,8 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
+- [seb86/self-hosted-status-page](https://github.com/seb86/self-hosted-status-page) - Self host your own status page for checking uptime for webpages or API&#39;s (today)
 - [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image (1 day ago)
 - [KevinBatdorf/gutenberg-rust-starter](https://github.com/KevinBatdorf/gutenberg-rust-starter) - Gutenberg &#43; Rust &#43; TypeScript (5 days ago)
 - [brainstormforce/all-in-one-schemaorg-rich-snippets](https://github.com/brainstormforce/all-in-one-schemaorg-rich-snippets) - WordPress Plugin that Boost CTR. Improve SEO &amp; Rankings. Supports most of the content type. Works perfectly with Google, Bing, Yahoo &amp; Facebook. (6 days ago)
 - [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids  (6 days ago)
-- [smalltowndev/vajrawp](https://github.com/smalltowndev/vajrawp) - A starter WordPress plugin scaffold which comes pre-configured for block development, admin dashboard, onboarding and file autoloaders all while following standard WordPress functions and rules. (1 week ago)
