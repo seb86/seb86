@@ -13,7 +13,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart v3.10 Released](https://cocart.dev/cocart-v3-10-released/) (1 week ago)
+- [CoCart v3.10 Released](https://cocart.dev/cocart-v3-10-released/) (2 weeks ago)
 - [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (5 months ago)
 - [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (5 months ago)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (5 months ago)
@@ -21,8 +21,8 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### 👷 Currently working on
 
-- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 day ago)
-- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 day ago)
+- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (2 days ago)
+- [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (2 days ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 week ago)
 - [seb86/self-hosted-status-page](https://github.com/seb86/self-hosted-status-page) - Self host your own status page for checking uptime for webpages or API&#39;s (1 week ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 months ago)
@@ -50,8 +50,8 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 - [Merge pull request #1 from co-cart/trunk](https://github.com/cocart-headless/wp-repo-labels/pull/2) on [cocart-headless/wp-repo-labels](https://github.com/cocart-headless/wp-repo-labels) (4 months ago)
 - [Install modules on repository](https://github.com/cocart-headless/wp-repo-labels/pull/1) on [cocart-headless/wp-repo-labels](https://github.com/cocart-headless/wp-repo-labels) (8 months ago)
-- [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (8 months ago)
-- [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (8 months ago)
+- [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (9 months ago)
+- [Performance improvements](https://github.com/co-cart/co-cart/pull/376) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (9 months ago)
 - [Update fork](https://github.com/seb86/coblocks-theme/pull/2) on [seb86/coblocks-theme](https://github.com/seb86/coblocks-theme) (2 years ago)
 
 #### ⭐ Recent Stars
@@ -60,4 +60,4 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 - [createwithrani/superlist](https://github.com/createwithrani/superlist) - Nest multiple blocks inside lists of any kind of list (ordered, unordered, no marker, etc), or do away with list markers and use it like a repeater! (1 week ago)
 - [seb86/self-hosted-status-page](https://github.com/seb86/self-hosted-status-page) - Self host your own status page for checking uptime for webpages or API&#39;s (1 week ago)
 - [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image (1 week ago)
-- [KevinBatdorf/gutenberg-rust-starter](https://github.com/KevinBatdorf/gutenberg-rust-starter) - Gutenberg &#43; Rust &#43; TypeScript (1 week ago)
+- [KevinBatdorf/gutenberg-rust-starter](https://github.com/KevinBatdorf/gutenberg-rust-starter) - Gutenberg &#43; Rust &#43; TypeScript (2 weeks ago)
