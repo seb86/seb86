@@ -13,7 +13,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart v3.10 Released](https://cocart.dev/cocart-v3-10-released/) (2 weeks ago)
+- [CoCart v3.10 Released](https://cocart.dev/cocart-v3-10-released/) (3 weeks ago)
 - [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (5 months ago)
 - [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (5 months ago)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (5 months ago)
@@ -40,7 +40,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.10.2](https://github.com/co-cart/co-cart/releases/tag/v3.10.2), 3 days ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.10.2](https://github.com/co-cart/co-cart/releases/tag/v3.10.2), 4 days ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.5](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.5), 2 weeks ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.1](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.1), 5 months ago) - Enables the rate limiting feature for CoCart.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.1](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.1), 5 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
@@ -56,8 +56,8 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
-- [SvenGDK/PS-Multi-Tools](https://github.com/SvenGDK/PS-Multi-Tools) - Backup manager for PS1, PS2, PSX, PS3, PS4, PS5, PSP &amp; PS Vita, containing homebrews, firmwares &amp; tools. (today)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (3 days ago)
+- [SvenGDK/PS-Multi-Tools](https://github.com/SvenGDK/PS-Multi-Tools) - Backup manager for PS1, PS2, PSX, PS3, PS4, PS5, PSP &amp; PS Vita, containing homebrews, firmwares &amp; tools. (1 day ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (4 days ago)
 - [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (2 weeks ago)
 - [createwithrani/superlist](https://github.com/createwithrani/superlist) - Nest multiple blocks inside lists of any kind of list (ordered, unordered, no marker, etc), or do away with list markers and use it like a repeater! (2 weeks ago)
 - [seb86/self-hosted-status-page](https://github.com/seb86/self-hosted-status-page) - Self host your own status page for checking uptime for webpages or API&#39;s (2 weeks ago)
