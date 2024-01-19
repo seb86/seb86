@@ -56,8 +56,8 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 #### ⭐ Recent Stars
 
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (today)
 - [SvenGDK/PS-Multi-Tools](https://github.com/SvenGDK/PS-Multi-Tools) - Backup manager for PS1, PS2, PSX, PS3, PS4, PS5, PSP &amp; PS Vita, containing homebrews, firmwares &amp; tools. (1 day ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (4 days ago)
 - [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (2 weeks ago)
 - [createwithrani/superlist](https://github.com/createwithrani/superlist) - Nest multiple blocks inside lists of any kind of list (ordered, unordered, no marker, etc), or do away with list markers and use it like a repeater! (2 weeks ago)
-- [seb86/self-hosted-status-page](https://github.com/seb86/self-hosted-status-page) - Self host your own status page for checking uptime for webpages or API&#39;s (2 weeks ago)
