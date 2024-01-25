@@ -21,7 +21,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (5 months ago)
 - [CoCart v4 Beta 2 Release Notes](https://cocart.dev/cocart-v4-beta-2-release-notes/) (5 months ago)
 - [WooCommerce “HPOS” High-Performance Order Storage Compatibility](https://cocart.dev/woocommerce-hpos-high-performance-order-storage-compatibility/) (5 months ago)
-- [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (5 months ago)
+- [CoCart v4 Beta 1 Release Notes](https://cocart.dev/cocart-v4-beta-1-release-notes/) (6 months ago)
 
 #### 👷 Currently working on
 
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [stuttter/wp-multi-network](https://github.com/stuttter/wp-multi-network) - A network management interface for global multisite administrators (1 day ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (5 days ago)
-- [SvenGDK/PS-Multi-Tools](https://github.com/SvenGDK/PS-Multi-Tools) - Backup manager for PS1, PS2, PSX, PS3, PS4, PS5, PSP &amp; PS Vita, containing homebrews, firmwares &amp; tools. (6 days ago)
+- [stuttter/wp-multi-network](https://github.com/stuttter/wp-multi-network) - A network management interface for global multisite administrators (2 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (6 days ago)
+- [SvenGDK/PS-Multi-Tools](https://github.com/SvenGDK/PS-Multi-Tools) - Backup manager for PS1, PS2, PSX, PS3, PS4, PS5, PSP &amp; PS Vita, containing homebrews, firmwares &amp; tools. (1 week ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (1 week ago)
 - [aurooba/cpt](https://github.com/aurooba/cpt) - Quickly register custom post types and associated taxonomies with intelligent defaults in your WordPress projects. (3 weeks ago)
