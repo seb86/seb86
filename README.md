@@ -8,7 +8,7 @@ I’m a self-taught developer and since 2007, I’ve been using WordPress to bui
 
 I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](https://wordpress.org/plugins/cart-rest-api-for-woocommerce/) that provides a customizable REST API for WooCommerce designed to seamlessly decouple your online store from WordPress. Allowing you to decouple away from WordPress, and use your chosen framework to handle client-side tasks.
 
-Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooCommerce, Multisite, Gutenberg, Git, GitHub, Jira, Trello, Composer, GruntJS, Frontend, Backend, Full-Stack, English
+Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooCommerce, Multisite, Headless, Gutenberg, Git, GitHub, Jira, Trello, Composer, GruntJS, Frontend, Backend, Full-Stack, English
 
 * 🌱 I’m currently learning more about: Unit-Testing, React, GraphQL and Tailwind CSS.
 * 📫 How to reach me: [Twitter](https://twitter.com/sebd86)
