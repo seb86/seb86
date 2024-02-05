@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight JSX syntax highlighter, around 1KB after minified and gzipped (today)
 - [smarterdigitalltd/wordpress-admin-cleanup](https://github.com/smarterdigitalltd/wordpress-admin-cleanup) - A file to cleanup WordPress admin and make it client-ready! (1 week ago)
 - [furnacecreek/awesome-visionOS-apps](https://github.com/furnacecreek/awesome-visionOS-apps) - 🥽 A curated list of awesome apps designed for visionOS and Apple Vision Pro. (1 week ago)
 - [stuttter/wp-multi-network](https://github.com/stuttter/wp-multi-network) - A network management interface for global multisite administrators (1 week ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 weeks ago)
-- [SvenGDK/PS-Multi-Tools](https://github.com/SvenGDK/PS-Multi-Tools) - Backup manager for PS1, PS2, PSX, PS3, PS4, PS5, PSP &amp; PS Vita, containing homebrews, firmwares &amp; tools. (2 weeks ago)
