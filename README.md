@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.10.5](https://github.com/co-cart/co-cart/releases/tag/v3.10.5), 1 day ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.10.5](https://github.com/co-cart/co-cart/releases/tag/v3.10.5), 2 days ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.5](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.5), 1 month ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.1](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.1), 6 months ago) - Enables the rate limiting feature for CoCart.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.1](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.1), 6 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight JSX syntax highlighter, around 1KB after minified and gzipped (4 days ago)
-- [smarterdigitalltd/wordpress-admin-cleanup](https://github.com/smarterdigitalltd/wordpress-admin-cleanup) - A file to cleanup WordPress admin and make it client-ready! (1 week ago)
-- [furnacecreek/awesome-visionOS-apps](https://github.com/furnacecreek/awesome-visionOS-apps) - 🥽 A curated list of awesome apps designed for visionOS and Apple Vision Pro. (1 week ago)
+- [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight JSX syntax highlighter, around 1KB after minified and gzipped (5 days ago)
+- [smarterdigitalltd/wordpress-admin-cleanup](https://github.com/smarterdigitalltd/wordpress-admin-cleanup) - A file to cleanup WordPress admin and make it client-ready! (2 weeks ago)
+- [furnacecreek/awesome-visionOS-apps](https://github.com/furnacecreek/awesome-visionOS-apps) - 🥽 A curated list of awesome apps designed for visionOS and Apple Vision Pro. (2 weeks ago)
 - [stuttter/wp-multi-network](https://github.com/stuttter/wp-multi-network) - A network management interface for global multisite administrators (2 weeks ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (3 weeks ago)
