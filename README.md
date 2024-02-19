@@ -26,7 +26,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 #### 👷 Currently working on
 
 - [cocart-headless/cocart-benchmark-performance](https://github.com/cocart-headless/cocart-benchmark-performance) - Only whitelisted plugins will load when requesting CoCart to improve performance. (1 week ago)
-- [cocart-headless/cocart-plus-reports](https://github.com/cocart-headless/cocart-plus-reports) - This repository is for reporting bugs in CoCart Plus. It is not for asking support. (2 weeks ago)
+- [cocart-headless/cocart-plus-reports](https://github.com/cocart-headless/cocart-plus-reports) - This repository is for reporting bugs in CoCart Plus. It is not for asking support. (3 weeks ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (1 month ago)
 - [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 month ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 month ago)
@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.10.6](https://github.com/co-cart/co-cart/releases/tag/v3.10.6), 3 days ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.10.6](https://github.com/co-cart/co-cart/releases/tag/v3.10.6), 4 days ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
 - [cocart-headless/cocart-benchmark-performance](https://github.com/cocart-headless/cocart-benchmark-performance) ([v0.0.2](https://github.com/cocart-headless/cocart-benchmark-performance/releases/tag/v0.0.2), 1 week ago) - Only whitelisted plugins will load when requesting CoCart to improve performance.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.5](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.5), 1 month ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.1](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.1), 6 months ago) - Enables the rate limiting feature for CoCart.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [Brugman/decent-looking-emails](https://github.com/Brugman/decent-looking-emails) - A WordPress plugin that upgrades your system emails to HTML, with templates, without a UI. (5 days ago)
-- [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight JSX syntax highlighter, around 1KB after minified and gzipped (1 week ago)
+- [Brugman/decent-looking-emails](https://github.com/Brugman/decent-looking-emails) - A WordPress plugin that upgrades your system emails to HTML, with templates, without a UI. (6 days ago)
+- [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight JSX syntax highlighter, around 1KB after minified and gzipped (2 weeks ago)
 - [smarterdigitalltd/wordpress-admin-cleanup](https://github.com/smarterdigitalltd/wordpress-admin-cleanup) - A file to cleanup WordPress admin and make it client-ready! (3 weeks ago)
 - [furnacecreek/awesome-visionOS-apps](https://github.com/furnacecreek/awesome-visionOS-apps) - 🥽 A curated list of awesome apps designed for visionOS and Apple Vision Pro. (3 weeks ago)
 - [stuttter/wp-multi-network](https://github.com/stuttter/wp-multi-network) - A network management interface for global multisite administrators (3 weeks ago)
