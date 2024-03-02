@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [ChendoChap/pOOBs4](https://github.com/ChendoChap/pOOBs4) (today)
 - [bahia0019/multisite-superlist](https://github.com/bahia0019/multisite-superlist) - Replace the WordPress Multisite Sites List with a much better one (3 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (3 days ago)
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 AI-powered Textareas, in-app AI chatbots (with context-awareness &amp; actions), LangChain support, and more!  (1 week ago)
 - [Brugman/decent-looking-emails](https://github.com/Brugman/decent-looking-emails) - A WordPress plugin that upgrades your system emails to HTML, with templates, without a UI. (2 weeks ago)
-- [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight JSX syntax highlighter, around 1KB after minified and gzipped (3 weeks ago)
