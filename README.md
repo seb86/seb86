@@ -45,10 +45,10 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 #### 🔭 Latest releases I've contributed to
 
 - [cocart-headless/cocart-sniffs](https://github.com/cocart-headless/cocart-sniffs) ([0.0.3](https://github.com/cocart-headless/cocart-sniffs/releases/tag/0.0.3), 1 week ago) - Collection of PHP_CodeSniffer sniffs for CoCart
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v3.12.0-pre.1](https://github.com/co-cart/co-cart/releases/tag/v3.12.0-pre.1), 1 week ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
 - [cocart-headless/cocart-benchmark-performance](https://github.com/cocart-headless/cocart-benchmark-performance) ([v0.0.2](https://github.com/cocart-headless/cocart-benchmark-performance/releases/tag/v0.0.2), 1 month ago) - Only whitelisted plugins will load when requesting CoCart to improve performance.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.5](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.5), 2 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.1](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.1), 7 months ago) - Enables the rate limiting feature for CoCart.
+- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.1](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.1), 7 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 
 #### 🔨 Latest Pull Requests I have published
 
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 day ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (3 days ago)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (4 days ago)
 - [ibericode/vat-rates](https://github.com/ibericode/vat-rates) - Community maintained resource for VAT rates of EU member states (1 week ago)
-- [cebe/php-openapi](https://github.com/cebe/php-openapi) - Read and write OpenAPI yaml/json files and make the content accessible in PHP objects. (1 week ago)
+- [cebe/php-openapi](https://github.com/cebe/php-openapi) - Read and write OpenAPI yaml/json files and make the content accessible in PHP objects. (2 weeks ago)
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent. (2 weeks ago)
