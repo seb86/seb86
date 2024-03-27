@@ -27,8 +27,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 - [cocart-headless/cocart-sniffs](https://github.com/cocart-headless/cocart-sniffs) - Collection of PHP_CodeSniffer sniffs for CoCart (2 weeks ago)
 - [cocart-headless/cocart-vscode](https://github.com/cocart-headless/cocart-vscode) - A collection of CoCart snippets and autocompletions. (3 weeks ago)
-- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (4 weeks ago)
-- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (4 weeks ago)
+- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 month ago)
+- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 month ago)
 - [cocart-headless/cocart-benchmark-performance](https://github.com/cocart-headless/cocart-benchmark-performance) - Only whitelisted plugins will load when requesting CoCart to improve performance. (1 month ago)
 - [cocart-headless/cocart-plus-reports](https://github.com/cocart-headless/cocart-plus-reports) - This repository is for reporting bugs in CoCart Plus. It is not for asking support. (1 month ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (2 months ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [AuthorizeNet/sdk-php](https://github.com/AuthorizeNet/sdk-php) - PHP SDK for Authorize.Net API (5 days ago)
+- [AuthorizeNet/sdk-php](https://github.com/AuthorizeNet/sdk-php) - PHP SDK for Authorize.Net API (6 days ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 week ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
-- [ibericode/vat-rates](https://github.com/ibericode/vat-rates) - Community maintained resource for VAT rates of EU member states (2 weeks ago)
+- [ibericode/vat-rates](https://github.com/ibericode/vat-rates) - Community maintained resource for VAT rates of EU member states (3 weeks ago)
 - [cebe/php-openapi](https://github.com/cebe/php-openapi) - Read and write OpenAPI yaml/json files and make the content accessible in PHP objects. (3 weeks ago)
