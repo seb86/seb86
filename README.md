@@ -20,7 +20,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [Introducing CoCart Plus Support, Powerful Products API Enhancements and Performance Boost Updates!](https://cocart.dev/introducing-cocart-plus-support-powerful-products-api-enhancements-and-performance-boost-updates/) (1 month ago)
 - [CoCart Plus v1.2.0 Released](https://cocart.dev/cocart-plus-v1-2-0-released/) (1 month ago)
 - [CoCart Plus v1.1.0 Released](https://cocart.dev/cocart-plus-v1-1-0-released/) (1 month ago)
-- [CoCart v3.10 Released](https://cocart.dev/cocart-v3-10-released/) (2 months ago)
+- [CoCart v3.10 Released](https://cocart.dev/cocart-v3-10-released/) (3 months ago)
 - [CoCart v4 Beta 3 Release Notes](https://cocart.dev/cocart-v4-beta-3-release-notes/) (7 months ago)
 
 #### 👷 Currently working on
@@ -60,7 +60,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [AuthorizeNet/sdk-php](https://github.com/AuthorizeNet/sdk-php) - PHP SDK for Authorize.Net API (6 days ago)
+- [AuthorizeNet/sdk-php](https://github.com/AuthorizeNet/sdk-php) - PHP SDK for Authorize.Net API (1 week ago)
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 week ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
 - [ibericode/vat-rates](https://github.com/ibericode/vat-rates) - Community maintained resource for VAT rates of EU member states (3 weeks ago)
