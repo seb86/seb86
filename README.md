@@ -28,8 +28,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 weeks ago)
 - [cocart-headless/cocart-sniffs](https://github.com/cocart-headless/cocart-sniffs) - Collection of PHP_CodeSniffer sniffs for CoCart (1 month ago)
 - [cocart-headless/cocart-vscode](https://github.com/cocart-headless/cocart-vscode) - A collection of CoCart snippets and autocompletions. (1 month ago)
-- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (1 month ago)
-- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (1 month ago)
+- [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (2 months ago)
+- [co-cart/cocart-core](https://github.com/co-cart/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (2 months ago)
 - [cocart-headless/cocart-benchmark-performance](https://github.com/cocart-headless/cocart-benchmark-performance) - Only whitelisted plugins will load when requesting CoCart to improve performance. (2 months ago)
 - [cocart-headless/cocart-plus-reports](https://github.com/cocart-headless/cocart-plus-reports) - This repository is for reporting bugs in CoCart Plus. It is not for asking support. (2 months ago)
 - [co-cart/cocart-admin](https://github.com/co-cart/cocart-admin) - Package contains all the core admin features of CoCart. (3 months ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (3 days ago)
-- [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer (4 days ago)
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (4 days ago)
+- [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer (5 days ago)
 - [adamziel/playground-docs-workflow](https://github.com/adamziel/playground-docs-workflow) - Experimenting with maintaining WordPress docs using WordPress Playground (3 weeks ago)
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor. (4 weeks ago)
 - [AuthorizeNet/sdk-php](https://github.com/AuthorizeNet/sdk-php) - PHP SDK for Authorize.Net API (1 month ago)
