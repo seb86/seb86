@@ -17,15 +17,15 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [Progress on CoCart’s development and product decisions.](https://cocart.dev/progress-on-cocarts-development-and-product-decisions/) (4 days ago)
+- [Progress on CoCart’s development and product decisions.](https://cocart.dev/progress-on-cocarts-development-and-product-decisions/) (5 days ago)
 - [Introducing CoCart Plus Support, Powerful Products API Enhancements and Performance Boost Updates!](https://cocart.dev/introducing-cocart-plus-support-powerful-products-api-enhancements-and-performance-boost-updates/) (2 months ago)
 - [CoCart Plus v1.2.0 Released](https://cocart.dev/cocart-plus-v1-2-0-released/) (2 months ago)
-- [CoCart Plus v1.1.0 Released](https://cocart.dev/cocart-plus-v1-1-0-released/) (2 months ago)
+- [CoCart Plus v1.1.0 Released](https://cocart.dev/cocart-plus-v1-1-0-released/) (3 months ago)
 - [CoCart v3.10 Released](https://cocart.dev/cocart-v3-10-released/) (4 months ago)
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (2 days ago)
 - [cocart-headless/cocart-sniffs](https://github.com/cocart-headless/cocart-sniffs) - Collection of PHP_CodeSniffer sniffs for CoCart (1 month ago)
 - [cocart-headless/cocart-vscode](https://github.com/cocart-headless/cocart-vscode) - A collection of CoCart snippets and autocompletions. (2 months ago)
 - [co-cart/cocart-products-api](https://github.com/co-cart/cocart-products-api) - Provides a public view of the products on store for CoCart. (2 months ago)
@@ -60,7 +60,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme. (today)
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme. (1 day ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 week ago)
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer (1 week ago)
 - [adamziel/playground-docs-workflow](https://github.com/adamziel/playground-docs-workflow) - Experimenting with maintaining WordPress docs using WordPress Playground (4 weeks ago)
