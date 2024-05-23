@@ -17,11 +17,11 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
+- [CoCart Plus v1.4 Released: Rate Limiting Now Supported](https://cocart.dev/cocart-plus-v1-4-released-rate-limiting-now-supported/) (today)
 - [CoCart 4.0 Released: Now with cart batch support, and more](https://cocart.dev/cocart-4-0-released-now-with-cart-batch-support-and-more/) (1 week ago)
 - [CoCart Plus v1.3 Released: Security Patch, Local Activation Fix and Subscription Data for API v2](https://cocart.dev/cocart-plus-v1-3-released-subscription-data-for-api-v2/) (1 week ago)
 - [Progress on CoCart’s development and product decisions.](https://cocart.dev/progress-on-cocarts-development-and-product-decisions/) (3 weeks ago)
 - [Introducing CoCart Plus Support, Powerful Products API Enhancements and Performance Boost Updates!](https://cocart.dev/introducing-cocart-plus-support-powerful-products-api-enhancements-and-performance-boost-updates/) (2 months ago)
-- [CoCart Plus v1.2.0 Released](https://cocart.dev/cocart-plus-v1-2-0-released/) (3 months ago)
 
 #### 👷 Currently working on
 
