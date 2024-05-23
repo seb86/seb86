@@ -27,9 +27,9 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (today)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (6 days ago)
-- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 week ago)
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 week ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 week ago)
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 week ago)
+- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 week ago)
 - [cocart-headless/cocart-sniffs](https://github.com/cocart-headless/cocart-sniffs) - Collection of PHP_CodeSniffer sniffs for CoCart (2 months ago)
 - [cocart-headless/cocart-vscode](https://github.com/cocart-headless/cocart-vscode) - A collection of CoCart snippets and autocompletions. (2 months ago)
 - [cocart-headless/cocart-core](https://github.com/cocart-headless/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (2 months ago)
@@ -44,9 +44,9 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
+- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.3](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.3), today) - Enables the rate limiting feature for CoCart Plus or higher.
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.0.2](https://github.com/co-cart/co-cart/releases/tag/v4.0.2), 6 days ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v1.0.2](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v1.0.2), 1 week ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
-- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.2](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.2), 1 week ago) - Enables the rate limiting feature for CoCart Plus or higher.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.6](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.6), 1 week ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.2](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.2), 2 weeks ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 
