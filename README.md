@@ -17,22 +17,22 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart Plus v1.4 Released: Rate Limiting Now Supported](https://cocart.dev/cocart-plus-v1-4-released-rate-limiting-now-supported/) (2 days ago)
+- [CoCart Plus v1.4 Released: Rate Limiting Now Supported](https://cocart.dev/cocart-plus-v1-4-released-rate-limiting-now-supported/) (3 days ago)
 - [CoCart 4.0 Released: Now with cart batch support, and more](https://cocart.dev/cocart-4-0-released-now-with-cart-batch-support-and-more/) (1 week ago)
 - [CoCart Plus v1.3 Released: Security Patch, Local Activation Fix and Subscription Data for API v2](https://cocart.dev/cocart-plus-v1-3-released-subscription-data-for-api-v2/) (1 week ago)
-- [Progress on CoCart’s development and product decisions.](https://cocart.dev/progress-on-cocarts-development-and-product-decisions/) (4 weeks ago)
+- [Progress on CoCart’s development and product decisions.](https://cocart.dev/progress-on-cocarts-development-and-product-decisions/) (1 month ago)
 - [Introducing CoCart Plus Support, Powerful Products API Enhancements and Performance Boost Updates!](https://cocart.dev/introducing-cocart-plus-support-powerful-products-api-enhancements-and-performance-boost-updates/) (3 months ago)
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (2 days ago)
+- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (3 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (1 week ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (2 weeks ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (2 weeks ago)
 - [cocart-headless/cocart-sniffs](https://github.com/cocart-headless/cocart-sniffs) - Collection of PHP_CodeSniffer sniffs for CoCart (2 months ago)
 - [cocart-headless/cocart-vscode](https://github.com/cocart-headless/cocart-vscode) - A collection of CoCart snippets and autocompletions. (2 months ago)
-- [cocart-headless/cocart-core](https://github.com/cocart-headless/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (2 months ago)
+- [cocart-headless/cocart-core](https://github.com/cocart-headless/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.3](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.3), 2 days ago) - Enables the rate limiting feature for CoCart Plus or higher.
+- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.3](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.3), 3 days ago) - Enables the rate limiting feature for CoCart Plus or higher.
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.0.2](https://github.com/co-cart/co-cart/releases/tag/v4.0.2), 1 week ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v1.0.2](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v1.0.2), 2 weeks ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.6](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.6), 2 weeks ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [Kyome22/RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar. (4 days ago)
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions (5 days ago)
-- [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍 (5 days ago)
+- [Kyome22/RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar. (5 days ago)
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions (6 days ago)
+- [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍 (6 days ago)
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it&#39;s a JavaScript ORM too 😅 (1 week ago)
 - [GriffinJohnston/ldrs](https://github.com/GriffinJohnston/ldrs) - Modern, tree-shakeable loader &amp; spinner web components. Made with CSS, HTML and SVG. https://uiball.com/ldrs (1 week ago)
