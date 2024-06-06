@@ -17,11 +17,11 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
+- [CoCart Plus v1.5 Released: Batch Support and Customer Callback Enhanced](https://cocart.dev/cocart-plus-v1-5-released-batch-support-and-customer-callback-enhanced/) (today)
 - [CoCart Plus v1.4 Released: Rate Limiting Now Supported](https://cocart.dev/cocart-plus-v1-4-released-rate-limiting-now-supported/) (2 weeks ago)
 - [CoCart 4.0 Released: Now with cart batch support, and more](https://cocart.dev/cocart-4-0-released-now-with-cart-batch-support-and-more/) (3 weeks ago)
 - [CoCart Plus v1.3 Released: Security Patch, Local Activation Fix and Subscription Data for API v2](https://cocart.dev/cocart-plus-v1-3-released-subscription-data-for-api-v2/) (3 weeks ago)
 - [Progress on CoCart’s development and product decisions.](https://cocart.dev/progress-on-cocarts-development-and-product-decisions/) (1 month ago)
-- [Introducing CoCart Plus Support, Powerful Products API Enhancements and Performance Boost Updates!](https://cocart.dev/introducing-cocart-plus-support-powerful-products-api-enhancements-and-performance-boost-updates/) (3 months ago)
 
 #### 👷 Currently working on
 
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards (today)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (today)
 - [HandyPlugins/magic-login](https://github.com/HandyPlugins/magic-login) - Passwordless login for WordPress. https://handyplugins.co/magic-login-pro/  (1 day ago)
 - [cwsdigital/tailwind-utopia](https://github.com/cwsdigital/tailwind-utopia) - A Tailwind CSS plugin to generate utility classes for interpolated fluid type and space scales based off utopia.fyi (2 days ago)
 - [Kyome22/RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar. (2 weeks ago)
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions (2 weeks ago)
