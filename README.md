@@ -17,16 +17,16 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart 4.1 Released: Authentication enhanced, customer information and more](https://cocart.dev/cocart-4-1-released-authentication-enhanced-customer-information-and-more/) (3 days ago)
-- [CoCart Plus v1.5 Released: Batch Support and Customer Callback Enhanced](https://cocart.dev/cocart-plus-v1-5-released-batch-support-and-customer-callback-enhanced/) (4 days ago)
+- [CoCart 4.1 Released: Authentication enhanced, customer information and more](https://cocart.dev/cocart-4-1-released-authentication-enhanced-customer-information-and-more/) (4 days ago)
+- [CoCart Plus v1.5 Released: Batch Support and Customer Callback Enhanced](https://cocart.dev/cocart-plus-v1-5-released-batch-support-and-customer-callback-enhanced/) (5 days ago)
 - [CoCart Plus v1.4 Released: Rate Limiting Now Supported](https://cocart.dev/cocart-plus-v1-4-released-rate-limiting-now-supported/) (2 weeks ago)
 - [CoCart 4.0 Released: Now with cart batch support, and more](https://cocart.dev/cocart-4-0-released-now-with-cart-batch-support-and-more/) (4 weeks ago)
 - [CoCart Plus v1.3 Released: Security Patch, Local Activation Fix and Subscription Data for API v2](https://cocart.dev/cocart-plus-v1-3-released-subscription-data-for-api-v2/) (4 weeks ago)
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (3 days ago)
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (4 days ago)
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (6 days ago)
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (2 weeks ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 month ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 month ago)
@@ -44,8 +44,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.1.0](https://github.com/co-cart/co-cart/releases/tag/v4.1.0), 3 days ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v1.0.3](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v1.0.3), 5 days ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.1.0](https://github.com/co-cart/co-cart/releases/tag/v4.1.0), 4 days ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v1.0.3](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v1.0.3), 6 days ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.3](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.3), 2 weeks ago) - Enables the rate limiting feature for CoCart Plus or higher.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.6](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.6), 1 month ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.2](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.2), 1 month ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀 (today)
-- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) (4 days ago)
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards (4 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (4 days ago)
-- [HandyPlugins/magic-login](https://github.com/HandyPlugins/magic-login) - Passwordless login for WordPress. https://handyplugins.co/magic-login-pro/  (5 days ago)
+- [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀 (1 day ago)
+- [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) (5 days ago)
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (5 days ago)
+- [HandyPlugins/magic-login](https://github.com/HandyPlugins/magic-login) - Passwordless login for WordPress. https://handyplugins.co/magic-login-pro/  (6 days ago)
