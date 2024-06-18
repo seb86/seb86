@@ -32,7 +32,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 month ago)
 - [cocart-headless/cocart-sniffs](https://github.com/cocart-headless/cocart-sniffs) - Collection of PHP_CodeSniffer sniffs for CoCart (3 months ago)
 - [cocart-headless/cocart-vscode](https://github.com/cocart-headless/cocart-vscode) - A collection of CoCart snippets and autocompletions. (3 months ago)
-- [cocart-headless/cocart-core](https://github.com/cocart-headless/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (3 months ago)
+- [cocart-headless/cocart-products-api](https://github.com/cocart-headless/cocart-products-api) - Provides a public view of the products on store for CoCart. (3 months ago)
 
 #### 🌱 My latest projects
 
