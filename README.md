@@ -17,7 +17,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart 4.1 Released: Authentication enhanced, customer information and more](https://cocart.dev/cocart-4-1-released-authentication-enhanced-customer-information-and-more/) (1 week ago)
+- [CoCart 4.1 Released: Authentication enhanced, customer information and more](https://cocart.dev/cocart-4-1-released-authentication-enhanced-customer-information-and-more/) (2 weeks ago)
 - [CoCart Plus v1.5 Released: Batch Support and Customer Callback Enhanced](https://cocart.dev/cocart-plus-v1-5-released-batch-support-and-customer-callback-enhanced/) (2 weeks ago)
 - [CoCart Plus v1.4 Released: Rate Limiting Now Supported](https://cocart.dev/cocart-plus-v1-4-released-rate-limiting-now-supported/) (4 weeks ago)
 - [CoCart 4.0 Released: Now with cart batch support, and more](https://cocart.dev/cocart-4-0-released-now-with-cart-batch-support-and-more/) (1 month ago)
@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (3 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores. (4 days ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (4 weeks ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 month ago)
@@ -52,7 +52,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔨 Latest Pull Requests I have published
 
-- [Update branch](https://github.com/co-cart/co-cart/pull/418) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 days ago)
+- [Update branch](https://github.com/co-cart/co-cart/pull/418) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 days ago)
 - [Merge pull request #1 from co-cart/trunk](https://github.com/cocart-headless/wp-repo-labels/pull/2) on [cocart-headless/wp-repo-labels](https://github.com/cocart-headless/wp-repo-labels) (10 months ago)
 - [Install modules on repository](https://github.com/cocart-headless/wp-repo-labels/pull/1) on [cocart-headless/wp-repo-labels](https://github.com/cocart-headless/wp-repo-labels) (1 year ago)
 - [New Documentation](https://github.com/co-cart/co-cart/pull/377) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 year ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [Nenkai/gt-modding-hub](https://github.com/Nenkai/gt-modding-hub) (today)
-- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui. (5 days ago)
-- [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber (6 days ago)
+- [Nenkai/gt-modding-hub](https://github.com/Nenkai/gt-modding-hub) (1 day ago)
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui. (6 days ago)
+- [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber (1 week ago)
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀 (1 week ago)
 - [RhysSullivan/shiptalkers](https://github.com/RhysSullivan/shiptalkers) (2 weeks ago)
