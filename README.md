@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs. (today)
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era (today)
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (today)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (today)
 - [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people! (today)
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production (1 day ago)
-- [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer File that helps automatically debloat and customize Windows 10 &amp; 11 during the installation process. (2 days ago)
-- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search &amp; app launcher for Windows with community-made plugins (2 days ago)
