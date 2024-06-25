@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics (today)
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs. (1 day ago)
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era (1 day ago)
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (1 day ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 day ago)
-- [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people! (1 day ago)
