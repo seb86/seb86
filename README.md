@@ -17,7 +17,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart 4.2: Pre-release Updates](https://cocart.dev/cocart-4-2-pre-release-updates/) (today)
+- [CoCart 4.2: Pre-release Updates](https://cocart.dev/cocart-4-2-pre-release-updates/) (1 day ago)
 - [CoCart 4.1 Released: Authentication enhanced, customer information and more](https://cocart.dev/cocart-4-1-released-authentication-enhanced-customer-information-and-more/) (2 weeks ago)
 - [CoCart Plus v1.5 Released: Batch Support and Customer Callback Enhanced](https://cocart.dev/cocart-plus-v1-5-released-batch-support-and-customer-callback-enhanced/) (2 weeks ago)
 - [CoCart Plus v1.4 Released: Rate Limiting Now Supported](https://cocart.dev/cocart-plus-v1-4-released-rate-limiting-now-supported/) (1 month ago)
@@ -32,7 +32,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 month ago)
 - [cocart-headless/cocart-sniffs](https://github.com/cocart-headless/cocart-sniffs) - Collection of PHP_CodeSniffer sniffs for CoCart (3 months ago)
 - [cocart-headless/cocart-vscode](https://github.com/cocart-headless/cocart-vscode) - A collection of CoCart snippets and autocompletions. (3 months ago)
-- [cocart-headless/cocart-core](https://github.com/cocart-headless/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (3 months ago)
+- [cocart-headless/cocart-core](https://github.com/cocart-headless/cocart-core) - This is the core of CoCart that provides support for managing the user session and decouples WooCommerce. (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.2.0-beta.3](https://github.com/co-cart/co-cart/releases/tag/v4.2.0-beta.3), today) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.2.0-beta.3](https://github.com/co-cart/co-cart/releases/tag/v4.2.0-beta.3), 1 day ago) - 🛒 CoCart makes it easy to decouple your WooCommerce store via a customizable REST API that takes the pain out of developing – allowing you to build fast and flexible headless stores.
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v1.0.3](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v1.0.3), 2 weeks ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.3](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.3), 1 month ago) - Enables the rate limiting feature for CoCart Plus or higher.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.6](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.6), 1 month ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs. (today)
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era (today)
-- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (today)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (today)
-- [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people! (today)
+- [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs. (1 day ago)
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era (1 day ago)
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (1 day ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 day ago)
+- [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people! (1 day ago)
