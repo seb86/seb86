@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (today)
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place. (today)
 - [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics (today)
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs. (1 day ago)
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era (1 day ago)
-- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (1 day ago)
