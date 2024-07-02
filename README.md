@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [rynaldos-zz/wc-hide-shipping-methods-free](https://github.com/rynaldos-zz/wc-hide-shipping-methods-free) - WC plugin that lets you hide all other shipping methods when free shipping is available.It also lets you keep local pickup when other shipping methods are hidden.  (5 days ago)
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (6 days ago)
-- [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place. (6 days ago)
-- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics (6 days ago)
+- [rynaldos-zz/wc-hide-shipping-methods-free](https://github.com/rynaldos-zz/wc-hide-shipping-methods-free) - WC plugin that lets you hide all other shipping methods when free shipping is available.It also lets you keep local pickup when other shipping methods are hidden.  (6 days ago)
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (1 week ago)
+- [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place. (1 week ago)
+- [phpstan/phpdoc-parser](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics (1 week ago)
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs. (1 week ago)
