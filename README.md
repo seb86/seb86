@@ -52,11 +52,11 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔨 Latest Pull Requests I have published
 
+- [4.2-rc.2](https://github.com/co-cart/co-cart/pull/421) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (today)
 - [Updated README.md and plugin description](https://github.com/co-cart/co-cart/pull/420) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 days ago)
 - [v4.2 RC 1](https://github.com/co-cart/co-cart/pull/419) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (5 days ago)
 - [Update branch](https://github.com/co-cart/co-cart/pull/418) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
 - [Merge pull request #1 from co-cart/trunk](https://github.com/cocart-headless/wp-repo-labels/pull/2) on [cocart-headless/wp-repo-labels](https://github.com/cocart-headless/wp-repo-labels) (10 months ago)
-- [Install modules on repository](https://github.com/cocart-headless/wp-repo-labels/pull/1) on [cocart-headless/wp-repo-labels](https://github.com/cocart-headless/wp-repo-labels) (1 year ago)
 
 #### ⭐ Recent Stars
 
