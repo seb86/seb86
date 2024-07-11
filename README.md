@@ -25,6 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
+- [seb86/timezones](https://github.com/seb86/timezones) - A simple PHP class that lists all timezones by country and region. (today)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (today)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (today)
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (1 month ago)
@@ -32,15 +33,14 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (2 months ago)
 - [cocart-headless/cocart-sniffs](https://github.com/cocart-headless/cocart-sniffs) - Collection of PHP_CodeSniffer sniffs for CoCart (4 months ago)
 - [cocart-headless/cocart-vscode](https://github.com/cocart-headless/cocart-vscode) - A collection of CoCart snippets and autocompletions. (4 months ago)
-- [cocart-headless/cocart-products-api](https://github.com/cocart-headless/cocart-products-api) - Provides a public view of the products on store for CoCart. (4 months ago)
 
 #### 🌱 My latest projects
 
+- [seb86/timezones](https://github.com/seb86/timezones) - A simple PHP class that lists all timezones by country and region.
 - [seb86/self-hosted-status-page](https://github.com/seb86/self-hosted-status-page) - Self host your own status page for checking uptime for webpages or API&#39;s
 - [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API
 - [seb86/github-action-tests](https://github.com/seb86/github-action-tests) - A repo for testing GitHub actions.
 - [seb86/gatsby-starter-default](https://github.com/seb86/gatsby-starter-default) - The default Gatsby starter
-- [seb86/wcs-extend-next-payment-date](https://github.com/seb86/wcs-extend-next-payment-date) - Extends the next payment date of any new subscription defined by your `wp-config.php`. PHP v7&#43; required!
 
 #### 🔭 Latest releases I've contributed to
 
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [seb86/timezones](https://github.com/seb86/timezones) - A simple PHP class that lists all timezones by country and region. (today)
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11. (6 days ago)
 - [Really-Simple-Plugins/complianz-gdpr](https://github.com/Really-Simple-Plugins/complianz-gdpr) - Complianz Privacy Suite (GDPR/CCPA) (6 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (1 week ago)
 - [adrianmg/github-pewpew](https://github.com/adrianmg/github-pewpew) - 🔫 Pew pew needless GitHub repos from your CLI! (1 week ago)
-- [raycast/ray-so](https://github.com/raycast/ray-so) - Create code snippets, browse AI prompts, create extension icons and more. (1 week ago)
