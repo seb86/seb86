@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (today)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (5 days ago)
 - [seb86/timezones](https://github.com/seb86/timezones) - A simple PHP class that lists all timezones by country and region. (1 week ago)
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (1 month ago)
