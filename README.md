@@ -18,19 +18,19 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
 - [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (1 week ago)
-- [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (2 weeks ago)
+- [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (3 weeks ago)
 - [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (3 weeks ago)
-- [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (3 weeks ago)
+- [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (4 weeks ago)
 - [CoCart 4.2: Pre-release Updates](https://cocart.dev/cocart-4-2-pre-release-updates/) (1 month ago)
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (today)
-- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (4 days ago)
-- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (5 days ago)
-- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (1 day ago)
+- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (5 days ago)
+- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (6 days ago)
+- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (6 days ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
-- [seb86/timezones](https://github.com/seb86/timezones) - A simple PHP class that lists all timezones by country and region. (2 weeks ago)
+- [seb86/timezones](https://github.com/seb86/timezones) - A simple PHP class that lists all timezones by country and region. (3 weeks ago)
 - [cocart-headless/cocart-sniffs](https://github.com/cocart-headless/cocart-sniffs) - Collection of PHP_CodeSniffer sniffs for CoCart (4 months ago)
 - [cocart-headless/cocart-vscode](https://github.com/cocart-headless/cocart-vscode) - A collection of CoCart snippets and autocompletions. (5 months ago)
 
@@ -44,9 +44,9 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.3](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.3), 4 days ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
-- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 5 days ago) - Enables support for CORS to allow CoCart to work across multiple domains.
-- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.4](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.4), 5 days ago) - Enables the rate limiting feature for CoCart Plus or higher.
+- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.3](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.3), 5 days ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
+- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 6 days ago) - Enables support for CORS to allow CoCart to work across multiple domains.
+- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.4](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.4), 6 days ago) - Enables the rate limiting feature for CoCart Plus or higher.
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v1.0.3](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v1.0.3), 1 month ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-sniffs](https://github.com/cocart-headless/cocart-sniffs) ([0.0.3](https://github.com/cocart-headless/cocart-sniffs/releases/tag/0.0.3), 4 months ago) - Collection of PHP_CodeSniffer sniffs for CoCart
 
@@ -56,12 +56,12 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [v4.3](https://github.com/co-cart/co-cart/pull/424) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 weeks ago)
 - [4.2-rc.2](https://github.com/co-cart/co-cart/pull/421) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
 - [Updated README.md and plugin description](https://github.com/co-cart/co-cart/pull/420) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
-- [v4.2 RC 1](https://github.com/co-cart/co-cart/pull/419) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
+- [v4.2 RC 1](https://github.com/co-cart/co-cart/pull/419) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [hosmelq/laravel-logsnag](https://github.com/hosmelq/laravel-logsnag) - Integrate the power of LogSnag&#39;s real-time event tracking into your Laravel application. (1 day ago)
-- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans (1 day ago)
-- [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google&#39;s doomed apps, services, and hardware. (3 days ago)
-- [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React &amp; Next.js, built on top of TailwindCSS (4 days ago)
+- [hosmelq/laravel-logsnag](https://github.com/hosmelq/laravel-logsnag) - Integrate the power of LogSnag&#39;s real-time event tracking into your Laravel application. (2 days ago)
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans (2 days ago)
+- [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google&#39;s doomed apps, services, and hardware. (4 days ago)
+- [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React &amp; Next.js, built on top of TailwindCSS (5 days ago)
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API (2 weeks ago)
