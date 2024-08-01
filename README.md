@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [bacoords/example-wp-settings](https://github.com/bacoords/example-wp-settings) - This is an example of a JavaScript and WP REST API-powered WordPress settings page. (today)
 - [hosmelq/laravel-logsnag](https://github.com/hosmelq/laravel-logsnag) - Integrate the power of LogSnag&#39;s real-time event tracking into your Laravel application. (2 days ago)
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans (2 days ago)
 - [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google&#39;s doomed apps, services, and hardware. (4 days ago)
 - [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React &amp; Next.js, built on top of TailwindCSS (5 days ago)
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API (2 weeks ago)
