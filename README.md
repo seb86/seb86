@@ -6,7 +6,7 @@ I’ve tackled challenges were others have failed many times where my out-the-bo
 
 I’m a self-taught developer and since 2007, I’ve been using WordPress to build websites. I first started using it to blog random things while learning to code.
 
-I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](https://wordpress.org/plugins/cart-rest-api-for-woocommerce/) that provides a customizable REST API for WooCommerce designed to seamlessly decouple your online store from WordPress. Allowing you to decouple away from WordPress, and use your chosen framework to handle client-side tasks.
+I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](https://wordpress.org/plugins/cart-rest-api-for-woocommerce/) that is a open-source REST API solution built for WooCommerce that is ready to decouple away from WordPress, allowing you to design and build without limitations imposed by a WordPress theme that is harder to modify and optimize.
 
 Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooCommerce, Multisite, Headless, Gutenberg, Git, GitHub, Jira, Trello, Composer, GruntJS, Frontend, Backend, Full-Stack, English
 
