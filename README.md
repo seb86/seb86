@@ -20,13 +20,13 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (2 weeks ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (3 weeks ago)
 - [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (3 weeks ago)
-- [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (4 weeks ago)
+- [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (1 month ago)
 - [CoCart 4.2: Pre-release Updates](https://cocart.dev/cocart-4-2-pre-release-updates/) (1 month ago)
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (2 days ago)
-- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (6 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (3 days ago)
+- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 week ago)
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (1 week ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 week ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.3](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.3), 6 days ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
+- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.3](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.3), 1 week ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 1 week ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.4](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.4), 1 week ago) - Enables the rate limiting feature for CoCart Plus or higher.
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v1.0.3](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v1.0.3), 1 month ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
@@ -56,12 +56,12 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [v4.3](https://github.com/co-cart/co-cart/pull/424) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 weeks ago)
 - [4.2-rc.2](https://github.com/co-cart/co-cart/pull/421) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
 - [Updated README.md and plugin description](https://github.com/co-cart/co-cart/pull/420) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 weeks ago)
-- [v4.2 RC 1](https://github.com/co-cart/co-cart/pull/419) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 weeks ago)
+- [v4.2 RC 1](https://github.com/co-cart/co-cart/pull/419) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [bacoords/example-wp-settings](https://github.com/bacoords/example-wp-settings) - This is an example of a JavaScript and WP REST API-powered WordPress settings page. (1 day ago)
-- [hosmelq/laravel-logsnag](https://github.com/hosmelq/laravel-logsnag) - Integrate the power of LogSnag&#39;s real-time event tracking into your Laravel application. (3 days ago)
-- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans (3 days ago)
-- [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google&#39;s doomed apps, services, and hardware. (5 days ago)
-- [danmindru/page-ui](https://github.com/danmindru/page-ui) - 📃 Landing page UI components for React &amp; Next.js, built on top of TailwindCSS (6 days ago)
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag &amp; drop toolkit for React. (1 day ago)
+- [bacoords/example-wp-settings](https://github.com/bacoords/example-wp-settings) - This is an example of a JavaScript and WP REST API-powered WordPress settings page. (2 days ago)
+- [hosmelq/laravel-logsnag](https://github.com/hosmelq/laravel-logsnag) - Integrate the power of LogSnag&#39;s real-time event tracking into your Laravel application. (4 days ago)
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans (4 days ago)
+- [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google&#39;s doomed apps, services, and hardware. (6 days ago)
