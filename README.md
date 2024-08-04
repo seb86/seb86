@@ -25,6 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
+- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (today)
 - [cocart-headless/cocart-cart-callback-example](https://github.com/cocart-headless/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (today)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (1 day ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 week ago)
@@ -32,7 +33,6 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 week ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
 - [seb86/timezones](https://github.com/seb86/timezones) - A simple PHP class that lists all timezones by country and region. (3 weeks ago)
-- [cocart-headless/cocart-sniffs](https://github.com/cocart-headless/cocart-sniffs) - Collection of PHP_CodeSniffer sniffs for CoCart (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -44,11 +44,11 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
+- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), today) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.4](https://github.com/co-cart/co-cart/releases/tag/v4.3.4), 1 day ago) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.3](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.3), 1 week ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 1 week ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.4](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.4), 1 week ago) - Enables the rate limiting feature for CoCart Plus or higher.
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v1.0.3](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v1.0.3), 2 months ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 
 #### 🔨 Latest Pull Requests I have published
 
