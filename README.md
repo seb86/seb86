@@ -19,16 +19,16 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 - [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (2 weeks ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (3 weeks ago)
-- [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (3 weeks ago)
+- [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (4 weeks ago)
 - [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (1 month ago)
 - [CoCart 4.2: Pre-release Updates](https://cocart.dev/cocart-4-2-pre-release-updates/) (1 month ago)
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (today)
-- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (today)
-- [cocart-headless/cocart-cart-callback-example](https://github.com/cocart-headless/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (1 day ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (2 days ago)
+- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 day ago)
+- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (1 day ago)
+- [cocart-headless/cocart-cart-callback-example](https://github.com/cocart-headless/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (2 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (3 days ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 week ago)
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (1 week ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (3 weeks ago)
@@ -44,24 +44,24 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), today) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
-- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 1 day ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.4](https://github.com/co-cart/co-cart/releases/tag/v4.3.4), 2 days ago) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours.
+- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 1 day ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
+- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 2 days ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.4](https://github.com/co-cart/co-cart/releases/tag/v4.3.4), 3 days ago) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 1 week ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.4](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.4), 1 week ago) - Enables the rate limiting feature for CoCart Plus or higher.
 
 #### 🔨 Latest Pull Requests I have published
 
 - [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 weeks ago)
-- [v4.3](https://github.com/co-cart/co-cart/pull/424) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 weeks ago)
-- [4.2-rc.2](https://github.com/co-cart/co-cart/pull/421) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
+- [v4.3](https://github.com/co-cart/co-cart/pull/424) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
+- [4.2-rc.2](https://github.com/co-cart/co-cart/pull/421) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 weeks ago)
 - [Updated README.md and plugin description](https://github.com/co-cart/co-cart/pull/420) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
 - [v4.2 RC 1](https://github.com/co-cart/co-cart/pull/419) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues. It is used by more than 200,000&#43; front-end developers and 11,000&#43; companies worldwide. (2 days ago)
-- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag &amp; drop toolkit for React. (3 days ago)
-- [bacoords/example-wp-settings](https://github.com/bacoords/example-wp-settings) - This is an example of a JavaScript and WP REST API-powered WordPress settings page. (4 days ago)
-- [hosmelq/laravel-logsnag](https://github.com/hosmelq/laravel-logsnag) - Integrate the power of LogSnag&#39;s real-time event tracking into your Laravel application. (6 days ago)
-- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans (6 days ago)
+- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues. It is used by more than 200,000&#43; front-end developers and 11,000&#43; companies worldwide. (3 days ago)
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag &amp; drop toolkit for React. (4 days ago)
+- [bacoords/example-wp-settings](https://github.com/bacoords/example-wp-settings) - This is an example of a JavaScript and WP REST API-powered WordPress settings page. (5 days ago)
+- [hosmelq/laravel-logsnag](https://github.com/hosmelq/laravel-logsnag) - Integrate the power of LogSnag&#39;s real-time event tracking into your Laravel application. (1 week ago)
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans (1 week ago)
