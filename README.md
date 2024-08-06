@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [taishikato/chatsage](https://github.com/taishikato/chatsage) - 24/7 Customer Service for your website (today)
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues. It is used by more than 200,000&#43; front-end developers and 11,000&#43; companies worldwide. (3 days ago)
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag &amp; drop toolkit for React. (4 days ago)
 - [bacoords/example-wp-settings](https://github.com/bacoords/example-wp-settings) - This is an example of a JavaScript and WP REST API-powered WordPress settings page. (5 days ago)
 - [hosmelq/laravel-logsnag](https://github.com/hosmelq/laravel-logsnag) - Integrate the power of LogSnag&#39;s real-time event tracking into your Laravel application. (1 week ago)
-- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans (1 week ago)
