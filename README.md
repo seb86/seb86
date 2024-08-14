@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [barn2plugins/woocommerce-product-tabs](https://github.com/barn2plugins/woocommerce-product-tabs) - (Free) Custom Product Tabs for WooCommerce  (today)
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (5 days ago)
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs (6 days ago)
 - [taishikato/chatsage](https://github.com/taishikato/chatsage) - 24/7 Customer Service for your website (1 week ago)
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues. It is used by more than 200,000&#43; front-end developers and 11,000&#43; companies worldwide. (1 week ago)
-- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag &amp; drop toolkit for React. (1 week ago)
