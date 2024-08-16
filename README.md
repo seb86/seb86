@@ -17,7 +17,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (3 weeks ago)
+- [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (4 weeks ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (1 month ago)
 - [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (1 month ago)
 - [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (1 month ago)
@@ -25,12 +25,12 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (2 days ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 week ago)
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (1 week ago)
 - [cocart-headless/cocart-cart-callback-example](https://github.com/cocart-headless/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (1 week ago)
-- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (2 weeks ago)
-- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (2 weeks ago)
+- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (3 weeks ago)
+- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (3 weeks ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 month ago)
 - [seb86/timezones](https://github.com/seb86/timezones) - A simple PHP class that lists all timezones by country and region. (1 month ago)
 
@@ -46,13 +46,13 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 1 week ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 1 week ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
-- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 2 weeks ago) - Enables support for CORS to allow CoCart to work across multiple domains.
-- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.4](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.4), 2 weeks ago) - Enables the rate limiting feature for CoCart Plus or higher.
+- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 3 weeks ago) - Enables support for CORS to allow CoCart to work across multiple domains.
+- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.4](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.4), 3 weeks ago) - Enables the rate limiting feature for CoCart Plus or higher.
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v1.0.3](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v1.0.3), 2 months ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 
 #### 🔨 Latest Pull Requests I have published
 
-- [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
+- [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 weeks ago)
 - [v4.3](https://github.com/co-cart/co-cart/pull/424) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
 - [4.2-rc.2](https://github.com/co-cart/co-cart/pull/421) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
 - [Updated README.md and plugin description](https://github.com/co-cart/co-cart/pull/420) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [barn2plugins/woocommerce-product-tabs](https://github.com/barn2plugins/woocommerce-product-tabs) - (Free) Custom Product Tabs for WooCommerce  (1 day ago)
-- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (6 days ago)
+- [barn2plugins/woocommerce-product-tabs](https://github.com/barn2plugins/woocommerce-product-tabs) - (Free) Custom Product Tabs for WooCommerce  (2 days ago)
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (1 week ago)
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs (1 week ago)
 - [taishikato/chatsage](https://github.com/taishikato/chatsage) - 24/7 Customer Service for your website (1 week ago)
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly in browsers without VPN and proxy Issues. It is used by more than 200,000&#43; front-end developers and 11,000&#43; companies worldwide. (1 week ago)
