@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [rosswintle/turbo-admin](https://github.com/rosswintle/turbo-admin) - WordPress Command Palette (today)
 - [php-stubs/wp-cli-stubs](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis. (1 day ago)
 - [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (1 day ago)
 - [barn2plugins/woocommerce-product-tabs](https://github.com/barn2plugins/woocommerce-product-tabs) - (Free) Custom Product Tabs for WooCommerce  (4 days ago)
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (1 week ago)
-- [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs (1 week ago)
