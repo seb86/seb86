@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/ (today)
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. (today)
+- [9d8dev/next-wp](https://github.com/9d8dev/next-wp) - Headless Wordpress Starter built with the NextJS App Router and React Server Components (today)
 - [rosswintle/turbo-admin](https://github.com/rosswintle/turbo-admin) - WordPress Command Palette (4 days ago)
 - [php-stubs/wp-cli-stubs](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis. (5 days ago)
-- [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (5 days ago)
-- [barn2plugins/woocommerce-product-tabs](https://github.com/barn2plugins/woocommerce-product-tabs) - (Free) Custom Product Tabs for WooCommerce  (1 week ago)
-- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be (1 week ago)
