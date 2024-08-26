@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [10up/10up-experience](https://github.com/10up/10up-experience) - The 10up Experience plugin configures WordPress to better protect and inform clients, aligned to 10up’s best practices. (today)
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/ (4 days ago)
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. (4 days ago)
 - [9d8dev/next-wp](https://github.com/9d8dev/next-wp) - Headless Wordpress Starter built with the NextJS App Router and React Server Components (4 days ago)
 - [rosswintle/turbo-admin](https://github.com/rosswintle/turbo-admin) - WordPress Command Palette (1 week ago)
-- [php-stubs/wp-cli-stubs](https://github.com/php-stubs/wp-cli-stubs) - WP-CLI function and class declaration stubs for static analysis. (1 week ago)
