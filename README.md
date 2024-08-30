@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework (today)
 - [Lexington-Themes/lexington-tutorials](https://github.com/Lexington-Themes/lexington-tutorials) -  Tutorials from Lexington Themes.  This collection with code snippets tailored for Astro.j, Tailwind CSS and Alpinejs projects. Each snippet is designed specifically for use with Astro, Tailwind CSS and Alpinejs, ensuring seamless integration. (3 days ago)
 - [10up/10up-experience](https://github.com/10up/10up-experience) - The 10up Experience plugin configures WordPress to better protect and inform clients, aligned to 10up’s best practices. (4 days ago)
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/ (1 week ago)
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. (1 week ago)
-- [9d8dev/next-wp](https://github.com/9d8dev/next-wp) - Headless Wordpress Starter built with the NextJS App Router and React Server Components (1 week ago)
