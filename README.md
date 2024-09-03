@@ -25,12 +25,12 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (today)
-- [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API with all you need to decouple your WooCommerce store, build in any web framework, literally everything can be customized and saves you countless hours. (1 day ago)
+- [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (6 days ago)
 - [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (2 weeks ago)
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (4 weeks ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (4 weeks ago)
-- [cocart-headless/cocart-cart-callback-example](https://github.com/cocart-headless/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (4 weeks ago)
+- [cocart-headless/cocart-cart-callback-example](https://github.com/cocart-headless/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (1 month ago)
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (1 month ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 month ago)
 
@@ -45,10 +45,10 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 #### 🔭 Latest releases I've contributed to
 
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 4 weeks ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
-- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 4 weeks ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
+- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 1 month ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 1 month ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.4](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.4), 1 month ago) - Enables the rate limiting feature for CoCart Plus or higher.
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v1.0.3](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v1.0.3), 2 months ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v1.0.3](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v1.0.3), 3 months ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 
 #### 🔨 Latest Pull Requests I have published
 
@@ -56,12 +56,12 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
 - [v4.3](https://github.com/co-cart/co-cart/pull/424) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
 - [4.2-rc.2](https://github.com/co-cart/co-cart/pull/421) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
-- [Updated README.md and plugin description](https://github.com/co-cart/co-cart/pull/420) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
+- [Updated README.md and plugin description](https://github.com/co-cart/co-cart/pull/420) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
 
 #### ⭐ Recent Stars
 
-- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework (3 days ago)
-- [Lexington-Themes/lexington-tutorials](https://github.com/Lexington-Themes/lexington-tutorials) -  Tutorials from Lexington Themes.  This collection with code snippets tailored for Astro.j, Tailwind CSS and Alpinejs projects. Each snippet is designed specifically for use with Astro, Tailwind CSS and Alpinejs, ensuring seamless integration. (6 days ago)
+- [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Framework (4 days ago)
+- [Lexington-Themes/lexington-tutorials](https://github.com/Lexington-Themes/lexington-tutorials) -  Tutorials from Lexington Themes.  This collection with code snippets tailored for Astro.j, Tailwind CSS and Alpinejs projects. Each snippet is designed specifically for use with Astro, Tailwind CSS and Alpinejs, ensuring seamless integration. (1 week ago)
 - [10up/10up-experience](https://github.com/10up/10up-experience) - The 10up Experience plugin configures WordPress to better protect and inform clients, aligned to 10up’s best practices. (1 week ago)
 - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/ (1 week ago)
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. (1 week ago)
