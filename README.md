@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [withastro/storefront](https://github.com/withastro/storefront) - Astro for ecommerce 💰 (today)
 - [SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo) - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (today)
 - [fschmittlein/WordPress-Distribution](https://github.com/fschmittlein/WordPress-Distribution) - This repository helps you to get a local new and fresh WordPress for everything you want (e.g. Developing, Testing, etc.). (3 days ago)
 - [michael-andreuzza/kromatika](https://github.com/michael-andreuzza/kromatika) - An elegant color palette for user interfaces (6 days ago)
 - [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion. (6 days ago)
-- [arokettu/composer-license-manager](https://github.com/arokettu/composer-license-manager) - License management plugin for Composer (1 week ago)
