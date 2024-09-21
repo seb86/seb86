@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [imMatheus/vercel-ui](https://github.com/imMatheus/vercel-ui) - Design library inspired by Vercels design system  (today)
 - [withastro/storefront](https://github.com/withastro/storefront) - Astro for ecommerce 💰 (1 day ago)
 - [SupersaasHQ/lemonrepo](https://github.com/SupersaasHQ/lemonrepo) - Sell access to private GitHub repositories using Lemonsqueezy &amp; NuxtHub (1 day ago)
 - [fschmittlein/WordPress-Distribution](https://github.com/fschmittlein/WordPress-Distribution) - This repository helps you to get a local new and fresh WordPress for everything you want (e.g. Developing, Testing, etc.). (4 days ago)
 - [michael-andreuzza/kromatika](https://github.com/michael-andreuzza/kromatika) - An elegant color palette for user interfaces (1 week ago)
-- [polarsource/polar](https://github.com/polarsource/polar) - An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion. (1 week ago)
