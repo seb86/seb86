@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (2 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (3 days ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (2 weeks ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (3 weeks ago)
 - [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (1 month ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [csalzano/add-featured-image-to-rss-feed](https://github.com/csalzano/add-featured-image-to-rss-feed) - Adds the featured image attached to your posts to the RSS feed (today)
-- [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (today)
-- [Automattic/create-content-model](https://github.com/Automattic/create-content-model) - Create content models from the UI (today)
-- [Automattic/studio](https://github.com/Automattic/studio) - Studio by WordPress.com, a free desktop app that helps developers streamline their local WordPress development workflow. (today)
-- [imMatheus/vercel-ui](https://github.com/imMatheus/vercel-ui) - Design library inspired by Vercels design system  (1 day ago)
+- [csalzano/add-featured-image-to-rss-feed](https://github.com/csalzano/add-featured-image-to-rss-feed) - Adds the featured image attached to your posts to the RSS feed (1 day ago)
+- [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (1 day ago)
+- [Automattic/create-content-model](https://github.com/Automattic/create-content-model) - Create content models from the UI (1 day ago)
+- [Automattic/studio](https://github.com/Automattic/studio) - Studio by WordPress.com, a free desktop app that helps developers streamline their local WordPress development workflow. (1 day ago)
+- [imMatheus/vercel-ui](https://github.com/imMatheus/vercel-ui) - Design library inspired by Vercels design system  (2 days ago)
