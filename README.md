@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [richtabor/kanso](https://github.com/richtabor/kanso) - The WordPress theme for rich.blog (today)
 - [csalzano/add-featured-image-to-rss-feed](https://github.com/csalzano/add-featured-image-to-rss-feed) - Adds the featured image attached to your posts to the RSS feed (2 days ago)
 - [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (2 days ago)
 - [Automattic/create-content-model](https://github.com/Automattic/create-content-model) - Create content models from the UI (2 days ago)
 - [Automattic/studio](https://github.com/Automattic/studio) - Studio by WordPress.com, a free desktop app that helps developers streamline their local WordPress development workflow. (2 days ago)
-- [imMatheus/vercel-ui](https://github.com/imMatheus/vercel-ui) - Design library inspired by Vercels design system  (3 days ago)
