@@ -25,9 +25,9 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (4 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (5 days ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (2 weeks ago)
-- [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (3 weeks ago)
+- [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (4 weeks ago)
 - [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (1 month ago)
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (1 month ago)
 - [cocart-headless/cocart-cart-callback-example](https://github.com/cocart-headless/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (1 month ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [richtabor/kanso](https://github.com/richtabor/kanso) - The WordPress theme for rich.blog (today)
-- [csalzano/add-featured-image-to-rss-feed](https://github.com/csalzano/add-featured-image-to-rss-feed) - Adds the featured image attached to your posts to the RSS feed (2 days ago)
-- [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (2 days ago)
-- [Automattic/create-content-model](https://github.com/Automattic/create-content-model) - Create content models from the UI (2 days ago)
-- [Automattic/studio](https://github.com/Automattic/studio) - Studio by WordPress.com, a free desktop app that helps developers streamline their local WordPress development workflow. (2 days ago)
+- [richtabor/kanso](https://github.com/richtabor/kanso) - The WordPress theme for rich.blog (1 day ago)
+- [csalzano/add-featured-image-to-rss-feed](https://github.com/csalzano/add-featured-image-to-rss-feed) - Adds the featured image attached to your posts to the RSS feed (3 days ago)
+- [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (3 days ago)
+- [Automattic/create-content-model](https://github.com/Automattic/create-content-model) - Create content models from the UI (3 days ago)
+- [Automattic/studio](https://github.com/Automattic/studio) - Studio by WordPress.com, a free desktop app that helps developers streamline their local WordPress development workflow. (3 days ago)
