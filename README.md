@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - PHPStan extension to help verify that your PHP code is compatible with a given version of WordPress (today)
+- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - PHPStan rules for detecting usage of deprecated classes, methods, properties, constants and traits. (today)
+- [swissspidy/phpstan-no-private](https://github.com/swissspidy/phpstan-no-private) - PHPStan rules for detecting usage of pseudo-private functions, classes, and methods. (today)
 - [richtabor/kanso](https://github.com/richtabor/kanso) - The WordPress theme for rich.blog (2 days ago)
 - [csalzano/add-featured-image-to-rss-feed](https://github.com/csalzano/add-featured-image-to-rss-feed) - Adds the featured image attached to your posts to the RSS feed (4 days ago)
-- [yamadashy/phpstan-friendly-formatter](https://github.com/yamadashy/phpstan-friendly-formatter) - 🤝 A friendly error formatter extension for PHPStan that provides more readable and informative output, including code snippets and color highlighting. (4 days ago)
-- [Automattic/create-content-model](https://github.com/Automattic/create-content-model) - Create content models from the UI (4 days ago)
-- [Automattic/studio](https://github.com/Automattic/studio) - Studio by WordPress.com, a free desktop app that helps developers streamline their local WordPress development workflow. (4 days ago)
