@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [routerso/router](https://github.com/routerso/router) - Router.so is headless form handling and lead routing for marketing-minded developers.  (today)
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string. (4 days ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - PHPStan extension to help verify that your plugin or theme remains compatible with its minimum supported version of WordPress (4 days ago)
 - [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - PHPStan rules for detecting usage of deprecated classes, methods, properties, constants and traits. (4 days ago)
 - [swissspidy/phpstan-no-private](https://github.com/swissspidy/phpstan-no-private) - PHPStan rules for detecting usage of pseudo-private functions, classes, and methods. (4 days ago)
-- [richtabor/kanso](https://github.com/richtabor/kanso) - The WordPress theme for rich.blog (6 days ago)
