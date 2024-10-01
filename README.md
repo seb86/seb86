@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (3 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (today)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (3 weeks ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (1 month ago)
 - [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (1 month ago)
@@ -52,11 +52,11 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔨 Latest Pull Requests I have published
 
+- [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (today)
 - [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
 - [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
 - [v4.3](https://github.com/co-cart/co-cart/pull/424) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
 - [4.2-rc.2](https://github.com/co-cart/co-cart/pull/421) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
-- [Updated README.md and plugin description](https://github.com/co-cart/co-cart/pull/420) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
 
 #### ⭐ Recent Stars
 
