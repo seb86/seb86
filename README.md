@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way. (today)
+- [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) - Turn SVGs into high resolution PNGs in 2 clicks. Built because Theo was mad. (today)
 - [routerso/router](https://github.com/routerso/router) - Router.so is headless form handling and lead routing for marketing-minded developers.  (6 days ago)
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string. (1 week ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - PHPStan extension to help verify that your plugin or theme remains compatible with its minimum supported version of WordPress (1 week ago)
-- [phpstan/phpstan-deprecation-rules](https://github.com/phpstan/phpstan-deprecation-rules) - PHPStan rules for detecting usage of deprecated classes, methods, properties, constants and traits. (1 week ago)
-- [swissspidy/phpstan-no-private](https://github.com/swissspidy/phpstan-no-private) - PHPStan rules for detecting usage of pseudo-private functions, classes, and methods. (1 week ago)
