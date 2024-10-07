@@ -19,13 +19,13 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 - [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (2 months ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (2 months ago)
-- [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (2 months ago)
+- [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (3 months ago)
 - [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (3 months ago)
 - [CoCart 4.2: Pre-release Updates](https://cocart.dev/cocart-4-2-pre-release-updates/) (3 months ago)
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (today)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (1 day ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 month ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (1 month ago)
 - [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (1 month ago)
@@ -52,16 +52,16 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔨 Latest Pull Requests I have published
 
-- [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (5 days ago)
+- [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (6 days ago)
 - [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
 - [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
 - [v4.3](https://github.com/co-cart/co-cart/pull/424) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
-- [4.2-rc.2](https://github.com/co-cart/co-cart/pull/421) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
+- [4.2-rc.2](https://github.com/co-cart/co-cart/pull/421) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way. (today)
-- [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) - Turn SVGs into high resolution PNGs in 2 clicks. Built because Theo was mad. (today)
-- [routerso/router](https://github.com/routerso/router) - Router.so is headless form handling and lead routing for marketing-minded developers.  (6 days ago)
+- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way. (1 day ago)
+- [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) - Turn SVGs into high resolution PNGs in 2 clicks. Built because Theo was mad. (1 day ago)
+- [routerso/router](https://github.com/routerso/router) - Router.so is headless form handling and lead routing for marketing-minded developers.  (1 week ago)
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string. (1 week ago)
 - [johnbillion/wp-compat](https://github.com/johnbillion/wp-compat) - PHPStan extension to help verify that your plugin or theme remains compatible with its minimum supported version of WordPress (1 week ago)
