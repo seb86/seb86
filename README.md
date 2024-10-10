@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (2 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (3 days ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 month ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (1 month ago)
 - [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (1 month ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - PHPUnit extensions and rules for PHPStan (1 day ago)
-- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way. (3 days ago)
-- [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) - Turn SVGs into high resolution PNGs in 2 clicks. Built because Theo was mad. (3 days ago)
+- [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - PHPUnit extensions and rules for PHPStan (2 days ago)
+- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way. (4 days ago)
+- [t3dotgg/quickpic](https://github.com/t3dotgg/quickpic) - Turn SVGs into high resolution PNGs in 2 clicks. Built because Theo was mad. (4 days ago)
 - [routerso/router](https://github.com/routerso/router) - Router.so is headless form handling and lead routing for marketing-minded developers.  (1 week ago)
-- [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string. (1 week ago)
+- [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string. (2 weeks ago)
