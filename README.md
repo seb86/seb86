@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [littlebizzy/repo-man](https://github.com/littlebizzy/repo-man) - Install public repos to WordPress (today)
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS (1 day ago)
 - [surjithctly/astroship](https://github.com/surjithctly/astroship) - Astroship is a starter template for startups, marketing websites, landing pages &amp; blog. Built with Astro &amp; TailwindCSS (1 day ago)
 - [postcss/postcss-nested](https://github.com/postcss/postcss-nested) - PostCSS plugin to unwrap nested rules like how Sass does it. (2 days ago)
 - [phpstan/phpstan-phpunit](https://github.com/phpstan/phpstan-phpunit) - PHPUnit extensions and rules for PHPStan (5 days ago)
-- [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way. (1 week ago)
