@@ -60,7 +60,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [barvian/number-flow](https://github.com/barvian/number-flow) - A React component that transitions, formats, and localizes numbers. (today)
+- [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers. (today)
 - [Strobotti/php-jwk](https://github.com/Strobotti/php-jwk) - A small PHP library to handle JWK (Json Web Key) (1 day ago)
 - [blogvault/morpheus](https://github.com/blogvault/morpheus) - Morpheus: A lightweight, open-source mirror of the WordPress.org repository to ensure uninterrupted updates for WordPress sites (2 days ago)
 - [WordPress/developer-plugins-handbook](https://github.com/WordPress/developer-plugins-handbook) - Welcome to the WordPress Plugin Developer Handbook; are you ready to jump right in to the world of WordPress plugins? (2 days ago)
