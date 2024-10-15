@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (2 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (3 days ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 month ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (1 month ago)
 - [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (1 month ago)
@@ -52,7 +52,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔨 Latest Pull Requests I have published
 
-- [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 week ago)
+- [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 weeks ago)
 - [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
 - [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
 - [v4.3](https://github.com/co-cart/co-cart/pull/424) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [Strobotti/php-jwk](https://github.com/Strobotti/php-jwk) - A small PHP library to handle JWK (Json Web Key) (today)
-- [blogvault/morpheus](https://github.com/blogvault/morpheus) - Morpheus: A lightweight, open-source mirror of the WordPress.org repository to ensure uninterrupted updates for WordPress sites (1 day ago)
-- [WordPress/developer-plugins-handbook](https://github.com/WordPress/developer-plugins-handbook) - Welcome to the WordPress Plugin Developer Handbook; are you ready to jump right in to the world of WordPress plugins? (1 day ago)
-- [littlebizzy/repo-man](https://github.com/littlebizzy/repo-man) - Install public repos to WordPress (1 day ago)
-- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS (2 days ago)
+- [Strobotti/php-jwk](https://github.com/Strobotti/php-jwk) - A small PHP library to handle JWK (Json Web Key) (1 day ago)
+- [blogvault/morpheus](https://github.com/blogvault/morpheus) - Morpheus: A lightweight, open-source mirror of the WordPress.org repository to ensure uninterrupted updates for WordPress sites (2 days ago)
+- [WordPress/developer-plugins-handbook](https://github.com/WordPress/developer-plugins-handbook) - Welcome to the WordPress Plugin Developer Handbook; are you ready to jump right in to the world of WordPress plugins? (2 days ago)
+- [littlebizzy/repo-man](https://github.com/littlebizzy/repo-man) - Install public repos to WordPress (2 days ago)
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS (3 days ago)
