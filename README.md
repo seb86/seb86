@@ -25,10 +25,10 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (3 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (4 days ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 month ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (1 month ago)
-- [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (1 month ago)
+- [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (2 months ago)
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (2 months ago)
 - [cocart-headless/cocart-cart-callback-example](https://github.com/cocart-headless/cocart-cart-callback-example) - An example of registering a callback that can be triggered when updating the cart with CoCart. (2 months ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (2 months ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers. (today)
-- [Strobotti/php-jwk](https://github.com/Strobotti/php-jwk) - A small PHP library to handle JWK (Json Web Key) (1 day ago)
-- [blogvault/morpheus](https://github.com/blogvault/morpheus) - Morpheus: A lightweight, open-source mirror of the WordPress.org repository to ensure uninterrupted updates for WordPress sites (2 days ago)
-- [WordPress/developer-plugins-handbook](https://github.com/WordPress/developer-plugins-handbook) - Welcome to the WordPress Plugin Developer Handbook; are you ready to jump right in to the world of WordPress plugins? (2 days ago)
-- [littlebizzy/repo-man](https://github.com/littlebizzy/repo-man) - Install public repos to WordPress (2 days ago)
+- [panphp/pan](https://github.com/panphp/pan) - A simple, lightweight, and privacy-focused product analytics php package (1 day ago)
+- [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers. (1 day ago)
+- [Strobotti/php-jwk](https://github.com/Strobotti/php-jwk) - A small PHP library to handle JWK (Json Web Key) (2 days ago)
+- [blogvault/morpheus](https://github.com/blogvault/morpheus) - Morpheus: A lightweight, open-source mirror of the WordPress.org repository to ensure uninterrupted updates for WordPress sites (3 days ago)
+- [WordPress/developer-plugins-handbook](https://github.com/WordPress/developer-plugins-handbook) - Welcome to the WordPress Plugin Developer Handbook; are you ready to jump right in to the world of WordPress plugins? (3 days ago)
