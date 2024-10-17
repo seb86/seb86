@@ -17,7 +17,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (2 months ago)
+- [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (3 months ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (3 months ago)
 - [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (3 months ago)
 - [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (3 months ago)
@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (4 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (5 days ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 month ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (1 month ago)
 - [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (2 months ago)
@@ -54,14 +54,14 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 - [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 weeks ago)
 - [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
-- [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
+- [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
 - [v4.3](https://github.com/co-cart/co-cart/pull/424) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
 - [4.2-rc.2](https://github.com/co-cart/co-cart/pull/421) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [SocketDev/socket-registry-js](https://github.com/SocketDev/socket-registry-js) - Socket.dev optimized 📦 overrides✨ (today)
-- [jnicol/standalone-phpenkoder](https://github.com/jnicol/standalone-phpenkoder) - Obfuscate email addresses so they can&#39;t be read by spambots. A standalone PHP implementation of Hivelogic Enkoder. (today)
-- [panphp/pan](https://github.com/panphp/pan) - A simple, lightweight, and privacy-focused product analytics php package (1 day ago)
-- [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers. (1 day ago)
-- [Strobotti/php-jwk](https://github.com/Strobotti/php-jwk) - A small PHP library to handle JWK (Json Web Key) (2 days ago)
+- [SocketDev/socket-registry-js](https://github.com/SocketDev/socket-registry-js) - Socket.dev optimized 📦 overrides✨ (1 day ago)
+- [jnicol/standalone-phpenkoder](https://github.com/jnicol/standalone-phpenkoder) - Obfuscate email addresses so they can&#39;t be read by spambots. A standalone PHP implementation of Hivelogic Enkoder. (1 day ago)
+- [panphp/pan](https://github.com/panphp/pan) - A simple, lightweight, and privacy-focused product analytics php package (2 days ago)
+- [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers. (2 days ago)
+- [Strobotti/php-jwk](https://github.com/Strobotti/php-jwk) - A small PHP library to handle JWK (Json Web Key) (3 days ago)
