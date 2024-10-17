@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress. (today)
 - [SocketDev/socket-registry-js](https://github.com/SocketDev/socket-registry-js) - Socket.dev optimized 📦 overrides✨ (1 day ago)
 - [jnicol/standalone-phpenkoder](https://github.com/jnicol/standalone-phpenkoder) - Obfuscate email addresses so they can&#39;t be read by spambots. A standalone PHP implementation of Hivelogic Enkoder. (1 day ago)
 - [panphp/pan](https://github.com/panphp/pan) - A simple, lightweight, and privacy-focused product analytics php package (2 days ago)
 - [barvian/number-flow](https://github.com/barvian/number-flow) - A React component to transition, format, and localize numbers. (2 days ago)
-- [Strobotti/php-jwk](https://github.com/Strobotti/php-jwk) - A small PHP library to handle JWK (Json Web Key) (3 days ago)
