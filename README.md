@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (6 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (1 week ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (1 month ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (1 month ago)
 - [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (2 months ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [bgardner/powder](https://github.com/bgardner/powder) - Powder is the premier block theme for WordPress designers &amp; developers (today)
-- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (1 day ago)
-- [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress. (1 day ago)
-- [SocketDev/socket-registry-js](https://github.com/SocketDev/socket-registry-js) - Socket.dev optimized 📦 overrides✨ (2 days ago)
-- [jnicol/standalone-phpenkoder](https://github.com/jnicol/standalone-phpenkoder) - Obfuscate email addresses so they can&#39;t be read by spambots. A standalone PHP implementation of Hivelogic Enkoder. (2 days ago)
+- [bgardner/powder](https://github.com/bgardner/powder) - Powder is the premier block theme for WordPress designers &amp; developers (1 day ago)
+- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (2 days ago)
+- [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress. (2 days ago)
+- [SocketDev/socket-registry-js](https://github.com/SocketDev/socket-registry-js) - Socket.dev optimized 📦 overrides✨ (3 days ago)
+- [jnicol/standalone-phpenkoder](https://github.com/jnicol/standalone-phpenkoder) - Obfuscate email addresses so they can&#39;t be read by spambots. A standalone PHP implementation of Hivelogic Enkoder. (3 days ago)
