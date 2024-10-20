@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [JeffMatson/wormhole-sync](https://github.com/JeffMatson/wormhole-sync) - Sync tool for WordPress plugins and themes (today)
 - [bgardner/powder](https://github.com/bgardner/powder) - Powder is the premier block theme for WordPress designers &amp; developers (2 days ago)
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (3 days ago)
 - [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress. (3 days ago)
 - [SocketDev/socket-registry-js](https://github.com/SocketDev/socket-registry-js) - Socket.dev optimized 📦 overrides✨ (4 days ago)
-- [jnicol/standalone-phpenkoder](https://github.com/jnicol/standalone-phpenkoder) - Obfuscate email addresses so they can&#39;t be read by spambots. A standalone PHP implementation of Hivelogic Enkoder. (4 days ago)
