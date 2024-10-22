@@ -21,7 +21,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (3 months ago)
 - [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (3 months ago)
 - [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (3 months ago)
-- [CoCart 4.2: Pre-release Updates](https://cocart.dev/cocart-4-2-pre-release-updates/) (3 months ago)
+- [CoCart 4.2: Pre-release Updates](https://cocart.dev/cocart-4-2-pre-release-updates/) (4 months ago)
 
 #### 👷 Currently working on
 
@@ -52,16 +52,16 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔨 Latest Pull Requests I have published
 
-- [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 weeks ago)
-- [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
+- [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
+- [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
 - [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
 - [v4.3](https://github.com/co-cart/co-cart/pull/424) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
 - [4.2-rc.2](https://github.com/co-cart/co-cart/pull/421) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [JeffMatson/wormhole-sync](https://github.com/JeffMatson/wormhole-sync) - Sync tool for WordPress plugins and themes (1 day ago)
-- [bgardner/powder](https://github.com/bgardner/powder) - Powder is the premier block theme for WordPress designers &amp; developers (3 days ago)
-- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (4 days ago)
-- [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress. (4 days ago)
-- [SocketDev/socket-registry-js](https://github.com/SocketDev/socket-registry-js) - Socket.dev optimized 📦 overrides✨ (5 days ago)
+- [JeffMatson/wormhole-sync](https://github.com/JeffMatson/wormhole-sync) - Sync tool for WordPress plugins and themes (2 days ago)
+- [bgardner/powder](https://github.com/bgardner/powder) - Powder is the premier block theme for WordPress designers &amp; developers (4 days ago)
+- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (5 days ago)
+- [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress. (5 days ago)
+- [SocketDev/socket-registry-js](https://github.com/SocketDev/socket-registry-js) - Socket.dev optimized 📦 overrides✨ (6 days ago)
