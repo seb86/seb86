@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [afragen/language-pack-maker](https://github.com/afragen/language-pack-maker) - A framework to help make git sourced WordPress Language Packs. (today)
 - [JeffMatson/wormhole-sync](https://github.com/JeffMatson/wormhole-sync) - Sync tool for WordPress plugins and themes (3 days ago)
 - [bgardner/powder](https://github.com/bgardner/powder) - Powder is the premier block theme for WordPress designers &amp; developers (5 days ago)
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (6 days ago)
 - [ClassicPress/ClassicPress](https://github.com/ClassicPress/ClassicPress) - The CMS for Creators. Stable. Lightweight. Instantly Familiar. Forked from WordPress. (6 days ago)
-- [SocketDev/socket-registry-js](https://github.com/SocketDev/socket-registry-js) - Socket.dev optimized 📦 overrides✨ (1 week ago)
