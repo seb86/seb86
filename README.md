@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing (today)
+- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python (today)
 - [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - command tool for translate po files by using openai api (5 days ago)
 - [afragen/language-pack-maker](https://github.com/afragen/language-pack-maker) - A framework to help make git sourced WordPress Language Packs. (5 days ago)
 - [JeffMatson/wormhole-sync](https://github.com/JeffMatson/wormhole-sync) - Sync tool for WordPress plugins and themes (1 week ago)
-- [bgardner/powder](https://github.com/bgardner/powder) - Powder is the premier block theme for WordPress designers &amp; developers (1 week ago)
-- [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly. (1 week ago)
