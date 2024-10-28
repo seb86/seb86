@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [LibreOffice/dictionaries](https://github.com/LibreOffice/dictionaries) (today)
 - [cfinke/Typo.js](https://github.com/cfinke/Typo.js) - A client-side JavaScript spellchecker that uses Hunspell-style dictionaries. (today)
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (today)
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing (today)
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python (today)
-- [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - command tool for translate po files by using openai api (5 days ago)
