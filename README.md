@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration (today)
 - [LibreOffice/dictionaries](https://github.com/LibreOffice/dictionaries) (1 day ago)
 - [cfinke/Typo.js](https://github.com/cfinke/Typo.js) - A client-side JavaScript spellchecker that uses Hunspell-style dictionaries. (1 day ago)
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (1 day ago)
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing (1 day ago)
-- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python (1 day ago)
