@@ -52,16 +52,16 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔨 Latest Pull Requests I have published
 
-- [My name is Neo](https://github.com/co-cart/co-cart/pull/451) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (6 days ago)
-- [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 weeks ago)
+- [My name is Neo](https://github.com/co-cart/co-cart/pull/451) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 week ago)
+- [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 weeks ago)
 - [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
 - [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
 - [v4.3](https://github.com/co-cart/co-cart/pull/424) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [LibreOffice/dictionaries](https://github.com/LibreOffice/dictionaries) (today)
-- [cfinke/Typo.js](https://github.com/cfinke/Typo.js) - A client-side JavaScript spellchecker that uses Hunspell-style dictionaries. (today)
-- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (today)
-- [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing (today)
-- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python (today)
+- [LibreOffice/dictionaries](https://github.com/LibreOffice/dictionaries) (1 day ago)
+- [cfinke/Typo.js](https://github.com/cfinke/Typo.js) - A client-side JavaScript spellchecker that uses Hunspell-style dictionaries. (1 day ago)
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins &amp; high speed (1 day ago)
+- [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing (1 day ago)
+- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python (1 day ago)
