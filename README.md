@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.9](https://github.com/co-cart/co-cart/releases/tag/v4.3.9), 1 day ago) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([git](https://github.com/co-cart/co-cart/releases/tag/git), today) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 3 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 3 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 3 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [ipqwery/ipqwery](https://github.com/ipqwery/ipqwery) (today)
 - [robertdevore/markdown-exporter-for-wordpress](https://github.com/robertdevore/markdown-exporter-for-wordpress) - Seamlessly convert your WordPress posts, pages, and custom content types into well-structured Markdown (MD) files. Featuring customizable export settings, support for Advanced Custom Fields (ACF) and Pods, and a real-time progress bar for efficient content management. (1 day ago)
 - [robertdevore/block-usage-tracker](https://github.com/robertdevore/block-usage-tracker) - A plugin that lists active blocks on the site and counts their usage. (5 days ago)
 - [wp-privacy/wp-api-privacy](https://github.com/wp-privacy/wp-api-privacy) - A plugin for WordPress to restrict information passed via the WordPress HTTP API.   Not affiliated in any way, shape, or form with WordPress.org or Automattic. (5 days ago)
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (1 week ago)
-- [juanjovn/deskhub_stripe_fetcher](https://github.com/juanjovn/deskhub_stripe_fetcher) - A simple service to fetch your Stripe&#39;s revenue to your DeskHub (2 weeks ago)
