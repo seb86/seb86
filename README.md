@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction (today)
 - [ipqwery/ipqwery](https://github.com/ipqwery/ipqwery) (1 day ago)
 - [robertdevore/markdown-exporter-for-wordpress](https://github.com/robertdevore/markdown-exporter-for-wordpress) - Seamlessly convert your WordPress posts, pages, and custom content types into well-structured Markdown (MD) files. Featuring customizable export settings, support for Advanced Custom Fields (ACF) and Pods, and a real-time progress bar for efficient content management. (2 days ago)
 - [robertdevore/block-usage-tracker](https://github.com/robertdevore/block-usage-tracker) - A plugin that lists active blocks on the site and counts their usage. (6 days ago)
 - [wp-privacy/wp-api-privacy](https://github.com/wp-privacy/wp-api-privacy) - A plugin for WordPress to restrict information passed via the WordPress HTTP API.   Not affiliated in any way, shape, or form with WordPress.org or Automattic. (6 days ago)
-- [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (1 week ago)
