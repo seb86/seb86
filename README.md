@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (today)
 - [polarsource/actions](https://github.com/polarsource/actions) - GitHub Actions for Polar (today)
 - [jsmrcaga/action-logsnag](https://github.com/jsmrcaga/action-logsnag) - A simple action to send messages/notifications to LogSnag (today)
 - [polarsource/polar-laravel](https://github.com/polarsource/polar-laravel) - A Polar example app built with Laravel (today)
 - [polarsource/polar-migrate](https://github.com/polarsource/polar-migrate) - The fastest way to migrate from LemonSqueezy to Polar (today)
-- [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers (1 day ago)
