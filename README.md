@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄 (today)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓 (1 day ago)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (1 day ago)
 - [polarsource/actions](https://github.com/polarsource/actions) - GitHub Actions for Polar (1 day ago)
 - [jsmrcaga/action-logsnag](https://github.com/jsmrcaga/action-logsnag) - A simple action to send messages/notifications to LogSnag (1 day ago)
-- [polarsource/polar-laravel](https://github.com/polarsource/polar-laravel) - A Polar example app built with Laravel (1 day ago)
