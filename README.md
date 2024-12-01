@@ -20,12 +20,12 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (4 months ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (4 months ago)
 - [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (4 months ago)
-- [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (4 months ago)
+- [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (5 months ago)
 - [CoCart 4.2: Pre-release Updates](https://cocart.dev/cocart-4-2-pre-release-updates/) (5 months ago)
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (today)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (1 day ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 week ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (2 months ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (3 months ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (1 day ago)
-- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts (5 days ago)
-- [johnbillion/action-wordpress-plugin-attestation](https://github.com/johnbillion/action-wordpress-plugin-attestation) - GitHub Action to generate an attestation for the build provenance of a plugin ZIP file on WordPress.org (5 days ago)
-- [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄 (6 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart is a free REST API designed to decouple your slow WooCommerce storefront and convert it blazing-fast, build in any web framework, and save you countless hours. (2 days ago)
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts (6 days ago)
+- [johnbillion/action-wordpress-plugin-attestation](https://github.com/johnbillion/action-wordpress-plugin-attestation) - GitHub Action to generate an attestation for the build provenance of a plugin ZIP file on WordPress.org (6 days ago)
+- [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄 (1 week ago)
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic monitoring platform  🏓 (1 week ago)
