@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [polarsource/polar-js](https://github.com/polarsource/polar-js) - Polar SDK for Node.js and browsers (today)
+- [polarsource/polar-zapier](https://github.com/polarsource/polar-zapier) - Polar integration for Zapier (today)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (2 days ago)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (3 days ago)
 - [ondrejmirtes/github-sponsors-readme-action](https://github.com/ondrejmirtes/github-sponsors-readme-action) - ❤️ This GitHub Action will automatically add your GitHub Sponsors to your README. It can be configured in multiple ways allowing you to display and breakdown your sponsors by price tier with fallbacks. (3 days ago)
-- [alleyinteractive/wordpress-fieldmanager](https://github.com/alleyinteractive/wordpress-fieldmanager) - Custom field types for WordPress (3 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart&#39;s developer-friendly REST API integrates with WooCommerce to decouple your storefront and convert it blazing-fast, build in any web framework. (5 days ago)
