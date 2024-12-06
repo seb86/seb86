@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation (today)
 - [polarsource/polar-js](https://github.com/polarsource/polar-js) - Polar SDK for Node.js and browsers (2 days ago)
 - [polarsource/polar-zapier](https://github.com/polarsource/polar-zapier) - Polar integration for Zapier (2 days ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (4 days ago)
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (5 days ago)
-- [ondrejmirtes/github-sponsors-readme-action](https://github.com/ondrejmirtes/github-sponsors-readme-action) - ❤️ This GitHub Action will automatically add your GitHub Sponsors to your README. It can be configured in multiple ways allowing you to display and breakdown your sponsors by price tier with fallbacks. (5 days ago)
