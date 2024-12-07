@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart&#39;s developer-friendly REST API integrates with WooCommerce to decouple your storefront and convert it blazing-fast, build in any web framework. (4 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart&#39;s developer-friendly REST API integrates with WooCommerce to decouple your storefront and convert it blazing-fast, build in any web framework. (5 days ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (3 months ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (3 months ago)
@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.4.0-beta.7](https://github.com/co-cart/co-cart/releases/tag/v4.4.0-beta.7), 4 days ago) - 🛒 CoCart&#39;s developer-friendly REST API integrates with WooCommerce to decouple your storefront and convert it blazing-fast, build in any web framework.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.4.0-beta.7](https://github.com/co-cart/co-cart/releases/tag/v4.4.0-beta.7), 5 days ago) - 🛒 CoCart&#39;s developer-friendly REST API integrates with WooCommerce to decouple your storefront and convert it blazing-fast, build in any web framework.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 4 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 4 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 4 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation (today)
-- [polarsource/polar-js](https://github.com/polarsource/polar-js) - Polar SDK for Node.js and browsers (2 days ago)
-- [polarsource/polar-zapier](https://github.com/polarsource/polar-zapier) - Polar integration for Zapier (2 days ago)
-- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (4 days ago)
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (5 days ago)
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation (1 day ago)
+- [polarsource/polar-js](https://github.com/polarsource/polar-js) - Polar SDK for Node.js and browsers (3 days ago)
+- [polarsource/polar-zapier](https://github.com/polarsource/polar-zapier) - Polar integration for Zapier (3 days ago)
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (5 days ago)
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (6 days ago)
