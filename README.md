@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A PHP QR Code generator and reader with a user-friendly API. (today)
+- [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator (today)
 - [kylefox/jquery-modal](https://github.com/kylefox/jquery-modal) - The simplest possible modal for jQuery (today)
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation (2 days ago)
 - [polarsource/polar-js](https://github.com/polarsource/polar-js) - Polar SDK for Node.js and browsers (4 days ago)
-- [polarsource/polar-zapier](https://github.com/polarsource/polar-zapier) - Polar integration for Zapier (4 days ago)
-- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (6 days ago)
