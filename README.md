@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [kylefox/jquery-modal](https://github.com/kylefox/jquery-modal) - The simplest possible modal for jQuery (today)
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation (2 days ago)
 - [polarsource/polar-js](https://github.com/polarsource/polar-js) - Polar SDK for Node.js and browsers (4 days ago)
 - [polarsource/polar-zapier](https://github.com/polarsource/polar-zapier) - Polar integration for Zapier (4 days ago)
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (6 days ago)
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (1 week ago)
