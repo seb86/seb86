@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart&#39;s developer-friendly REST API integrates with WooCommerce to decouple your storefront and convert it blazing-fast, build in any web framework. (2 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart&#39;s developer-friendly REST API integrates with WooCommerce to decouple your storefront and convert it blazing-fast, build in any web framework. (3 days ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (3 weeks ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (3 months ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (3 months ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A PHP QR Code generator and reader with a user-friendly API. (3 days ago)
-- [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator (3 days ago)
-- [kylefox/jquery-modal](https://github.com/kylefox/jquery-modal) - The simplest possible modal for jQuery (3 days ago)
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation (5 days ago)
+- [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A PHP QR Code generator and reader with a user-friendly API. (4 days ago)
+- [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator (4 days ago)
+- [kylefox/jquery-modal](https://github.com/kylefox/jquery-modal) - The simplest possible modal for jQuery (4 days ago)
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation (6 days ago)
 - [polarsource/polar-js](https://github.com/polarsource/polar-js) - Polar SDK for Node.js and browsers (1 week ago)
