@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (today)
 - [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A PHP QR Code generator and reader with a user-friendly API. (6 days ago)
 - [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator (6 days ago)
 - [kylefox/jquery-modal](https://github.com/kylefox/jquery-modal) - The simplest possible modal for jQuery (6 days ago)
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation (1 week ago)
-- [polarsource/polar-js](https://github.com/polarsource/polar-js) - Polar SDK for Node.js and browsers (1 week ago)
