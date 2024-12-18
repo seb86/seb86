@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥 (3 days ago)
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (3 days ago)
+- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥 (4 days ago)
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (4 days ago)
 - [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A PHP QR Code generator and reader with a user-friendly API. (1 week ago)
 - [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator (1 week ago)
 - [kylefox/jquery-modal](https://github.com/kylefox/jquery-modal) - The simplest possible modal for jQuery (1 week ago)
