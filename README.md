@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart&#39;s developer-friendly REST API integrates with WooCommerce to decouple your storefront and convert it blazing-fast, build in any web framework. (today)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart&#39;s developer-friendly REST API integrates with WooCommerce to decouple your storefront and convert it blazing-fast, build in any web framework. (1 day ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 month ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (3 months ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (3 months ago)
@@ -60,7 +60,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart&#39;s developer-friendly REST API integrates with WooCommerce to decouple your storefront and convert it blazing-fast, build in any web framework. (3 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart&#39;s developer-friendly REST API integrates with WooCommerce to decouple your storefront and convert it blazing-fast, build in any web framework. (4 days ago)
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥 (1 week ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 week ago)
 - [chillerlan/php-qrcode](https://github.com/chillerlan/php-qrcode) - A PHP QR Code generator and reader with a user-friendly API. (2 weeks ago)
