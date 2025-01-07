@@ -18,7 +18,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
 - [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (5 months ago)
-- [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (5 months ago)
+- [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (6 months ago)
 - [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (6 months ago)
 - [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (6 months ago)
 - [CoCart 4.2: Pre-release Updates](https://cocart.dev/cocart-4-2-pre-release-updates/) (6 months ago)
@@ -60,7 +60,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 days ago)
 - [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files (1 week ago)
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (1 week ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (2 weeks ago)
