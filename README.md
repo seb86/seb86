@@ -60,7 +60,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [brijr/craft](https://github.com/brijr/craft) - Design system for building websites FAST! Uses Next.js, Tailwind, React, Typescript, and shadcn/ui. (1 day ago)
+- [brijr/craft](https://github.com/brijr/craft) - Craft is a lightweight, flexible design system for building responsive layouts in React and handling prose. (1 day ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
 - [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files (2 weeks ago)
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility (2 weeks ago)
