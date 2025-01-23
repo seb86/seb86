@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [humanmade/hm-user-search](https://github.com/humanmade/hm-user-search) - Add ability to search users by user meta fields in the backend (today)
 - [oxters168/Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android (1 day ago)
 - [ryanwelcher/advanced-query-loop](https://github.com/ryanwelcher/advanced-query-loop) - WordPress plugin that introduces a Query Loop block variation that can create advanced queries. (3 days ago)
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation (6 days ago)
 - [brijr/craft](https://github.com/brijr/craft) - Craft is a lightweight, flexible design system for building responsive layouts in React and handling prose. (2 weeks ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 weeks ago)
