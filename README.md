@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (6 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (1 week ago)
 - [co-cart/.github](https://github.com/co-cart/.github) -  (1 week ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 months ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (4 months ago)
@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.18](https://github.com/co-cart/co-cart/releases/tag/v4.3.18), 4 days ago) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.18](https://github.com/co-cart/co-cart/releases/tag/v4.3.18), 5 days ago) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 5 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 5 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 6 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [humanmade/hm-user-search](https://github.com/humanmade/hm-user-search) - Add ability to search users by user meta fields in the backend (3 days ago)
-- [oxters168/Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android (4 days ago)
-- [ryanwelcher/advanced-query-loop](https://github.com/ryanwelcher/advanced-query-loop) - WordPress plugin that introduces a Query Loop block variation that can create advanced queries. (6 days ago)
+- [humanmade/hm-user-search](https://github.com/humanmade/hm-user-search) - Add ability to search users by user meta fields in the backend (4 days ago)
+- [oxters168/Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android (5 days ago)
+- [ryanwelcher/advanced-query-loop](https://github.com/ryanwelcher/advanced-query-loop) - WordPress plugin that introduces a Query Loop block variation that can create advanced queries. (1 week ago)
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation (1 week ago)
 - [brijr/craft](https://github.com/brijr/craft) - Craft is a lightweight, flexible design system for building responsive layouts in React and handling prose. (2 weeks ago)
