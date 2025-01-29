@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (today)
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 day ago)
 - [humanmade/hm-user-search](https://github.com/humanmade/hm-user-search) - Add ability to search users by user meta fields in the backend (6 days ago)
 - [oxters168/Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android (1 week ago)
 - [ryanwelcher/advanced-query-loop](https://github.com/ryanwelcher/advanced-query-loop) - WordPress plugin that introduces a Query Loop block variation that can create advanced queries. (1 week ago)
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation (1 week ago)
