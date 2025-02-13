@@ -60,7 +60,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [lubusIN/wp-playground-generator](https://github.com/lubusIN/wp-playground-generator) - UI Tool to generate WordPress Playgrounds (1 day ago)
+- [lubusIN-archive/wp-playground-generator](https://github.com/lubusIN-archive/wp-playground-generator) - UI Tool to generate WordPress Playgrounds (1 day ago)
 - [mikker/polar_sh](https://github.com/mikker/polar_sh) - Ruby client for https://polar.sh (6 days ago)
 - [0xharkirat/polar-dart](https://github.com/0xharkirat/polar-dart) - Polar SDK for Dart (6 days ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (1 week ago)
