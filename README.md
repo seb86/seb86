@@ -17,7 +17,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (6 months ago)
+- [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (7 months ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (7 months ago)
 - [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (7 months ago)
 - [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (7 months ago)
@@ -25,8 +25,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (6 days ago)
-- [co-cart/.github](https://github.com/co-cart/.github) -  (4 weeks ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (1 week ago)
+- [co-cart/.github](https://github.com/co-cart/.github) -  (1 month ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 months ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (5 months ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (5 months ago)
@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.20](https://github.com/co-cart/co-cart/releases/tag/v4.3.20), 5 days ago) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.20](https://github.com/co-cart/co-cart/releases/tag/v4.3.20), 6 days ago) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 6 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 6 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 6 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -55,13 +55,13 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [My name is Neo](https://github.com/co-cart/co-cart/pull/451) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
 - [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 months ago)
 - [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (5 months ago)
-- [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (6 months ago)
+- [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (7 months ago)
 - [v4.3](https://github.com/co-cart/co-cart/pull/424) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (7 months ago)
 
 #### ⭐ Recent Stars
 
-- [lubusIN-archive/wp-playground-generator](https://github.com/lubusIN-archive/wp-playground-generator) - UI Tool to generate WordPress Playgrounds (1 day ago)
-- [mikker/polar_sh](https://github.com/mikker/polar_sh) - Ruby client for https://polar.sh (6 days ago)
-- [0xharkirat/polar-dart](https://github.com/0xharkirat/polar-dart) - Polar SDK for Dart (6 days ago)
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (1 week ago)
-- [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don&#39;t need to remember a passcode (1 week ago)
+- [lubusIN-archive/wp-playground-generator](https://github.com/lubusIN-archive/wp-playground-generator) - UI Tool to generate WordPress Playgrounds (2 days ago)
+- [mikker/polar_sh](https://github.com/mikker/polar_sh) - Ruby client for https://polar.sh (1 week ago)
+- [0xharkirat/polar-dart](https://github.com/0xharkirat/polar-dart) - Polar SDK for Dart (1 week ago)
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 weeks ago)
+- [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don&#39;t need to remember a passcode (2 weeks ago)
