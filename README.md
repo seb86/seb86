@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.20](https://github.com/co-cart/co-cart/releases/tag/v4.3.20), 6 days ago) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.20](https://github.com/co-cart/co-cart/releases/tag/v4.3.20), 1 week ago) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 6 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 6 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 6 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -60,7 +60,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [lubusIN-archive/wp-playground-generator](https://github.com/lubusIN-archive/wp-playground-generator) - UI Tool to generate WordPress Playgrounds (2 days ago)
+- [lubusIN-archive/wp-playground-generator](https://github.com/lubusIN-archive/wp-playground-generator) - UI Tool to generate WordPress Playgrounds (3 days ago)
 - [mikker/polar_sh](https://github.com/mikker/polar_sh) - Ruby client for https://polar.sh (1 week ago)
 - [0xharkirat/polar-dart](https://github.com/0xharkirat/polar-dart) - Polar SDK for Dart (1 week ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 weeks ago)
