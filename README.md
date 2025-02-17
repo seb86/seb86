@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player (today)
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS. (today)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.  (2 days ago)
 - [lubusIN-archive/wp-playground-generator](https://github.com/lubusIN-archive/wp-playground-generator) - UI Tool to generate WordPress Playgrounds (5 days ago)
 - [mikker/polar_sh](https://github.com/mikker/polar_sh) - Ruby client for https://polar.sh (1 week ago)
-- [0xharkirat/polar-dart](https://github.com/0xharkirat/polar-dart) - Polar SDK for Dart (1 week ago)
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 weeks ago)
