@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) (today)
 - [rankmath/seo-by-rank-math](https://github.com/rankmath/seo-by-rank-math) - Rank Math is a revolutionary WordPress SEO Plugin that combines the features of many SEO tools and lets you multiply your traffic in the easiest way possible :bulb: :chart_with_upwards_trend: → (2 days ago)
 - [woocommerce/action-scheduler-disable-default-runner](https://github.com/woocommerce/action-scheduler-disable-default-runner) - Disable Action Scheduler&#39;s default queue runner, by removing it from the &#39;action_scheduler_run_queue&#39; hook. (1 week ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
 - [danestves/laravel-polar](https://github.com/danestves/laravel-polar) - A package to easily integrate your Laravel application with Polar.sh. (2 weeks ago)
-- [firebase/php-jwt](https://github.com/firebase/php-jwt) - PHP package for JWT (3 weeks ago)
