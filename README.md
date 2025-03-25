@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 days ago)
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (3 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (4 weeks ago)
 - [co-cart/.github](https://github.com/co-cart/.github) -  (2 months ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (6 months ago)
@@ -52,7 +52,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔨 Latest Pull Requests I have published
 
-- [Update branch](https://github.com/co-cart/co-cart/pull/507) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 week ago)
+- [Update branch](https://github.com/co-cart/co-cart/pull/507) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 weeks ago)
 - [My name is Neo](https://github.com/co-cart/co-cart/pull/451) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (5 months ago)
 - [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (5 months ago)
 - [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (7 months ago)
@@ -60,7 +60,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [WordPress/playground-tools](https://github.com/WordPress/playground-tools) (today)
+- [WordPress/playground-tools](https://github.com/WordPress/playground-tools) (1 day ago)
 - [Illyism/saasbooks](https://github.com/Illyism/saasbooks) - SaaSBooks turns your Stripe and Mercury data into actionable financial insights without the accounting headache. Built by SaaS founders for SaaS founders, this open source tool auto-categorizes transactions, tracks essential metrics, and helps you make sense of your finances in minutes, not days. (1 week ago)
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) (1 week ago)
 - [rankmath/seo-by-rank-math](https://github.com/rankmath/seo-by-rank-math) - Rank Math is a revolutionary WordPress SEO Plugin that combines the features of many SEO tools and lets you multiply your traffic in the easiest way possible :bulb: :chart_with_upwards_trend: → (1 week ago)
