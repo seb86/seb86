@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [johnbillion/plugin-infrastructure](https://github.com/johnbillion/plugin-infrastructure) - Reusable infrastructure relating to testing, building, and deploying my WordPress plugins (today)
 - [WordPress/playground-tools](https://github.com/WordPress/playground-tools) (3 days ago)
 - [Illyism/saasbooks](https://github.com/Illyism/saasbooks) - SaaSBooks turns your Stripe and Mercury data into actionable financial insights without the accounting headache. Built by SaaS founders for SaaS founders, this open source tool auto-categorizes transactions, tracks essential metrics, and helps you make sense of your finances in minutes, not days. (1 week ago)
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) (1 week ago)
 - [rankmath/seo-by-rank-math](https://github.com/rankmath/seo-by-rank-math) - Rank Math is a revolutionary WordPress SEO Plugin that combines the features of many SEO tools and lets you multiply your traffic in the easiest way possible :bulb: :chart_with_upwards_trend: → (2 weeks ago)
-- [woocommerce/action-scheduler-disable-default-runner](https://github.com/woocommerce/action-scheduler-disable-default-runner) - Disable Action Scheduler&#39;s default queue runner, by removing it from the &#39;action_scheduler_run_queue&#39; hook. (3 weeks ago)
