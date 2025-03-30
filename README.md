@@ -54,14 +54,14 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 - [Update branch](https://github.com/co-cart/co-cart/pull/507) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 weeks ago)
 - [My name is Neo](https://github.com/co-cart/co-cart/pull/451) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (5 months ago)
-- [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (5 months ago)
+- [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (6 months ago)
 - [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (7 months ago)
 - [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (8 months ago)
 
 #### ⭐ Recent Stars
 
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C&#43;&#43; (1 day ago)
-- [johnbillion/plugin-infrastructure](https://github.com/johnbillion/plugin-infrastructure) - Reusable infrastructure relating to testing, building, and deploying my WordPress plugins (2 days ago)
-- [WordPress/playground-tools](https://github.com/WordPress/playground-tools) (5 days ago)
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C&#43;&#43; (2 days ago)
+- [johnbillion/plugin-infrastructure](https://github.com/johnbillion/plugin-infrastructure) - Reusable infrastructure relating to testing, building, and deploying my WordPress plugins (3 days ago)
+- [WordPress/playground-tools](https://github.com/WordPress/playground-tools) (6 days ago)
 - [Illyism/saasbooks](https://github.com/Illyism/saasbooks) - SaaSBooks turns your Stripe and Mercury data into actionable financial insights without the accounting headache. Built by SaaS founders for SaaS founders, this open source tool auto-categorizes transactions, tracks essential metrics, and helps you make sense of your finances in minutes, not days. (1 week ago)
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) (2 weeks ago)
