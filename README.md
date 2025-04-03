@@ -28,7 +28,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 week ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (1 month ago)
 - [co-cart/.github](https://github.com/co-cart/.github) -  (2 months ago)
-- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (6 months ago)
+- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (7 months ago)
 - [seb86/users-by-date-registered](https://github.com/seb86/users-by-date-registered) - Allows you to see the dates users registered on and filter the users by date. (7 months ago)
 - [cocart-headless/cocart-tests](https://github.com/cocart-headless/cocart-tests) - Run tests for CoCart. (7 months ago)
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (8 months ago)
@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.26](https://github.com/co-cart/co-cart/releases/tag/v4.3.26), 1 day ago) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.26](https://github.com/co-cart/co-cart/releases/tag/v4.3.26), 2 days ago) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY.
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v2.2.0](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v2.2.0), 2 weeks ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 8 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 8 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C&#43;&#43; (5 days ago)
-- [johnbillion/plugin-infrastructure](https://github.com/johnbillion/plugin-infrastructure) - Reusable infrastructure relating to testing, building, and deploying my WordPress plugins (6 days ago)
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C&#43;&#43; (6 days ago)
+- [johnbillion/plugin-infrastructure](https://github.com/johnbillion/plugin-infrastructure) - Reusable infrastructure relating to testing, building, and deploying my WordPress plugins (1 week ago)
 - [WordPress/playground-tools](https://github.com/WordPress/playground-tools) (1 week ago)
 - [Illyism/saasbooks](https://github.com/Illyism/saasbooks) - SaaSBooks turns your Stripe and Mercury data into actionable financial insights without the accounting headache. Built by SaaS founders for SaaS founders, this open source tool auto-categorizes transactions, tracks essential metrics, and helps you make sense of your finances in minutes, not days. (2 weeks ago)
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) (2 weeks ago)
