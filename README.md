@@ -18,7 +18,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
 - [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (8 months ago)
-- [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (8 months ago)
+- [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (9 months ago)
 - [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (9 months ago)
 - [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (9 months ago)
 - [CoCart 4.2: Pre-release Updates](https://cocart.dev/cocart-4-2-pre-release-updates/) (9 months ago)
@@ -44,8 +44,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.27](https://github.com/co-cart/co-cart/releases/tag/v4.3.27), 3 days ago) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY.
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v2.2.0](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v2.2.0), 2 weeks ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.27](https://github.com/co-cart/co-cart/releases/tag/v4.3.27), 4 days ago) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY.
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v2.2.0](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v2.2.0), 3 weeks ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 8 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 8 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 8 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -62,6 +62,6 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C&#43;&#43; (1 week ago)
 - [johnbillion/plugin-infrastructure](https://github.com/johnbillion/plugin-infrastructure) - Reusable infrastructure relating to testing, building, and deploying my WordPress plugins (1 week ago)
-- [WordPress/playground-tools](https://github.com/WordPress/playground-tools) (1 week ago)
-- [Illyism/saasbooks](https://github.com/Illyism/saasbooks) - SaaSBooks turns your Stripe and Mercury data into actionable financial insights without the accounting headache. Built by SaaS founders for SaaS founders, this open source tool auto-categorizes transactions, tracks essential metrics, and helps you make sense of your finances in minutes, not days. (2 weeks ago)
+- [WordPress/playground-tools](https://github.com/WordPress/playground-tools) (2 weeks ago)
+- [Illyism/saasbooks](https://github.com/Illyism/saasbooks) - SaaSBooks turns your Stripe and Mercury data into actionable financial insights without the accounting headache. Built by SaaS founders for SaaS founders, this open source tool auto-categorizes transactions, tracks essential metrics, and helps you make sense of your finances in minutes, not days. (3 weeks ago)
 - [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) (3 weeks ago)
