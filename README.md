@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [NextMerce/nextjs-ecommerce-template](https://github.com/NextMerce/nextjs-ecommerce-template) - Free Next.js eCommerce Template - comes with all the essential sections, integrations, pages, and everything you need to manage powerful ecommerce store with power of Next.js and Sanity (2 days ago)
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (6 days ago)
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C&#43;&#43; (2 weeks ago)
+- [NextMerce/nextjs-ecommerce-template](https://github.com/NextMerce/nextjs-ecommerce-template) - Free Next.js eCommerce Template - comes with all the essential sections, integrations, pages, and everything you need to manage powerful ecommerce store with power of Next.js and Sanity (3 days ago)
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 week ago)
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C&#43;&#43; (3 weeks ago)
 - [johnbillion/plugin-infrastructure](https://github.com/johnbillion/plugin-infrastructure) - Reusable infrastructure relating to testing, building, and deploying my WordPress plugins (3 weeks ago)
 - [WordPress/playground-tools](https://github.com/WordPress/playground-tools) (3 weeks ago)
