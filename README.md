@@ -36,11 +36,11 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🌱 My latest projects
 
+- [seb86/solar-pop2](https://github.com/seb86/solar-pop2) - Created with StackBlitz ⚡️
 - [seb86/timezones](https://github.com/seb86/timezones) - A simple PHP class that lists all timezones by country and region.
 - [seb86/self-hosted-status-page](https://github.com/seb86/self-hosted-status-page) - Self host your own status page for checking uptime for webpages or API&#39;s
 - [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API
 - [seb86/github-action-tests](https://github.com/seb86/github-action-tests) - A repo for testing GitHub actions.
-- [seb86/gatsby-starter-default](https://github.com/seb86/gatsby-starter-default) - The default Gatsby starter
 
 #### 🔭 Latest releases I've contributed to
 
