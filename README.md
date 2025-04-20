@@ -21,7 +21,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (9 months ago)
 - [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (9 months ago)
 - [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (9 months ago)
-- [CoCart 4.2: Pre-release Updates](https://cocart.dev/cocart-4-2-pre-release-updates/) (9 months ago)
+- [CoCart 4.2: Pre-release Updates](https://cocart.dev/cocart-4-2-pre-release-updates/) (10 months ago)
 
 #### 👷 Currently working on
 
@@ -53,15 +53,15 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 #### 🔨 Latest Pull Requests I have published
 
 - [Update branch](https://github.com/co-cart/co-cart/pull/507) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (1 month ago)
-- [My name is Neo](https://github.com/co-cart/co-cart/pull/451) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (5 months ago)
+- [My name is Neo](https://github.com/co-cart/co-cart/pull/451) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (6 months ago)
 - [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (6 months ago)
-- [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (7 months ago)
+- [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (8 months ago)
 - [Reparing CoCart](https://github.com/co-cart/co-cart/pull/428) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains. (today)
-- [NextMerce/nextjs-ecommerce-template](https://github.com/NextMerce/nextjs-ecommerce-template) - Free Next.js eCommerce Template - comes with all the essential sections, integrations, pages, and everything you need to manage powerful ecommerce store with power of Next.js and Sanity (4 days ago)
+- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains. (1 day ago)
+- [NextMerce/nextjs-ecommerce-template](https://github.com/NextMerce/nextjs-ecommerce-template) - Free Next.js eCommerce Template - comes with all the essential sections, integrations, pages, and everything you need to manage powerful ecommerce store with power of Next.js and Sanity (5 days ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 week ago)
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C&#43;&#43; (3 weeks ago)
 - [johnbillion/plugin-infrastructure](https://github.com/johnbillion/plugin-infrastructure) - Reusable infrastructure relating to testing, building, and deploying my WordPress plugins (3 weeks ago)
