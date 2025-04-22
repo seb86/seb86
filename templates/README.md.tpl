@@ -10,7 +10,7 @@ I am the Founder of **CoCart Headless, LLC** working on a [WordPress plugin](htt
 
 Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooCommerce, Multisite, Headless, Gutenberg, Git, GitHub, Jira, Trello, Composer, GruntJS, Frontend, Backend, Full-Stack, English
 
-* 🌱 I’m currently learning more about: Unit-Testing, React, GraphQL and Tailwind CSS.
+* 🌱 I’m currently learning more about: Unit-Testing, React, TypeScript and Tailwind CSS.
 * 📫 How to reach me: [Twitter](https://twitter.com/sebd86)
 * 💬 If you use any of my projects, I'd love to hear from you! Don't be shy and let me know what you liked about and what needs being improved. Got an issue? Open a ticket and will try my best to help!
 * ☕ If you like the open source projects I work on or even use any of them. [Buy me a coffee](https://www.buymeacoffee.com/sebastien) to show your support.
