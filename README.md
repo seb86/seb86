@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-sdk-js](https://github.com/cocart-headless/cocart-sdk-js) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage CoCart API (3 days ago)
+- [cocart-headless/cocart-sdk-js](https://github.com/cocart-headless/cocart-sdk-js) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage CoCart API (4 days ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 month ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (2 months ago)
 - [co-cart/.github](https://github.com/co-cart/.github) -  (3 months ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [cocart-headless/cocart-sdk-js](https://github.com/cocart-headless/cocart-sdk-js) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage CoCart API (4 days ago)
-- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains. (6 days ago)
+- [cocart-headless/cocart-sdk-js](https://github.com/cocart-headless/cocart-sdk-js) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage CoCart API (5 days ago)
+- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains. (1 week ago)
 - [NextMerce/nextjs-ecommerce-template](https://github.com/NextMerce/nextjs-ecommerce-template) - Free Next.js eCommerce Template - comes with all the essential sections, integrations, pages, and everything you need to manage powerful ecommerce store with power of Next.js and Sanity (1 week ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (2 weeks ago)
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C&#43;&#43; (4 weeks ago)
