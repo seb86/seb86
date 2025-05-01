@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 days ago)
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (3 days ago)
 - [cocart-headless/cocart-sdk-js](https://github.com/cocart-headless/cocart-sdk-js) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage CoCart API (1 week ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (2 months ago)
 - [co-cart/.github](https://github.com/co-cart/.github) -  (3 months ago)
@@ -44,10 +44,10 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v2.3.0](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v2.3.0), 1 day ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.30](https://github.com/co-cart/co-cart/releases/tag/v4.3.30), 3 days ago) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY.
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v2.3.0](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v2.3.0), 2 days ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.3.30](https://github.com/co-cart/co-cart/releases/tag/v4.3.30), 4 days ago) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 8 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
-- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 8 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
+- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 9 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 9 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 
 #### 🔨 Latest Pull Requests I have published
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [Systemsaholic/clerk-wp-sync](https://github.com/Systemsaholic/clerk-wp-sync) - Wordpress and Clerk Sync Users. (1 day ago)
-- [michaelshimeles/paperbag.fyi](https://github.com/michaelshimeles/paperbag.fyi) - Minimalist cartoon transformations, powered by AI. (1 day ago)
-- [un/potential](https://github.com/un/potential) - Ai Health coach to live Longer &#43; Sharper &#43; Better; Open Source alternative to Death (3 days ago)
+- [Systemsaholic/clerk-wp-sync](https://github.com/Systemsaholic/clerk-wp-sync) - Wordpress and Clerk Sync Users. (2 days ago)
+- [michaelshimeles/paperbag.fyi](https://github.com/michaelshimeles/paperbag.fyi) - Minimalist cartoon transformations, powered by AI. (2 days ago)
+- [un/potential](https://github.com/un/potential) - Ai Health coach to live Longer &#43; Sharper &#43; Better; Open Source alternative to Death (4 days ago)
 - [cocart-headless/cocart-sdk-js](https://github.com/cocart-headless/cocart-sdk-js) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage CoCart API (1 week ago)
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains. (1 week ago)
