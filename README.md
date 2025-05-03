@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer&#39;s must have dev-tool. (today)
 - [Systemsaholic/clerk-wp-sync](https://github.com/Systemsaholic/clerk-wp-sync) - Wordpress and Clerk Sync Users. (4 days ago)
 - [michaelshimeles/paperbag.fyi](https://github.com/michaelshimeles/paperbag.fyi) - Minimalist cartoon transformations, powered by AI. (4 days ago)
 - [un/potential](https://github.com/un/potential) - Ai Health coach to live Longer &#43; Sharper &#43; Better; Open Source alternative to Death (6 days ago)
 - [cocart-headless/cocart-sdk-js](https://github.com/cocart-headless/cocart-sdk-js) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage CoCart API (1 week ago)
-- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains. (2 weeks ago)
