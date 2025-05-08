@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [polarsource/polar-raycast](https://github.com/polarsource/polar-raycast) - The official Polar extension for Raycast (today)
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer&#39;s must have dev-tool. (5 days ago)
 - [Systemsaholic/clerk-wp-sync](https://github.com/Systemsaholic/clerk-wp-sync) - Wordpress and Clerk Sync Users. (1 week ago)
 - [michaelshimeles/paperbag.fyi](https://github.com/michaelshimeles/paperbag.fyi) - Minimalist cartoon transformations, powered by AI. (1 week ago)
 - [un/potential](https://github.com/un/potential) - Ai Health coach to live Longer &#43; Sharper &#43; Better; Open Source alternative to Death (1 week ago)
-- [cocart-headless/cocart-sdk-js](https://github.com/cocart-headless/cocart-sdk-js) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage CoCart API (2 weeks ago)
