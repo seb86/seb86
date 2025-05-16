@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [TanStack/db](https://github.com/TanStack/db) - A reactive client store for building super fast apps on sync (today)
 - [kasparsd/wp-docs-md](https://github.com/kasparsd/wp-docs-md) - WordPress documentation as markdown files for LLMs (6 days ago)
 - [polarsource/polar-raycast](https://github.com/polarsource/polar-raycast) - The official Polar extension for Raycast (1 week ago)
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer&#39;s must have dev-tool. (1 week ago)
 - [Systemsaholic/clerk-wp-sync](https://github.com/Systemsaholic/clerk-wp-sync) - Wordpress and Clerk Sync Users. (2 weeks ago)
-- [michaelshimeles/paperbag.fyi](https://github.com/michaelshimeles/paperbag.fyi) - Minimalist cartoon transformations, powered by AI. (2 weeks ago)
