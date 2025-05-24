@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 week ago)
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
 - [cocart-headless/cocart-sdk-js](https://github.com/cocart-headless/cocart-sdk-js) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage CoCart API (1 month ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (2 months ago)
 - [co-cart/.github](https://github.com/co-cart/.github) -  (4 months ago)
@@ -62,6 +62,6 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (1 week ago)
 - [TanStack/db](https://github.com/TanStack/db) - A reactive client store for building super fast apps on sync (1 week ago)
-- [kasparsd/wp-docs-md](https://github.com/kasparsd/wp-docs-md) - WordPress documentation as markdown files for LLMs (1 week ago)
+- [kasparsd/wp-docs-md](https://github.com/kasparsd/wp-docs-md) - WordPress documentation as markdown files for LLMs (2 weeks ago)
 - [polarsource/polar-raycast](https://github.com/polarsource/polar-raycast) - The official Polar extension for Raycast (2 weeks ago)
-- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer&#39;s must have dev-tool. (2 weeks ago)
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer&#39;s must have dev-tool. (3 weeks ago)
