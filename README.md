@@ -17,7 +17,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [Recap on CoCart Updates for v4.3](https://cocart.dev/recap-on-cocart-updates-for-v4-3/) (2 weeks ago)
+- [Recap on CoCart Updates for v4.3](https://cocart.dev/recap-on-cocart-updates-for-v4-3/) (3 weeks ago)
 - [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (10 months ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (10 months ago)
 - [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (10 months ago)
