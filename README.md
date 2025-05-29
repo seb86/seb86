@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [cocart-headless/remove-bloatware](https://github.com/cocart-headless/remove-bloatware) - Strips all unnecessary WordPress features, scripts, and outputs for a clean, fast headless CMS. (today)
+- [cocart-headless/remove-bloatware](https://github.com/cocart-headless/remove-bloatware) - Strips all unnecessary WordPress features, scripts, and outputs for a clean, fast headless CMS. (1 day ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
 - [cocart-headless/cocart-sdk-js](https://github.com/cocart-headless/cocart-sdk-js) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage CoCart API (1 month ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (3 months ago)
@@ -55,13 +55,13 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/18) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (2 weeks ago)
 - [Update branch](https://github.com/co-cart/co-cart/pull/507) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
 - [My name is Neo](https://github.com/co-cart/co-cart/pull/451) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (7 months ago)
-- [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (7 months ago)
+- [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (8 months ago)
 - [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack. (today)
+- [hunvreus/basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack. (1 day ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (1 week ago)
 - [TanStack/db](https://github.com/TanStack/db) - A reactive client store for building super fast apps on sync (1 week ago)
 - [kasparsd/wp-docs-md](https://github.com/kasparsd/wp-docs-md) - WordPress documentation as markdown files for LLMs (2 weeks ago)
-- [polarsource/polar-raycast](https://github.com/polarsource/polar-raycast) - The official Polar extension for Raycast (2 weeks ago)
+- [polarsource/polar-raycast](https://github.com/polarsource/polar-raycast) - The official Polar extension for Raycast (3 weeks ago)
