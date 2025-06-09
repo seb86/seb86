@@ -53,15 +53,15 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 #### 🔨 Latest Pull Requests I have published
 
 - [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/18) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 month ago)
-- [Update branch](https://github.com/co-cart/co-cart/pull/507) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
+- [Update branch](https://github.com/co-cart/co-cart/pull/507) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
 - [My name is Neo](https://github.com/co-cart/co-cart/pull/451) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (7 months ago)
 - [Revert &#34;Improved ignore meta data loop&#34;](https://github.com/co-cart/co-cart/pull/445) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (8 months ago)
 - [Merging trunk changes to development](https://github.com/co-cart/co-cart/pull/436) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [polarsource/polar-app](https://github.com/polarsource/polar-app) - App for managing your Polar Organization (today)
-- [akirk/playground-step-library](https://github.com/akirk/playground-step-library) - Custom Steps for WordPress Playground (1 day ago)
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (3 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (4 days ago)
+- [polarsource/polar-app](https://github.com/polarsource/polar-app) - App for managing your Polar Organization (1 day ago)
+- [akirk/playground-step-library](https://github.com/akirk/playground-step-library) - Custom Steps for WordPress Playground (2 days ago)
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (4 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - 🛒 CoCart provides developers with a flexiable REST API, designed to save hours of development so you can spend time building modern and scalable store away from WordPress. Unlock your WooCommerce store, TODAY. (5 days ago)
 - [appwrite/sdk-generator](https://github.com/appwrite/sdk-generator) - Generating SDKs for multiple programming languages and platforms ⚙️ (1 week ago)
