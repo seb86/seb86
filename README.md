@@ -17,11 +17,11 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
+- [CoCart JWT Authentication Recap](https://cocart.dev/cocart-jwt-authentication-recap/) (today)
 - [Recap on CoCart Updates for v4.3](https://cocart.dev/recap-on-cocart-updates-for-v4-3/) (1 month ago)
 - [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (11 months ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (11 months ago)
 - [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (11 months ago)
-- [CoCart 4.2: Release Candidate](https://cocart.dev/cocart-4-2-release-candidate/) (11 months ago)
 
 #### 👷 Currently working on
 
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly (today)
 - [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) - A super simple tool to convert your SVG&#39;s to 3D models. (1 day ago)
 - [johnbillion/rave-wordpress](https://github.com/johnbillion/rave-wordpress) - Reproduces WordPress builds and verifies that the official and unofficial packages haven&#39;t been tampered with. (3 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (5 days ago)
 - [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple&#39;s Liquid Glass effect for React (6 days ago)
-- [polarsource/polar-app](https://github.com/polarsource/polar-app) - App for managing your Polar Organization (1 week ago)
