@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (6 days ago)
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (2 weeks ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (2 weeks ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) - A super simple tool to convert your SVG&#39;s to 3D models. (today)
-- [johnbillion/rave-wordpress](https://github.com/johnbillion/rave-wordpress) - Reproduces WordPress builds and verifies that the official and unofficial packages haven&#39;t been tampered with. (2 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (4 days ago)
-- [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple&#39;s Liquid Glass effect for React (5 days ago)
+- [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) - A super simple tool to convert your SVG&#39;s to 3D models. (1 day ago)
+- [johnbillion/rave-wordpress](https://github.com/johnbillion/rave-wordpress) - Reproduces WordPress builds and verifies that the official and unofficial packages haven&#39;t been tampered with. (3 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (5 days ago)
+- [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple&#39;s Liquid Glass effect for React (6 days ago)
 - [polarsource/polar-app](https://github.com/polarsource/polar-app) - App for managing your Polar Organization (1 week ago)
