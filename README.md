@@ -17,7 +17,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart JWT Authentication Recap](https://cocart.dev/cocart-jwt-authentication-recap/) (today)
+- [CoCart JWT Authentication Recap](https://cocart.dev/cocart-jwt-authentication-recap/) (1 day ago)
 - [Recap on CoCart Updates for v4.3](https://cocart.dev/recap-on-cocart-updates-for-v4-3/) (1 month ago)
 - [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (11 months ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (11 months ago)
@@ -25,11 +25,11 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (today)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (6 days ago)
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 day ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (1 week ago)
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (2 weeks ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (2 weeks ago)
-- [cocart-headless/remove-bloatware](https://github.com/cocart-headless/remove-bloatware) - Strips all unnecessary WordPress features, scripts, and outputs for a clean, fast headless CMS. (2 weeks ago)
+- [cocart-headless/remove-bloatware](https://github.com/cocart-headless/remove-bloatware) - Strips all unnecessary WordPress features, scripts, and outputs for a clean, fast headless CMS. (3 weeks ago)
 - [cocart-headless/cocart-sdk-js](https://github.com/cocart-headless/cocart-sdk-js) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage CoCart API (1 month ago)
 - [co-cart/.github](https://github.com/co-cart/.github) -  (5 months ago)
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (9 months ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly (today)
-- [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) - A super simple tool to convert your SVG&#39;s to 3D models. (1 day ago)
-- [johnbillion/rave-wordpress](https://github.com/johnbillion/rave-wordpress) - Reproduces WordPress builds and verifies that the official and unofficial packages haven&#39;t been tampered with. (3 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (5 days ago)
-- [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple&#39;s Liquid Glass effect for React (6 days ago)
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly (1 day ago)
+- [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) - A super simple tool to convert your SVG&#39;s to 3D models. (2 days ago)
+- [johnbillion/rave-wordpress](https://github.com/johnbillion/rave-wordpress) - Reproduces WordPress builds and verifies that the official and unofficial packages haven&#39;t been tampered with. (4 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (6 days ago)
+- [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple&#39;s Liquid Glass effect for React (1 week ago)
