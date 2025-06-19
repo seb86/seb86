@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database (today)
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof! (today)
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly (2 days ago)
 - [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) - A super simple tool to convert your SVG&#39;s to 3D models. (3 days ago)
 - [johnbillion/rave-wordpress](https://github.com/johnbillion/rave-wordpress) - Reproduces WordPress builds and verifies that the official and unofficial packages haven&#39;t been tampered with. (5 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (1 week ago)
-- [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple&#39;s Liquid Glass effect for React (1 week ago)
