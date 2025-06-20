@@ -17,7 +17,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart JWT Authentication Recap](https://cocart.dev/cocart-jwt-authentication-recap/) (2 days ago)
+- [CoCart JWT Authentication Recap](https://cocart.dev/cocart-jwt-authentication-recap/) (3 days ago)
 - [Recap on CoCart Updates for v4.3](https://cocart.dev/recap-on-cocart-updates-for-v4-3/) (1 month ago)
 - [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (11 months ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (11 months ago)
@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (today)
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 day ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (1 week ago)
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (2 weeks ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (2 weeks ago)
@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v2.5.0](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v2.5.0), today) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v2.5.0](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v2.5.0), 1 day ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 10 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 10 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 10 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database (today)
-- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof! (today)
-- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly (2 days ago)
-- [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) - A super simple tool to convert your SVG&#39;s to 3D models. (3 days ago)
-- [johnbillion/rave-wordpress](https://github.com/johnbillion/rave-wordpress) - Reproduces WordPress builds and verifies that the official and unofficial packages haven&#39;t been tampered with. (5 days ago)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database (1 day ago)
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof! (1 day ago)
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly (3 days ago)
+- [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) - A super simple tool to convert your SVG&#39;s to 3D models. (4 days ago)
+- [johnbillion/rave-wordpress](https://github.com/johnbillion/rave-wordpress) - Reproduces WordPress builds and verifies that the official and unofficial packages haven&#39;t been tampered with. (6 days ago)
