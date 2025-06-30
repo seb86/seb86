@@ -25,10 +25,10 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (2 days ago)
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (6 days ago)
-- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (4 weeks ago)
-- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (4 weeks ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (3 days ago)
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 week ago)
+- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (1 month ago)
+- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 month ago)
 - [cocart-headless/remove-bloatware](https://github.com/cocart-headless/remove-bloatware) - Strips all unnecessary WordPress features, scripts, and outputs for a clean, fast headless CMS. (1 month ago)
 - [cocart-headless/cocart-sdk-js](https://github.com/cocart-headless/cocart-sdk-js) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage CoCart API (2 months ago)
 - [co-cart/.github](https://github.com/co-cart/.github) -  (5 months ago)
@@ -46,13 +46,13 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v2.5.1](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v2.5.1), 1 week ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 10 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
-- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 10 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
+- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 11 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 11 months ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.4](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.4), 11 months ago) - Enables the rate limiting feature for CoCart Plus or higher.
 
 #### 🔨 Latest Pull Requests I have published
 
-- [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/25) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (6 days ago)
+- [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/25) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 week ago)
 - [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/18) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 month ago)
 - [Update branch](https://github.com/co-cart/co-cart/pull/507) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
 - [My name is Neo](https://github.com/co-cart/co-cart/pull/451) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (8 months ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (1 day ago)
-- [Brain-WP/BrainMonkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API (1 day ago)
-- [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (1 day ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (3 days ago)
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (2 days ago)
+- [Brain-WP/BrainMonkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API (2 days ago)
+- [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (2 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (4 days ago)
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database (1 week ago)
