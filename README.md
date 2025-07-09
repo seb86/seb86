@@ -25,22 +25,22 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
+- [seb86/wp-proxy-api](https://github.com/seb86/wp-proxy-api) - Provides a WordPress-style plugin info API, using data fetched from GitHub releases. It is ideal for custom plugin update APIs or integration with WordPress plugin management tools. (today)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (3 days ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
-- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (1 month ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (1 month ago)
+- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (1 month ago)
 - [cocart-headless/remove-bloatware](https://github.com/cocart-headless/remove-bloatware) - Strips all unnecessary WordPress features, scripts, and outputs for a clean, fast headless CMS. (1 month ago)
 - [cocart-headless/cocart-sdk-js](https://github.com/cocart-headless/cocart-sdk-js) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage CoCart API (2 months ago)
 - [co-cart/.github](https://github.com/co-cart/.github) -  (5 months ago)
-- [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it. (10 months ago)
 
 #### 🌱 My latest projects
 
+- [seb86/wp-proxy-api](https://github.com/seb86/wp-proxy-api) - Provides a WordPress-style plugin info API, using data fetched from GitHub releases. It is ideal for custom plugin update APIs or integration with WordPress plugin management tools.
 - [seb86/timezones](https://github.com/seb86/timezones) - A simple PHP class that lists all timezones by country and region.
 - [seb86/self-hosted-status-page](https://github.com/seb86/self-hosted-status-page) - Self host your own status page for checking uptime for webpages or API&#39;s
 - [seb86/woosauce](https://github.com/seb86/woosauce) - Adds image upload support for products when created via the WooCommerce REST API
 - [seb86/github-action-tests](https://github.com/seb86/github-action-tests) - A repo for testing GitHub actions.
-- [seb86/gatsby-starter-default](https://github.com/seb86/gatsby-starter-default) - The default Gatsby starter
 
 #### 🔭 Latest releases I've contributed to
 
