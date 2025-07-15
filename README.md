@@ -17,7 +17,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart JWT Authentication Recap](https://cocart.dev/cocart-jwt-authentication-recap/) (3 weeks ago)
+- [CoCart JWT Authentication Recap](https://cocart.dev/cocart-jwt-authentication-recap/) (4 weeks ago)
 - [Recap on CoCart Updates for v4.3](https://cocart.dev/recap-on-cocart-updates-for-v4-3/) (2 months ago)
 - [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (1 year ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (1 year ago)
@@ -25,8 +25,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (3 days ago)
-- [seb86/wp-proxy-api](https://github.com/seb86/wp-proxy-api) - Provides a WordPress-style plugin info API, using data fetched from GitHub releases. It is ideal for custom plugin update APIs or integration with WordPress plugin management tools. (5 days ago)
+- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (4 days ago)
+- [seb86/wp-proxy-api](https://github.com/seb86/wp-proxy-api) - Provides a WordPress-style plugin info API, using data fetched from GitHub releases. It is ideal for custom plugin update APIs or integration with WordPress plugin management tools. (6 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (1 week ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (3 weeks ago)
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) - Enables the rate limiting feature for CoCart Plus or higher. (1 month ago)
@@ -60,7 +60,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [jchristopher/duplicate-menu](https://github.com/jchristopher/duplicate-menu) - [WordPress Plugin] Easily duplicate your WordPress menus with one click (4 days ago)
+- [jchristopher/duplicate-menu](https://github.com/jchristopher/duplicate-menu) - [WordPress Plugin] Easily duplicate your WordPress menus with one click (5 days ago)
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (2 weeks ago)
 - [Brain-WP/BrainMonkey](https://github.com/Brain-WP/BrainMonkey) - Mocking utility for PHP functions and WordPress plugin API (2 weeks ago)
 - [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (2 weeks ago)
