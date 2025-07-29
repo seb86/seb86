@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (today)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (1 day ago)
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (2 weeks ago)
 - [seb86/wp-proxy-api](https://github.com/seb86/wp-proxy-api) - Provides a WordPress-style plugin info API, using data fetched from GitHub releases. It is ideal for custom plugin update APIs or integration with WordPress plugin management tools. (2 weeks ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 month ago)
@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.6.3](https://github.com/co-cart/co-cart/releases/tag/v4.6.3), 1 day ago) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.6.3](https://github.com/co-cart/co-cart/releases/tag/v4.6.3), 2 days ago) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers.
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v2.5.1](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v2.5.1), 1 month ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 11 months ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 11 months ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 day ago)
-- [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons (1 day ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (2 days ago)
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (5 days ago)
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 days ago)
+- [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons (2 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (3 days ago)
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (6 days ago)
 - [blivic/woocommerce-shareable-checkout-urls](https://github.com/blivic/woocommerce-shareable-checkout-urls) - Build, save &amp; edit shareable checkout URLs (products &#43; coupon)  in WooCommerce (1 week ago)
