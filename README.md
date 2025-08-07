@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [Really-Simple-Plugins/really-simple-ssl](https://github.com/Really-Simple-Plugins/really-simple-ssl) - Easily improve site security with WordPress Hardening, Two-Factor Authentication (2FA), Login Protection, Vulnerability Detection and SSL certificate generation. (today)
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser (4 days ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 week ago)
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons (1 week ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - Build modern headless stores with WooCommerce faster — with the REST API purpose-built for developers. (1 week ago)
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal. (2 weeks ago)
