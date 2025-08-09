@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (2 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (3 days ago)
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (4 weeks ago)
 - [seb86/wp-proxy-api](https://github.com/seb86/wp-proxy-api) - Provides a WordPress-style plugin info API, using data fetched from GitHub releases. It is ideal for custom plugin update APIs or integration with WordPress plugin management tools. (1 month ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 month ago)
@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.7.0](https://github.com/co-cart/co-cart/releases/tag/v4.7.0), today) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.7.0](https://github.com/co-cart/co-cart/releases/tag/v4.7.0), 1 day ago) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy.
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v2.5.1](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v2.5.1), 1 month ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 1 year ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 1 year ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [Really-Simple-Plugins/really-simple-ssl](https://github.com/Really-Simple-Plugins/really-simple-ssl) - Easily improve site security with WordPress Hardening, Two-Factor Authentication (2FA), Login Protection, Vulnerability Detection and SSL certificate generation. (1 day ago)
-- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser (5 days ago)
+- [Really-Simple-Plugins/really-simple-ssl](https://github.com/Really-Simple-Plugins/really-simple-ssl) - Easily improve site security with WordPress Hardening, Two-Factor Authentication (2FA), Login Protection, Vulnerability Detection and SSL certificate generation. (2 days ago)
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser (6 days ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 week ago)
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons (1 week ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (1 week ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (2 weeks ago)
