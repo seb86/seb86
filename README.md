@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [WordPress/abilities-api](https://github.com/WordPress/abilities-api) (today)
 - [10up/safe-svg](https://github.com/10up/safe-svg) - Enable SVG uploads and sanitize them to stop XML/SVG vulnerabilities in your WordPress website. (1 day ago)
 - [OllieWP/menu-designer](https://github.com/OllieWP/menu-designer) - Create beautiful, content-rich mega menus in WordPress using the power of the block editor. (1 day ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 days ago)
 - [LasseRafn/ui-avatars](https://github.com/LasseRafn/ui-avatars) (4 days ago)
-- [Really-Simple-Plugins/really-simple-ssl](https://github.com/Really-Simple-Plugins/really-simple-ssl) - Easily improve site security with WordPress Hardening, Two-Factor Authentication (2FA), Login Protection, Vulnerability Detection and SSL certificate generation. (1 week ago)
