@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v2.5.1](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v2.5.1), 1 month ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v2.5.1](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v2.5.1), 2 months ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-get-cart-enhanced](https://github.com/cocart-headless/cocart-get-cart-enhanced) ([v4.0.4](https://github.com/cocart-headless/cocart-get-cart-enhanced/releases/tag/v4.0.4), 1 year ago) - This free add-on enhances the cart response by returning additional data for both the cart and the items added to it.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 1 year ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 1 year ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [WordPress/abilities-api](https://github.com/WordPress/abilities-api) (4 days ago)
-- [10up/safe-svg](https://github.com/10up/safe-svg) - Enable SVG uploads and sanitize them to stop XML/SVG vulnerabilities in your WordPress website. (5 days ago)
-- [OllieWP/menu-designer](https://github.com/OllieWP/menu-designer) - Create beautiful, content-rich mega menus in WordPress using the power of the block editor. (5 days ago)
+- [WordPress/abilities-api](https://github.com/WordPress/abilities-api) (5 days ago)
+- [10up/safe-svg](https://github.com/10up/safe-svg) - Enable SVG uploads and sanitize them to stop XML/SVG vulnerabilities in your WordPress website. (6 days ago)
+- [OllieWP/menu-designer](https://github.com/OllieWP/menu-designer) - Create beautiful, content-rich mega menus in WordPress using the power of the block editor. (6 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 - [LasseRafn/ui-avatars](https://github.com/LasseRafn/ui-avatars) (1 week ago)
