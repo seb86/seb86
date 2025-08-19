@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable websites. (today)
 - [WordPress/abilities-api](https://github.com/WordPress/abilities-api) (5 days ago)
 - [10up/safe-svg](https://github.com/10up/safe-svg) - Enable SVG uploads and sanitize them to stop XML/SVG vulnerabilities in your WordPress website. (6 days ago)
 - [OllieWP/menu-designer](https://github.com/OllieWP/menu-designer) - Create beautiful, content-rich mega menus in WordPress using the power of the block editor. (6 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
-- [LasseRafn/ui-avatars](https://github.com/LasseRafn/ui-avatars) (1 week ago)
