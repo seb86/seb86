@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [multiplehats/wc-now](https://github.com/multiplehats/wc-now) (1 day ago)
-- [troychaplin/wp-dependency-manager](https://github.com/troychaplin/wp-dependency-manager) - A modern WordPress development setup using a monorepo architecture with Turbo for build orchestration and npm workspaces for package management. (1 day ago)
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable websites. (4 days ago)
+- [multiplehats/wc-now](https://github.com/multiplehats/wc-now) (2 days ago)
+- [troychaplin/wp-dependency-manager](https://github.com/troychaplin/wp-dependency-manager) - A modern WordPress development setup using a monorepo architecture with Turbo for build orchestration and npm workspaces for package management. (2 days ago)
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable websites. (5 days ago)
 - [WordPress/abilities-api](https://github.com/WordPress/abilities-api) (1 week ago)
 - [10up/safe-svg](https://github.com/10up/safe-svg) - Enable SVG uploads and sanitize them to stop XML/SVG vulnerabilities in your WordPress website. (1 week ago)
