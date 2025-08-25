@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [terminaldotshop/terminal](https://github.com/terminaldotshop/terminal) (today)
 - [getseline/seline-js](https://github.com/getseline/seline-js) (today)
 - [multiplehats/wc-now](https://github.com/multiplehats/wc-now) (3 days ago)
 - [troychaplin/wp-dependency-manager](https://github.com/troychaplin/wp-dependency-manager) - A modern WordPress development setup using a monorepo architecture with Turbo for build orchestration and npm workspaces for package management. (3 days ago)
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable websites. (6 days ago)
-- [WordPress/abilities-api](https://github.com/WordPress/abilities-api) (1 week ago)
