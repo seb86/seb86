@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging (today)
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks. (today)
+- [aloisdeniel/flutter_omarchy](https://github.com/aloisdeniel/flutter_omarchy) - Develop Flutter apps for Omarchy. (today)
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (today)
 - [terminaldotshop/terminal](https://github.com/terminaldotshop/terminal) (1 day ago)
-- [getseline/seline-js](https://github.com/getseline/seline-js) (1 day ago)
-- [multiplehats/wc-now](https://github.com/multiplehats/wc-now) (4 days ago)
-- [troychaplin/wp-dependency-manager](https://github.com/troychaplin/wp-dependency-manager) - A modern WordPress development setup using a monorepo architecture with Turbo for build orchestration and npm workspaces for package management. (4 days ago)
