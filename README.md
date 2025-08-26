@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (today)
 - [terminaldotshop/terminal](https://github.com/terminaldotshop/terminal) (1 day ago)
 - [getseline/seline-js](https://github.com/getseline/seline-js) (1 day ago)
 - [multiplehats/wc-now](https://github.com/multiplehats/wc-now) (4 days ago)
 - [troychaplin/wp-dependency-manager](https://github.com/troychaplin/wp-dependency-manager) - A modern WordPress development setup using a monorepo architecture with Turbo for build orchestration and npm workspaces for package management. (4 days ago)
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive &amp; fully customizable React components for building stunning, memorable websites. (1 week ago)
