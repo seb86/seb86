@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor (today)
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before (1 day ago)
 - [wp-blocks/make-pot](https://github.com/wp-blocks/make-pot) - A node.js module that generates the pot file for your WordPress plugin or theme. (2 days ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 days ago)
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare  (5 days ago)
-- [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) - The best workflows and configurations I&#39;ve developed, having heavily used Claude Code since the day of it&#39;s release. Workflows are based off applied learnings from our AI-native startup. (1 week ago)
