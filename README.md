@@ -52,11 +52,11 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔨 Latest Pull Requests I have published
 
+- [Refactor/v3.0.0](https://github.com/cocart-headless/cocart-jwt-authentication/pull/37) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (today)
 - [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/32) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 month ago)
 - [Updating branch](https://github.com/co-cart/co-cart/pull/526) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
 - [Updating branch](https://github.com/co-cart/co-cart/pull/525) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
 - [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/25) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (2 months ago)
-- [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/18) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (4 months ago)
 
 #### ⭐ Recent Stars
 
