@@ -64,4 +64,4 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before (1 week ago)
 - [wp-blocks/make-pot](https://github.com/wp-blocks/make-pot) - A node.js module that generates the pot file for your WordPress plugin or theme. (1 week ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 week ago)
-- [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare  (1 week ago)
+- [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare  (2 weeks ago)
