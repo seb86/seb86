@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [google-gemini-php/client](https://github.com/google-gemini-php/client) - ⚡️ Gemini PHP is a community-maintained PHP API client that allows you to interact with the Gemini AI API. (today)
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations (4 days ago)
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) (4 days ago)
 - [funnelwheel/funnelwheel-country-based-pricing](https://github.com/funnelwheel/funnelwheel-country-based-pricing) - Apply country-specific pricing adjustments in WooCommerce using geolocation, billing address, or store base. (4 days ago)
 - [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor (1 week ago)
-- [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before (2 weeks ago)
