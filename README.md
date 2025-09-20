@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (4 days ago)
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (today)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (1 month ago)
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (2 months ago)
 - [seb86/wp-proxy-api](https://github.com/seb86/wp-proxy-api) - Provides a WordPress-style plugin info API, using data fetched from GitHub releases. It is ideal for custom plugin update APIs or integration with WordPress plugin management tools. (2 months ago)
@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v2.5.2](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v2.5.2), 4 days ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v3.0.0](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v3.0.0), today) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.8.0-beta.1](https://github.com/co-cart/co-cart/releases/tag/v4.8.0-beta.1), 1 week ago) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 1 year ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 1 year ago) - Enables support for CORS to allow CoCart to work across multiple domains.
@@ -52,11 +52,11 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔨 Latest Pull Requests I have published
 
+- [Refactored the plugin and added more capabilities ](https://github.com/cocart-headless/cocart-jwt-authentication/pull/38) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (today)
 - [Refactor/v3.0.0](https://github.com/cocart-headless/cocart-jwt-authentication/pull/37) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (4 days ago)
 - [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/32) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 month ago)
 - [Updating branch](https://github.com/co-cart/co-cart/pull/526) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
 - [Updating branch](https://github.com/co-cart/co-cart/pull/525) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (2 months ago)
-- [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/25) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (2 months ago)
 
 #### ⭐ Recent Stars
 
