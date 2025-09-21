@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (today)
 - [google-gemini-php/client](https://github.com/google-gemini-php/client) - ⚡️ Gemini PHP is a community-maintained PHP API client that allows you to interact with the Gemini AI API. (1 day ago)
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations (5 days ago)
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) (5 days ago)
 - [funnelwheel/funnelwheel-country-based-pricing](https://github.com/funnelwheel/funnelwheel-country-based-pricing) - Apply country-specific pricing adjustments in WooCommerce using geolocation, billing address, or store base. (5 days ago)
-- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor (2 weeks ago)
