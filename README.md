@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library. (today)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (2 days ago)
 - [google-gemini-php/client](https://github.com/google-gemini-php/client) - ⚡️ Gemini PHP is a community-maintained PHP API client that allows you to interact with the Gemini AI API. (3 days ago)
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations (1 week ago)
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) (1 week ago)
-- [funnelwheel/funnelwheel-country-based-pricing](https://github.com/funnelwheel/funnelwheel-country-based-pricing) - Apply country-specific pricing adjustments in WooCommerce using geolocation, billing address, or store base. (1 week ago)
