@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Mirror of https://codeberg.org/Limine/Limine) (today)
 - [rmorse/launch-claude-terminal-vscode](https://github.com/rmorse/launch-claude-terminal-vscode) - Adds a context menu to open the workspace or file in an external terminal (outside of VS Code) with Claude Code (3 days ago)
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library. (3 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (5 days ago)
 - [google-gemini-php/client](https://github.com/google-gemini-php/client) - ⚡️ Gemini PHP is a community-maintained PHP API client that allows you to interact with the Gemini AI API. (6 days ago)
-- [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations (1 week ago)
