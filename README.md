@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [malik-na/omarchy-mac](https://github.com/malik-na/omarchy-mac) - Opinionated Arch/Hyprland Setup for Apple Silicon MacBooks M1/M2 (today)
 - [pontusab/directories](https://github.com/pontusab/directories) - The Cursor &amp; Windsurf community, find rules and MCPs (1 day ago)
 - [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Mirror of https://codeberg.org/Limine/Limine) (2 days ago)
 - [rmorse/launch-claude-terminal-vscode](https://github.com/rmorse/launch-claude-terminal-vscode) - Adds a context menu to open the workspace or file in an external terminal (outside of VS Code) with Claude Code (5 days ago)
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library. (5 days ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (1 week ago)
