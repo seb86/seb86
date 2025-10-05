@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (2 days ago)
+- [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (3 days ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 week ago)
 - [co-cart/cocart-api-reference-docs](https://github.com/co-cart/cocart-api-reference-docs) - API Reference for CoCart, CoCart Pro and it&#39;s add-ons. (2 weeks ago)
 - [cocart-headless/.github](https://github.com/cocart-headless/.github) -  (2 weeks ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [jakubfoglar/raveo](https://github.com/jakubfoglar/raveo) - Raveo is a warmer version of the Inter typeface. (1 day ago)
-- [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (2 days ago)
-- [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) - An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. (3 days ago)
-- [Automattic/woocommerce-payments](https://github.com/Automattic/woocommerce-payments) - Securely accept major credit and debit cards, and allow customers to pay you directly without leaving your WooCommerce store. View and manage transactions from one convenient place - your WordPress dashboard. (3 days ago)
-- [malik-na/omarchy-mac](https://github.com/malik-na/omarchy-mac) - Opinionated Arch/Hyprland Setup for Apple Silicon MacBooks M1/M2 (6 days ago)
+- [jakubfoglar/raveo](https://github.com/jakubfoglar/raveo) - Raveo is a warmer version of the Inter typeface. (2 days ago)
+- [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (3 days ago)
+- [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) - An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. (4 days ago)
+- [Automattic/woocommerce-payments](https://github.com/Automattic/woocommerce-payments) - Securely accept major credit and debit cards, and allow customers to pay you directly without leaving your WooCommerce store. View and manage transactions from one convenient place - your WordPress dashboard. (4 days ago)
+- [malik-na/omarchy-mac](https://github.com/malik-na/omarchy-mac) - Opinionated Arch/Hyprland Setup for Apple Silicon MacBooks M1/M2 (1 week ago)
