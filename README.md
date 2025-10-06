@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [wpengine/hwptoolkit](https://github.com/wpengine/hwptoolkit) - Headless WordPress Toolkit (today)
 - [UnwrappedDesign/oxbow](https://github.com/UnwrappedDesign/oxbow) (1 day ago)
 - [wp-phpunit/example-project](https://github.com/wp-phpunit/example-project) - A complete example for using WP PHPUnit in the context of a full WordPress site or app. (1 day ago)
 - [jakubfoglar/raveo](https://github.com/jakubfoglar/raveo) - Raveo is a warmer version of the Inter typeface. (3 days ago)
 - [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (4 days ago)
-- [WordPress/mcp-adapter](https://github.com/WordPress/mcp-adapter) - An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically. (5 days ago)
