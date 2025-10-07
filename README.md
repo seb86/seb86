@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [wp-cli/doctor-command](https://github.com/wp-cli/doctor-command) - Diagnose problems within WordPress by running a series of checks for symptoms (today)
 - [wpengine/hwptoolkit](https://github.com/wpengine/hwptoolkit) - Headless WordPress Toolkit (1 day ago)
 - [UnwrappedDesign/oxbow](https://github.com/UnwrappedDesign/oxbow) (2 days ago)
 - [wp-phpunit/example-project](https://github.com/wp-phpunit/example-project) - A complete example for using WP PHPUnit in the context of a full WordPress site or app. (2 days ago)
 - [jakubfoglar/raveo](https://github.com/jakubfoglar/raveo) - Raveo is a warmer version of the Inter typeface. (4 days ago)
-- [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (5 days ago)
