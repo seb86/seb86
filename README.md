@@ -25,11 +25,11 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (1 day ago)
+- [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (2 days ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
 - [co-cart/cocart-api-reference-docs](https://github.com/co-cart/cocart-api-reference-docs) - API Reference for CoCart, CoCart Pro and it&#39;s add-ons. (2 weeks ago)
 - [cocart-headless/.github](https://github.com/cocart-headless/.github) -  (2 weeks ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (1 month ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (2 months ago)
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (2 months ago)
 - [seb86/wp-proxy-api](https://github.com/seb86/wp-proxy-api) - Provides a WordPress-style plugin info API, using data fetched from GitHub releases. It is ideal for custom plugin update APIs or integration with WordPress plugin management tools. (3 months ago)
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) - Enables support for CORS to allow CoCart to work across multiple domains. (4 months ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [wp-cli/doctor-command](https://github.com/wp-cli/doctor-command) - Diagnose problems within WordPress by running a series of checks for symptoms (today)
-- [wpengine/hwptoolkit](https://github.com/wpengine/hwptoolkit) - Headless WordPress Toolkit (1 day ago)
-- [UnwrappedDesign/oxbow](https://github.com/UnwrappedDesign/oxbow) (2 days ago)
-- [wp-phpunit/example-project](https://github.com/wp-phpunit/example-project) - A complete example for using WP PHPUnit in the context of a full WordPress site or app. (2 days ago)
-- [jakubfoglar/raveo](https://github.com/jakubfoglar/raveo) - Raveo is a warmer version of the Inter typeface. (4 days ago)
+- [wp-cli/doctor-command](https://github.com/wp-cli/doctor-command) - Diagnose problems within WordPress by running a series of checks for symptoms (1 day ago)
+- [wpengine/hwptoolkit](https://github.com/wpengine/hwptoolkit) - Headless WordPress Toolkit (2 days ago)
+- [UnwrappedDesign/oxbow](https://github.com/UnwrappedDesign/oxbow) (3 days ago)
+- [wp-phpunit/example-project](https://github.com/wp-phpunit/example-project) - A complete example for using WP PHPUnit in the context of a full WordPress site or app. (3 days ago)
+- [jakubfoglar/raveo](https://github.com/jakubfoglar/raveo) - Raveo is a warmer version of the Inter typeface. (5 days ago)
