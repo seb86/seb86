@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [panr/terminal-css](https://github.com/panr/terminal-css) - A simple, classless set of semantic styles derived from Hugo Terminal Theme (today)
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo (today)
 - [wp-cli/doctor-command](https://github.com/wp-cli/doctor-command) - Diagnose problems within WordPress by running a series of checks for symptoms (1 day ago)
 - [wpengine/hwptoolkit](https://github.com/wpengine/hwptoolkit) - Headless WordPress Toolkit (2 days ago)
 - [UnwrappedDesign/oxbow](https://github.com/UnwrappedDesign/oxbow) (3 days ago)
-- [wp-phpunit/example-project](https://github.com/wp-phpunit/example-project) - A complete example for using WP PHPUnit in the context of a full WordPress site or app. (3 days ago)
-- [jakubfoglar/raveo](https://github.com/jakubfoglar/raveo) - Raveo is a warmer version of the Inter typeface. (5 days ago)
