@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (5 days ago)
+- [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (6 days ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 weeks ago)
 - [co-cart/cocart-api-reference-docs](https://github.com/co-cart/cocart-api-reference-docs) - API Reference for CoCart, CoCart Pro and it&#39;s add-ons. (3 weeks ago)
 - [cocart-headless/.github](https://github.com/cocart-headless/.github) -  (3 weeks ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [panr/terminal-css](https://github.com/panr/terminal-css) - A simple, classless set of semantic styles derived from Hugo Terminal Theme (3 days ago)
-- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo (3 days ago)
-- [wp-cli/doctor-command](https://github.com/wp-cli/doctor-command) - Diagnose problems within WordPress by running a series of checks for symptoms (4 days ago)
-- [wpengine/hwptoolkit](https://github.com/wpengine/hwptoolkit) - Headless WordPress Toolkit (5 days ago)
-- [UnwrappedDesign/oxbow](https://github.com/UnwrappedDesign/oxbow) (6 days ago)
+- [panr/terminal-css](https://github.com/panr/terminal-css) - A simple, classless set of semantic styles derived from Hugo Terminal Theme (4 days ago)
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo (4 days ago)
+- [wp-cli/doctor-command](https://github.com/wp-cli/doctor-command) - Diagnose problems within WordPress by running a series of checks for symptoms (5 days ago)
+- [wpengine/hwptoolkit](https://github.com/wpengine/hwptoolkit) - Headless WordPress Toolkit (6 days ago)
+- [UnwrappedDesign/oxbow](https://github.com/UnwrappedDesign/oxbow) (1 week ago)
