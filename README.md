@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [LegacyUpdate/LegacyUpdate](https://github.com/LegacyUpdate/LegacyUpdate) - Get back online, activate, and install updates on your legacy Windows PC (today)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (1 day ago)
 - [panr/terminal-css](https://github.com/panr/terminal-css) - A simple, classless set of semantic styles derived from Hugo Terminal Theme (6 days ago)
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo (6 days ago)
 - [wp-cli/doctor-command](https://github.com/wp-cli/doctor-command) - Diagnose problems within WordPress by running a series of checks for symptoms (1 week ago)
-- [wpengine/hwptoolkit](https://github.com/wpengine/hwptoolkit) - Headless WordPress Toolkit (1 week ago)
