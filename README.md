@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition (today)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (2 days ago)
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video (5 days ago)
 - [LegacyUpdate/LegacyUpdate](https://github.com/LegacyUpdate/LegacyUpdate) - Get back online, activate, and install updates on your legacy Windows PC (5 days ago)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors (6 days ago)
-- [panr/terminal-css](https://github.com/panr/terminal-css) - A simple, classless set of semantic styles derived from Hugo Terminal Theme (1 week ago)
