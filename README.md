@@ -17,11 +17,11 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart JWT Authentication Recap](https://cocart.dev/cocart-jwt-authentication-recap/) (4 months ago)
-- [Recap on CoCart Updates for v4.3](https://cocart.dev/recap-on-cocart-updates-for-v4-3/) (5 months ago)
-- [Developer Advisory: CoCart Repaired](https://cocart.dev/developer-advisory-cocart-repaired/) (1 year ago)
-- [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocart.dev/cocart-4-2-released-session-and-compatibility-improvements/) (1 year ago)
-- [CoCart 4.2: Release Candidate 2](https://cocart.dev/cocart-4-2-release-candidate-2/) (1 year ago)
+- [CoCart JWT Authentication Recap](https://cocartapi.com/cocart-jwt-authentication-recap/) (4 months ago)
+- [Recap on CoCart Updates for v4.3](https://cocartapi.com/recap-on-cocart-updates-for-v4-3/) (5 months ago)
+- [Developer Advisory: CoCart Repaired](https://cocartapi.com/developer-advisory-cocart-repaired/) (1 year ago)
+- [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocartapi.com/cocart-4-2-released-session-and-compatibility-improvements/) (1 year ago)
+- [CoCart 4.2: Release Candidate 2](https://cocartapi.com/cocart-4-2-release-candidate-2/) (1 year ago)
 
 #### 👷 Currently working on
 
