@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (4 days ago)
+- [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (5 days ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 month ago)
 - [co-cart/cocart-api-reference-docs](https://github.com/co-cart/cocart-api-reference-docs) - API Reference for CoCart, CoCart Pro and it&#39;s add-ons. (1 month ago)
 - [cocart-headless/.github](https://github.com/cocart-headless/.github) -  (1 month ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [RPCSX/rpcsx](https://github.com/RPCSX/rpcsx) (today)
-- [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (5 days ago)
-- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web (6 days ago)
+- [RPCSX/rpcsx](https://github.com/RPCSX/rpcsx) (1 day ago)
+- [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (6 days ago)
+- [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web (1 week ago)
 - [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition (1 week ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (1 week ago)
