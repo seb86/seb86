@@ -56,12 +56,12 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [Refactored the plugin and added more capabilities ](https://github.com/cocart-headless/cocart-jwt-authentication/pull/38) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 month ago)
 - [Refactor/v3.0.0](https://github.com/cocart-headless/cocart-jwt-authentication/pull/37) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 month ago)
 - [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/32) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (2 months ago)
-- [Updating branch](https://github.com/co-cart/co-cart/pull/526) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (3 months ago)
+- [Updating branch](https://github.com/co-cart/co-cart/pull/526) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [rendi-api/ffmpeg-cheatsheet](https://github.com/rendi-api/ffmpeg-cheatsheet) - A categorized collection of FFmpeg commands for video automation pipelines. (today)
-- [SimonvBez/CPUSetSetter](https://github.com/SimonvBez/CPUSetSetter) - Make your games and apps run on the right CPU cores - for smoother performance on Dual-CCD AMD 3D V-Cache processors. (1 day ago)
-- [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers. (3 days ago)
-- [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL (3 days ago)
-- [xXJSONDeruloXx/decky-lsfg-vk](https://github.com/xXJSONDeruloXx/decky-lsfg-vk) - Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux (3 days ago)
+- [rendi-api/ffmpeg-cheatsheet](https://github.com/rendi-api/ffmpeg-cheatsheet) - A categorized collection of FFmpeg commands for video automation pipelines. (1 day ago)
+- [SimonvBez/CPUSetSetter](https://github.com/SimonvBez/CPUSetSetter) - Make your games and apps run on the right CPU cores - for smoother performance on Dual-CCD AMD 3D V-Cache processors. (2 days ago)
+- [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers. (4 days ago)
+- [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL (4 days ago)
+- [xXJSONDeruloXx/decky-lsfg-vk](https://github.com/xXJSONDeruloXx/decky-lsfg-vk) - Decky plugin to streamline installation and usage of lsfg-vk; the Lossless Scaling compatibility layer for linux (4 days ago)
