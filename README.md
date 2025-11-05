@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [Rocky5/XBMC4Gamers](https://github.com/Rocky5/XBMC4Gamers) - This is a skin with custom python scripts (allow each profile to have there own saves) for people that want a fancy UI for just there games. (today)
+- [MakeMHz/xenium-fw-update](https://github.com/MakeMHz/xenium-fw-update) - Firmware update for XeniumOS used on Xenium and OpenXenium modchips to provide software fixes and various improvements. (today)
+- [MakeMHz/xbox-hd-plus](https://github.com/MakeMHz/xbox-hd-plus) - The first and only purely digital video output mod for the original Microsoft Xbox.  (today)
+- [MakeMHz/xbox-hd-plus-app](https://github.com/MakeMHz/xbox-hd-plus-app) - The xbox-hd-plus-app is an open-source homebrew application for the Orginal Xbox to allow basic control and firmware updating of the XboxHD&#43; mod by MakeMHz LLC. (today)
 - [PSP-Archive/ARK-4](https://github.com/PSP-Archive/ARK-4) - Next Generation Custom Firmware for the PSP and Vita&#39;s ePSP. (2 days ago)
-- [rendi-api/ffmpeg-cheatsheet](https://github.com/rendi-api/ffmpeg-cheatsheet) - A categorized collection of FFmpeg commands for video automation pipelines. (4 days ago)
-- [SimonvBez/CPUSetSetter](https://github.com/SimonvBez/CPUSetSetter) - Make your games and apps run on the right CPU cores - for smoother performance on Dual-CCD AMD 3D V-Cache processors. (5 days ago)
-- [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers. (1 week ago)
-- [xXJSONDeruloXx/Decky-Framegen](https://github.com/xXJSONDeruloXx/Decky-Framegen) - Steam Deck Plugin to apply Framegen mods to games by replacing DLSS DLL with FSR3 DLL (1 week ago)
