@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [MakeMHz/project-stellar](https://github.com/MakeMHz/project-stellar) - The world&#39;s most powerful add-on for the Original Xbox. StellarOS is the first completely legal re-implementation of the retail Xbox BIOS. (today)
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box (today)
 - [saulotarsobc/electronjs-with-nextjs](https://github.com/saulotarsobc/electronjs-with-nextjs) - ElectronJS application with NextJS and TypeScript. (today)
 - [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. (today)
 - [Squirrel/Squirrel.Mac](https://github.com/Squirrel/Squirrel.Mac) - :shipit: Cocoa framework for updating OS X apps :shipit: (today)
-- [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps (today)
