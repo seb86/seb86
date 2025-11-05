@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. (today)
+- [Squirrel/Squirrel.Mac](https://github.com/Squirrel/Squirrel.Mac) - :shipit: Cocoa framework for updating OS X apps :shipit: (today)
+- [Squirrel/Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) - An installation and update framework for Windows desktop apps (today)
+- [electron/windows-installer](https://github.com/electron/windows-installer) - Build Windows Installers for Electron apps (today)
 - [Rocky5/XBMC4Gamers](https://github.com/Rocky5/XBMC4Gamers) - This is a skin with custom python scripts (allow each profile to have there own saves) for people that want a fancy UI for just there games. (today)
-- [MakeMHz/xenium-fw-update](https://github.com/MakeMHz/xenium-fw-update) - Firmware update for XeniumOS used on Xenium and OpenXenium modchips to provide software fixes and various improvements. (today)
-- [MakeMHz/xbox-hd-plus](https://github.com/MakeMHz/xbox-hd-plus) - The first and only purely digital video output mod for the original Microsoft Xbox.  (today)
-- [MakeMHz/xbox-hd-plus-app](https://github.com/MakeMHz/xbox-hd-plus-app) - The xbox-hd-plus-app is an open-source homebrew application for the Orginal Xbox to allow basic control and firmware updating of the XboxHD&#43; mod by MakeMHz LLC. (today)
-- [PSP-Archive/ARK-4](https://github.com/PSP-Archive/ARK-4) - Next Generation Custom Firmware for the PSP and Vita&#39;s ePSP. (2 days ago)
