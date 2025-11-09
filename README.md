@@ -55,13 +55,13 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/39) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 month ago)
 - [Refactored the plugin and added more capabilities ](https://github.com/cocart-headless/cocart-jwt-authentication/pull/38) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 month ago)
 - [Refactor/v3.0.0](https://github.com/cocart-headless/cocart-jwt-authentication/pull/37) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 month ago)
-- [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/32) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (2 months ago)
+- [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/32) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (3 months ago)
 - [Updating branch](https://github.com/co-cart/co-cart/pull/526) on [co-cart/co-cart](https://github.com/co-cart/co-cart) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [MakeMHz/project-stellar](https://github.com/MakeMHz/project-stellar) - The world&#39;s most powerful add-on for the Original Xbox. StellarOS is the first completely legal re-implementation of the retail Xbox BIOS. (3 days ago)
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box (3 days ago)
-- [saulotarsobc/electronjs-with-nextjs](https://github.com/saulotarsobc/electronjs-with-nextjs) - ElectronJS application with NextJS and TypeScript. (3 days ago)
-- [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. (3 days ago)
-- [Squirrel/Squirrel.Mac](https://github.com/Squirrel/Squirrel.Mac) - :shipit: Cocoa framework for updating OS X apps :shipit: (3 days ago)
+- [MakeMHz/project-stellar](https://github.com/MakeMHz/project-stellar) - The world&#39;s most powerful add-on for the Original Xbox. StellarOS is the first completely legal re-implementation of the retail Xbox BIOS. (4 days ago)
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box (4 days ago)
+- [saulotarsobc/electronjs-with-nextjs](https://github.com/saulotarsobc/electronjs-with-nextjs) - ElectronJS application with NextJS and TypeScript. (4 days ago)
+- [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. (4 days ago)
+- [Squirrel/Squirrel.Mac](https://github.com/Squirrel/Squirrel.Mac) - :shipit: Cocoa framework for updating OS X apps :shipit: (4 days ago)
