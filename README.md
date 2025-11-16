@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) (today)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (6 days ago)
 - [MakeMHz/project-stellar](https://github.com/MakeMHz/project-stellar) - The world&#39;s most powerful add-on for the Original Xbox. StellarOS is the first completely legal re-implementation of the retail Xbox BIOS. (1 week ago)
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box (1 week ago)
 - [saulotarsobc/electronjs-with-nextjs](https://github.com/saulotarsobc/electronjs-with-nextjs) - ElectronJS application with NextJS and TypeScript. (1 week ago)
-- [ReactiveCocoa/ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) - Cocoa framework and Obj-C dynamism bindings for ReactiveSwift. (1 week ago)
