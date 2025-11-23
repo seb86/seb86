@@ -26,7 +26,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 #### 👷 Currently working on
 
 - [seb86/revenuenotify-polar-releases](https://github.com/seb86/revenuenotify-polar-releases) - Host releases for Revenue Notify app for Polar (1 week ago)
-- [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (4 weeks ago)
+- [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (1 month ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 months ago)
 - [cocart-headless/.github](https://github.com/cocart-headless/.github) -  (2 months ago)
 - [co-cart/cocart-api-reference-docs](https://github.com/co-cart/cocart-api-reference-docs) - API Reference for CoCart, CoCart Pro and it&#39;s add-ons. (2 months ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (1 day ago)
-- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK. (4 days ago)
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) (6 days ago)
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (2 days ago)
+- [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK. (5 days ago)
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) (1 week ago)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (1 week ago)
 - [MakeMHz/project-stellar](https://github.com/MakeMHz/project-stellar) - The world&#39;s most powerful add-on for the Original Xbox. StellarOS is the first completely legal re-implementation of the retail Xbox BIOS. (2 weeks ago)
