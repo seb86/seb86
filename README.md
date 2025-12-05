@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [ryokun6/ryos](https://github.com/ryokun6/ryos) - ryOS, made with Cursor (today)
 - [SAP/macOS-icon-generator](https://github.com/SAP/macOS-icon-generator) - Icons for macOS is the easiest way to create customized app icons in PNG format for your company’s internal app store. No graphic skills needed. (1 day ago)
 - [electron/osx-sign](https://github.com/electron/osx-sign) - Codesign Electron macOS apps (2 days ago)
 - [sindresorhus/to-milliseconds](https://github.com/sindresorhus/to-milliseconds) - Convert an object of time properties to milliseconds: `{seconds: 2}` → `2000` (2 days ago)
 - [sindresorhus/electron-is-dev](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development (2 days ago)
-- [tom-james-watson/breaktimer-app](https://github.com/tom-james-watson/breaktimer-app) - Manage periodic breaks. Avoid eye-strain and RSI. (3 days ago)
