@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector  (today)
+- [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS. (today)
 - [ryokun6/ryos](https://github.com/ryokun6/ryos) - ryOS, made with Cursor (1 day ago)
 - [SAP/macOS-icon-generator](https://github.com/SAP/macOS-icon-generator) - Icons for macOS is the easiest way to create customized app icons in PNG format for your company’s internal app store. No graphic skills needed. (2 days ago)
 - [electron/osx-sign](https://github.com/electron/osx-sign) - Codesign Electron macOS apps (3 days ago)
-- [sindresorhus/to-milliseconds](https://github.com/sindresorhus/to-milliseconds) - Convert an object of time properties to milliseconds: `{seconds: 2}` → `2000` (3 days ago)
-- [sindresorhus/electron-is-dev](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development (3 days ago)
