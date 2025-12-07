@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [remvze/gitviews](https://github.com/remvze/gitviews) - ✨ GitHub profile and repo view counter. (today)
+- [ephraimduncan/blocks](https://github.com/ephraimduncan/blocks) - An open-source library of UI blocks. Built with React, Tailwind and shadcn/ui (today)
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector  (1 day ago)
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS. (1 day ago)
 - [ryokun6/ryos](https://github.com/ryokun6/ryos) - ryOS, made with Cursor (2 days ago)
-- [SAP/macOS-icon-generator](https://github.com/SAP/macOS-icon-generator) - Icons for macOS is the easiest way to create customized app icons in PNG format for your company’s internal app store. No graphic skills needed. (3 days ago)
-- [electron/osx-sign](https://github.com/electron/osx-sign) - Codesign Electron macOS apps (4 days ago)
