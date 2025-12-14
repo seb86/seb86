@@ -17,7 +17,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
-- [CoCart JWT Authentication Recap](https://cocartapi.com/cocart-jwt-authentication-recap/) (5 months ago)
+- [CoCart JWT Authentication Recap](https://cocartapi.com/cocart-jwt-authentication-recap/) (6 months ago)
 - [Recap on CoCart Updates for v4.3](https://cocartapi.com/recap-on-cocart-updates-for-v4-3/) (7 months ago)
 - [Developer Advisory: CoCart Repaired](https://cocartapi.com/developer-advisory-cocart-repaired/) (1 year ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocartapi.com/cocart-4-2-released-session-and-compatibility-improvements/) (1 year ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [remvze/gitviews](https://github.com/remvze/gitviews) - ✨ GitHub profile and repo view counter. (6 days ago)
-- [ephraimduncan/blocks](https://github.com/ephraimduncan/blocks) - An open-source library of UI blocks. Built with React, Tailwind and shadcn/ui (6 days ago)
+- [remvze/gitviews](https://github.com/remvze/gitviews) - ✨ GitHub profile and repo view counter. (1 week ago)
+- [ephraimduncan/blocks](https://github.com/ephraimduncan/blocks) - An open-source library of UI blocks. Built with React, Tailwind and shadcn/ui (1 week ago)
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector  (1 week ago)
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS. (1 week ago)
 - [ryokun6/ryos](https://github.com/ryokun6/ryos) - ryOS, made with Cursor (1 week ago)
