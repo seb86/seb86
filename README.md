@@ -26,7 +26,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 #### 👷 Currently working on
 
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 week ago)
-- [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) - 🎁 App deals for Black Friday/Cyber Monday etc. Free to submit yours! (1 week ago)
+- [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) - 🎁 App deals for Black Friday/Cyber Monday etc. Free to submit yours! (2 weeks ago)
 - [seb86/revenuenotify-releases](https://github.com/seb86/revenuenotify-releases) - Host releases for Revenue Notify app (1 month ago)
 - [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (1 month ago)
 - [co-cart/cocart-api-reference-docs](https://github.com/co-cart/cocart-api-reference-docs) - API Reference for CoCart, CoCart Pro and it&#39;s add-ons. (2 months ago)
@@ -52,16 +52,16 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔨 Latest Pull Requests I have published
 
-- [Add RevenueNotify to the product list in README](https://github.com/danmindru/rare-big-deal/pull/648) on [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) (1 week ago)
-- [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/43) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 week ago)
+- [Add RevenueNotify to the product list in README](https://github.com/danmindru/rare-big-deal/pull/648) on [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) (2 weeks ago)
+- [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/43) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (2 weeks ago)
 - [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/39) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (2 months ago)
 - [Refactored the plugin and added more capabilities ](https://github.com/cocart-headless/cocart-jwt-authentication/pull/38) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (2 months ago)
-- [Refactor/v3.0.0](https://github.com/cocart-headless/cocart-jwt-authentication/pull/37) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (2 months ago)
+- [Refactor/v3.0.0](https://github.com/cocart-headless/cocart-jwt-authentication/pull/37) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (3 months ago)
 
 #### ⭐ Recent Stars
 
-- [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform  (today)
-- [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) - 💱 Currency data API (today)
+- [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform  (1 day ago)
+- [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) - 💱 Currency data API (1 day ago)
 - [remvze/gitviews](https://github.com/remvze/gitviews) - ✨ GitHub profile and repo view counter. (1 week ago)
 - [ephraimduncan/blocks](https://github.com/ephraimduncan/blocks) - An open-source library of UI blocks. Built with React, Tailwind and shadcn/ui (1 week ago)
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector  (1 week ago)
