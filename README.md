@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - Native macOS menu bar app for finding and killing processes on open ports. Perfect for developers. (today)
+- [PaddleHQ/paddle-node-sdk](https://github.com/PaddleHQ/paddle-node-sdk) - Node.js SDK for working with the Paddle API in server-side apps. (today)
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3 (1 day ago)
 - [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows (1 day ago)
 - [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform  (2 days ago)
-- [lineofflight/frankfurter](https://github.com/lineofflight/frankfurter) - 💱 Currency data API (2 days ago)
-- [remvze/gitviews](https://github.com/remvze/gitviews) - ✨ GitHub profile and repo view counter. (1 week ago)
