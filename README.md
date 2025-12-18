@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [catdad/electronmon](https://github.com/catdad/electronmon) - 🖥 run, watch, and restart electron apps using magic (today)
 - [Meridius-Labs/electron-liquid-glass](https://github.com/Meridius-Labs/electron-liquid-glass) - ⚛️  Electron bindings for Apple Liquid Glass (1 day ago)
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - Native macOS menu bar app for finding and killing processes on open ports. Perfect for developers. (2 days ago)
 - [PaddleHQ/paddle-node-sdk](https://github.com/PaddleHQ/paddle-node-sdk) - Node.js SDK for working with the Paddle API in server-side apps. (2 days ago)
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3 (3 days ago)
-- [raghavyuva/nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows (3 days ago)
