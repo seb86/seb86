@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [zachleat/snow-fall](https://github.com/zachleat/snow-fall) - A web component to add snow to your web site (or to an element on your web site). (today)
-- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (today)
-- [saadiq/cc_wrapped](https://github.com/saadiq/cc_wrapped) (today)
-- [catdad/electronmon](https://github.com/catdad/electronmon) - 🖥 run, watch, and restart electron apps using magic (1 day ago)
-- [Meridius-Labs/electron-liquid-glass](https://github.com/Meridius-Labs/electron-liquid-glass) - ⚛️  Electron bindings for Apple Liquid Glass (2 days ago)
+- [zachleat/snow-fall](https://github.com/zachleat/snow-fall) - A web component to add snow to your web site (or to an element on your web site). (1 day ago)
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (1 day ago)
+- [saadiq/cc_wrapped](https://github.com/saadiq/cc_wrapped) (1 day ago)
+- [catdad/electronmon](https://github.com/catdad/electronmon) - 🖥 run, watch, and restart electron apps using magic (2 days ago)
+- [Meridius-Labs/electron-liquid-glass](https://github.com/Meridius-Labs/electron-liquid-glass) - ⚛️  Electron bindings for Apple Liquid Glass (3 days ago)
