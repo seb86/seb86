@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift (today)
 - [Kuberwastaken/awesome-fucking-websites](https://github.com/Kuberwastaken/awesome-fucking-websites) - A curated list of websites that tell you to just use the fucking tool. (today)
 - [zachleat/snow-fall](https://github.com/zachleat/snow-fall) - A web component to add snow to your web site (or to an element on your web site). (2 days ago)
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (2 days ago)
 - [saadiq/cc_wrapped](https://github.com/saadiq/cc_wrapped) (2 days ago)
-- [catdad/electronmon](https://github.com/catdad/electronmon) - 🖥 run, watch, and restart electron apps using magic (3 days ago)
