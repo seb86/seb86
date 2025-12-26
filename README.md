@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more! (today)
 - [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - my windows setup (3 days ago)
 - [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift (5 days ago)
 - [Kuberwastaken/awesome-fucking-websites](https://github.com/Kuberwastaken/awesome-fucking-websites) - A curated list of websites that tell you to just use the fucking tool. (5 days ago)
 - [zachleat/snow-fall](https://github.com/zachleat/snow-fall) - A web component to add snow to your web site (or to an element on your web site). (1 week ago)
-- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (1 week ago)
