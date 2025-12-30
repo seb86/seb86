@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [rokartur/BetterAudio](https://github.com/rokartur/BetterAudio) - A better way to manage audio on macOS (3 days ago)
-- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more! (3 days ago)
-- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - my windows setup (6 days ago)
+- [rokartur/BetterAudio](https://github.com/rokartur/BetterAudio) - A better way to manage audio on macOS (4 days ago)
+- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more! (4 days ago)
+- [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - my windows setup (1 week ago)
 - [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift (1 week ago)
 - [Kuberwastaken/awesome-fucking-websites](https://github.com/Kuberwastaken/awesome-fucking-websites) - A curated list of websites that tell you to just use the fucking tool. (1 week ago)
