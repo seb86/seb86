@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [barefootford/buttercut](https://github.com/barefootford/buttercut) - Edit Video with Claude Code (today)
-- [rokartur/BetterAudio](https://github.com/rokartur/BetterAudio) - A better way to manage audio on macOS (5 days ago)
-- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more! (5 days ago)
+- [amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio) - Nanobanana fal AI powered Photoshop-esque Studio (1 day ago)
+- [barefootford/buttercut](https://github.com/barefootford/buttercut) - Edit Video with Claude Code (1 day ago)
+- [rokartur/BetterAudio](https://github.com/rokartur/BetterAudio) - A better way to manage audio on macOS (6 days ago)
+- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more! (6 days ago)
 - [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - my windows setup (1 week ago)
-- [jaywcjlove/awesome-swift-macos-apps](https://github.com/jaywcjlove/awesome-swift-macos-apps) - A curated collection of open-source macOS applications built with Swift (1 week ago)
