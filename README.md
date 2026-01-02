@@ -18,14 +18,14 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 #### 🛒 CoCart [Developer News](https://cocart.dev)
 
 - [CoCart JWT Authentication Recap](https://cocartapi.com/cocart-jwt-authentication-recap/) (6 months ago)
-- [Recap on CoCart Updates for v4.3](https://cocartapi.com/recap-on-cocart-updates-for-v4-3/) (7 months ago)
+- [Recap on CoCart Updates for v4.3](https://cocartapi.com/recap-on-cocart-updates-for-v4-3/) (8 months ago)
 - [Developer Advisory: CoCart Repaired](https://cocartapi.com/developer-advisory-cocart-repaired/) (1 year ago)
-- [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocartapi.com/cocart-4-2-released-session-and-compatibility-improvements/) (1 year ago)
+- [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocartapi.com/cocart-4-2-released-session-and-compatibility-improvements/) (2 years ago)
 - [CoCart 4.2: Release Candidate 2](https://cocartapi.com/cocart-4-2-release-candidate-2/) (2 years ago)
 
 #### 👷 Currently working on
 
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (4 weeks ago)
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 month ago)
 - [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) - 🎁 App deals for Black Friday/Cyber Monday etc. Free to submit yours! (1 month ago)
 - [seb86/revenuenotify-releases](https://github.com/seb86/revenuenotify-releases) - Host releases for Revenue Notify app (1 month ago)
 - [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (2 months ago)
@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v3.0.1](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v3.0.1), 4 weeks ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
+- [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v3.0.1](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v3.0.1), 1 month ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 1 year ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 1 year ago) - Enables support for CORS to allow CoCart to work across multiple domains.
 - [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.4](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.4), 1 year ago) - Enables the rate limiting feature for CoCart Plus or higher.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio) - Nanobanana fal AI powered Photoshop-esque Studio (1 day ago)
-- [barefootford/buttercut](https://github.com/barefootford/buttercut) - Edit Video with Claude Code (1 day ago)
-- [rokartur/BetterAudio](https://github.com/rokartur/BetterAudio) - A better way to manage audio on macOS (6 days ago)
-- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more! (6 days ago)
+- [amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio) - Nanobanana fal AI powered Photoshop-esque Studio (2 days ago)
+- [barefootford/buttercut](https://github.com/barefootford/buttercut) - Edit Video with Claude Code (2 days ago)
+- [rokartur/BetterAudio](https://github.com/rokartur/BetterAudio) - A better way to manage audio on macOS (1 week ago)
+- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more! (1 week ago)
 - [ashish0kumar/windots](https://github.com/ashish0kumar/windots) - my windows setup (1 week ago)
