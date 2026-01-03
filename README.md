@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [Jason-uxui/project-dashboard](https://github.com/Jason-uxui/project-dashboard) (today)
 - [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose) (today)
 - [amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio) - Nanobanana fal AI powered Photoshop-esque Studio (3 days ago)
 - [barefootford/buttercut](https://github.com/barefootford/buttercut) - Edit Video with Claude Code (3 days ago)
 - [rokartur/BetterAudio](https://github.com/rokartur/BetterAudio) - A better way to manage audio on macOS (1 week ago)
-- [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more! (1 week ago)
