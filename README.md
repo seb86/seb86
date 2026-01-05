@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [aaronpk/esp-badge](https://github.com/aaronpk/esp-badge) - esp32 with e-paper display (1 day ago)
-- [Jason-uxui/project-dashboard](https://github.com/Jason-uxui/project-dashboard) (1 day ago)
-- [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose) (1 day ago)
-- [amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio) - Nanobanana fal AI powered Photoshop-esque Studio (4 days ago)
-- [barefootford/buttercut](https://github.com/barefootford/buttercut) - Edit Video with Claude Code (4 days ago)
+- [aaronpk/esp-badge](https://github.com/aaronpk/esp-badge) - esp32 with e-paper display (2 days ago)
+- [Jason-uxui/project-dashboard](https://github.com/Jason-uxui/project-dashboard) (2 days ago)
+- [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose) (2 days ago)
+- [amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio) - Nanobanana fal AI powered Photoshop-esque Studio (5 days ago)
+- [barefootford/buttercut](https://github.com/barefootford/buttercut) - Edit Video with Claude Code (5 days ago)
