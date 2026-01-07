@@ -32,7 +32,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [cocart-headless/.github](https://github.com/cocart-headless/.github) -  (3 months ago)
 - [co-cart/cocart-api-reference-docs](https://github.com/co-cart/cocart-api-reference-docs) - API Reference for CoCart, CoCart Pro and it&#39;s add-ons. (3 months ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (5 months ago)
-- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (5 months ago)
+- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [robjama/Aranet4MenuBar](https://github.com/robjama/Aranet4MenuBar) - macOS menu bar app for monitoring Aranet4 air quality sensor and getting notifications  (1 day ago)
-- [aaronpk/esp-badge](https://github.com/aaronpk/esp-badge) - esp32 with e-paper display (3 days ago)
-- [Jason-uxui/project-dashboard](https://github.com/Jason-uxui/project-dashboard) (3 days ago)
-- [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose) (3 days ago)
-- [amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio) - Nanobanana fal AI powered Photoshop-esque Studio (6 days ago)
+- [robjama/Aranet4MenuBar](https://github.com/robjama/Aranet4MenuBar) - macOS menu bar app for monitoring Aranet4 air quality sensor and getting notifications  (2 days ago)
+- [aaronpk/esp-badge](https://github.com/aaronpk/esp-badge) - esp32 with e-paper display (4 days ago)
+- [Jason-uxui/project-dashboard](https://github.com/Jason-uxui/project-dashboard) (4 days ago)
+- [neiii/bridle](https://github.com/neiii/bridle) - TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose) (4 days ago)
+- [amrrs/fal-nanobanana-studio](https://github.com/amrrs/fal-nanobanana-studio) - Nanobanana fal AI powered Photoshop-esque Studio (1 week ago)
