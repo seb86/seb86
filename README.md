@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [woocommerce/woocommerce-gateway-stripe](https://github.com/woocommerce/woocommerce-gateway-stripe) - The official Stripe Payment Gateway for WooCommerce (today)
 - [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) - Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code (1 day ago)
 - [dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas) - Give Claude Code an external monitor (1 day ago)
 - [robjama/Aranet4MenuBar](https://github.com/robjama/Aranet4MenuBar) - macOS menu bar app for monitoring Aranet4 air quality sensor and getting notifications  (4 days ago)
 - [aaronpk/esp-badge](https://github.com/aaronpk/esp-badge) - esp32 with e-paper display (6 days ago)
-- [Jason-uxui/project-dashboard](https://github.com/Jason-uxui/project-dashboard) (6 days ago)
