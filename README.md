@@ -19,7 +19,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 - [CoCart JWT Authentication Recap](https://cocartapi.com/cocart-jwt-authentication-recap/) (6 months ago)
 - [Recap on CoCart Updates for v4.3](https://cocartapi.com/recap-on-cocart-updates-for-v4-3/) (8 months ago)
-- [Developer Advisory: CoCart Repaired](https://cocartapi.com/developer-advisory-cocart-repaired/) (1 year ago)
+- [Developer Advisory: CoCart Repaired](https://cocartapi.com/developer-advisory-cocart-repaired/) (2 years ago)
 - [CoCart 4.2 Released: Session and Compatibility Improvements](https://cocartapi.com/cocart-4-2-released-session-and-compatibility-improvements/) (2 years ago)
 - [CoCart 4.2: Release Candidate 2](https://cocartapi.com/cocart-4-2-release-candidate-2/) (2 years ago)
 
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [woocommerce/woocommerce-gateway-stripe](https://github.com/woocommerce/woocommerce-gateway-stripe) - The official Stripe Payment Gateway for WooCommerce (today)
-- [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) - Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code (1 day ago)
-- [dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas) - Give Claude Code an external monitor (1 day ago)
-- [robjama/Aranet4MenuBar](https://github.com/robjama/Aranet4MenuBar) - macOS menu bar app for monitoring Aranet4 air quality sensor and getting notifications  (4 days ago)
-- [aaronpk/esp-badge](https://github.com/aaronpk/esp-badge) - esp32 with e-paper display (6 days ago)
+- [woocommerce/woocommerce-gateway-stripe](https://github.com/woocommerce/woocommerce-gateway-stripe) - The official Stripe Payment Gateway for WooCommerce (1 day ago)
+- [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) - Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code (2 days ago)
+- [dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas) - Give Claude Code an external monitor (2 days ago)
+- [robjama/Aranet4MenuBar](https://github.com/robjama/Aranet4MenuBar) - macOS menu bar app for monitoring Aranet4 air quality sensor and getting notifications  (5 days ago)
+- [aaronpk/esp-badge](https://github.com/aaronpk/esp-badge) - esp32 with e-paper display (1 week ago)
