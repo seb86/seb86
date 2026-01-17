@@ -46,8 +46,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v3.0.1](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v3.0.1), 1 month ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 1 year ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
-- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 1 year ago) - Enables support for CORS to allow CoCart to work across multiple domains.
-- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.4](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.4), 1 year ago) - Enables the rate limiting feature for CoCart Plus or higher.
+- [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 2 years ago) - Enables support for CORS to allow CoCart to work across multiple domains.
+- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.4](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.4), 2 years ago) - Enables the rate limiting feature for CoCart Plus or higher.
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) ([nightly](https://github.com/co-cart/co-cart/releases/tag/nightly), 4 years ago) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy.
 
 #### 🔨 Latest Pull Requests I have published
@@ -64,4 +64,4 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) - Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code (1 week ago)
 - [dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas) - Give Claude Code an external monitor (1 week ago)
 - [robjama/Aranet4MenuBar](https://github.com/robjama/Aranet4MenuBar) - macOS menu bar app for monitoring Aranet4 air quality sensor and getting notifications  (1 week ago)
-- [aaronpk/esp-badge](https://github.com/aaronpk/esp-badge) - esp32 with e-paper display (1 week ago)
+- [aaronpk/esp-badge](https://github.com/aaronpk/esp-badge) - esp32 with e-paper display (2 weeks ago)
