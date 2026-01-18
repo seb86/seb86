@@ -29,8 +29,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) - 🎁 App deals for Black Friday/Cyber Monday etc. Free to submit yours! (1 month ago)
 - [seb86/revenuenotify-releases](https://github.com/seb86/revenuenotify-releases) - Host releases for Revenue Notify app (2 months ago)
 - [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (2 months ago)
-- [cocart-headless/.github](https://github.com/cocart-headless/.github) -  (3 months ago)
-- [co-cart/cocart-api-reference-docs](https://github.com/co-cart/cocart-api-reference-docs) - API Reference for CoCart, CoCart Pro and it&#39;s add-ons. (3 months ago)
+- [cocart-headless/.github](https://github.com/cocart-headless/.github) -  (4 months ago)
+- [co-cart/cocart-api-reference-docs](https://github.com/co-cart/cocart-api-reference-docs) - API Reference for CoCart, CoCart Pro and it&#39;s add-ons. (4 months ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (5 months ago)
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (6 months ago)
 
@@ -55,7 +55,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [Add RevenueNotify to the product list in README](https://github.com/danmindru/rare-big-deal/pull/648) on [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) (1 month ago)
 - [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/43) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 month ago)
 - [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/39) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (3 months ago)
-- [Refactored the plugin and added more capabilities ](https://github.com/cocart-headless/cocart-jwt-authentication/pull/38) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (3 months ago)
+- [Refactored the plugin and added more capabilities ](https://github.com/cocart-headless/cocart-jwt-authentication/pull/38) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (4 months ago)
 - [Refactor/v3.0.0](https://github.com/cocart-headless/cocart-jwt-authentication/pull/37) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (4 months ago)
 
 #### ⭐ Recent Stars
