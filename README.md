@@ -29,8 +29,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) - 🎁 App deals for Black Friday/Cyber Monday etc. Free to submit yours! (1 month ago)
 - [seb86/revenuenotify-releases](https://github.com/seb86/revenuenotify-releases) - Host releases for Revenue Notify app (2 months ago)
 - [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (2 months ago)
-- [cocart-headless/.github](https://github.com/cocart-headless/.github) -  (4 months ago)
 - [co-cart/cocart-api-reference-docs](https://github.com/co-cart/cocart-api-reference-docs) - API Reference for CoCart, CoCart Pro and it&#39;s add-ons. (4 months ago)
+- [cocart-headless/.github](https://github.com/cocart-headless/.github) -  (4 months ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (5 months ago)
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (6 months ago)
 
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (today)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
+- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 day ago)
 - [woocommerce/woocommerce-gateway-stripe](https://github.com/woocommerce/woocommerce-gateway-stripe) - The official Stripe Payment Gateway for WooCommerce (1 week ago)
 - [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) - Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code (1 week ago)
 - [dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas) - Give Claude Code an external monitor (1 week ago)
