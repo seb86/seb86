@@ -54,14 +54,14 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 - [Add RevenueNotify to the product list in README](https://github.com/danmindru/rare-big-deal/pull/648) on [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) (1 month ago)
 - [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/43) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 month ago)
-- [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/39) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (3 months ago)
+- [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/39) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (4 months ago)
 - [Refactored the plugin and added more capabilities ](https://github.com/cocart-headless/cocart-jwt-authentication/pull/38) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (4 months ago)
 - [Refactor/v3.0.0](https://github.com/cocart-headless/cocart-jwt-authentication/pull/37) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 day ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 days ago)
+- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (2 days ago)
 - [woocommerce/woocommerce-gateway-stripe](https://github.com/woocommerce/woocommerce-gateway-stripe) - The official Stripe Payment Gateway for WooCommerce (1 week ago)
 - [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) - Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code (1 week ago)
 - [dvdsgl/claude-canvas](https://github.com/dvdsgl/claude-canvas) - Give Claude Code an external monitor (1 week ago)
