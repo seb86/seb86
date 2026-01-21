@@ -25,6 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
+- [cocart-headless/cocart-example-package](https://github.com/cocart-headless/cocart-example-package) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin. (today)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 month ago)
 - [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) - 🎁 App deals for Black Friday/Cyber Monday etc. Free to submit yours! (1 month ago)
 - [seb86/revenuenotify-releases](https://github.com/seb86/revenuenotify-releases) - Host releases for Revenue Notify app (2 months ago)
@@ -32,7 +33,6 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [co-cart/cocart-api-reference-docs](https://github.com/co-cart/cocart-api-reference-docs) - API Reference for CoCart, CoCart Pro and it&#39;s add-ons. (4 months ago)
 - [cocart-headless/.github](https://github.com/cocart-headless/.github) -  (4 months ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (5 months ago)
-- [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) - Easily update to prerelease versions of CoCart for testing and development purposes. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -44,11 +44,11 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
+- [cocart-headless/cocart-example-package](https://github.com/cocart-headless/cocart-example-package) ([v1.0.5](https://github.com/cocart-headless/cocart-example-package/releases/tag/v1.0.5), today) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin.
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.8.2](https://github.com/co-cart/co-cart/releases/tag/v4.8.2), 1 day ago) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy.
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v3.0.1](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v3.0.1), 1 month ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 1 year ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
 - [cocart-headless/cocart-cors](https://github.com/cocart-headless/cocart-cors) ([v1.0.7](https://github.com/cocart-headless/cocart-cors/releases/tag/v1.0.7), 2 years ago) - Enables support for CORS to allow CoCart to work across multiple domains.
-- [cocart-headless/cocart-rate-limiting](https://github.com/cocart-headless/cocart-rate-limiting) ([v1.0.4](https://github.com/cocart-headless/cocart-rate-limiting/releases/tag/v1.0.4), 2 years ago) - Enables the rate limiting feature for CoCart Plus or higher.
 
 #### 🔨 Latest Pull Requests I have published
 
