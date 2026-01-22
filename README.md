@@ -25,6 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (today)
 - [cocart-headless/cocart-example-package](https://github.com/cocart-headless/cocart-example-package) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin. (1 day ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 month ago)
 - [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) - 🎁 App deals for Black Friday/Cyber Monday etc. Free to submit yours! (1 month ago)
@@ -32,7 +33,6 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 - [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (3 months ago)
 - [co-cart/cocart-api-reference-docs](https://github.com/co-cart/cocart-api-reference-docs) - API Reference for CoCart, CoCart Pro and it&#39;s add-ons. (4 months ago)
 - [cocart-headless/.github](https://github.com/cocart-headless/.github) -  (4 months ago)
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (5 months ago)
 
 #### 🌱 My latest projects
 
