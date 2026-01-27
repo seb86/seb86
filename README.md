@@ -44,7 +44,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔭 Latest releases I've contributed to
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.9.0-beta.2](https://github.com/co-cart/co-cart/releases/tag/v4.9.0-beta.2), today) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy.
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) ([v4.9.0-beta.3](https://github.com/co-cart/co-cart/releases/tag/v4.9.0-beta.3), today) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy.
 - [cocart-headless/cocart-example-package](https://github.com/cocart-headless/cocart-example-package) ([v1.0.5](https://github.com/cocart-headless/cocart-example-package/releases/tag/v1.0.5), 6 days ago) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin.
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) ([v3.0.1](https://github.com/cocart-headless/cocart-jwt-authentication/releases/tag/v3.0.1), 1 month ago) - This free add-on for CoCart allows you to authenticate via a simple JWT Token.
 - [cocart-headless/cocart-beta-tester](https://github.com/cocart-headless/cocart-beta-tester) ([v2.3.0](https://github.com/cocart-headless/cocart-beta-tester/releases/tag/v2.3.0), 2 years ago) - Easily update to prerelease versions of CoCart for testing and development purposes.
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size. (today)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (6 days ago)
 - [nauvalazhar/selia](https://github.com/nauvalazhar/selia) - Interfaces That Feel Right, Out of the Box (For React) (6 days ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 week ago)
-- [woocommerce/woocommerce-gateway-stripe](https://github.com/woocommerce/woocommerce-gateway-stripe) - The official Stripe Payment Gateway for WooCommerce (2 weeks ago)
