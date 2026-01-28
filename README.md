@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [resend/resend-skills](https://github.com/resend/resend-skills) - Agent Skills for working with Resend to send and receive emails. (today)
 - [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size. (1 day ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (1 week ago)
 - [nauvalazhar/selia](https://github.com/nauvalazhar/selia) - Interfaces That Feel Right, Out of the Box (For React) (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 week ago)
