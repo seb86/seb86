@@ -25,10 +25,10 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (today)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (1 day ago)
 - [cocart-headless/cocart-example-package](https://github.com/cocart-headless/cocart-example-package) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin. (1 week ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (1 month ago)
-- [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) - 🎁 App deals for Black Friday/Cyber Monday etc. Free to submit yours! (1 month ago)
+- [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) - 🎁 App deals for Black Friday/Cyber Monday etc. Free to submit yours! (2 months ago)
 - [seb86/revenuenotify-releases](https://github.com/seb86/revenuenotify-releases) - Host releases for Revenue Notify app (2 months ago)
 - [cocart-headless/cocart-api-documentation](https://github.com/cocart-headless/cocart-api-documentation) - Documentation for CoCart REST API (3 months ago)
 - [co-cart/cocart-api-reference-docs](https://github.com/co-cart/cocart-api-reference-docs) - API Reference for CoCart, CoCart Pro and it&#39;s add-ons. (4 months ago)
@@ -52,16 +52,16 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 🔨 Latest Pull Requests I have published
 
-- [Add RevenueNotify to the product list in README](https://github.com/danmindru/rare-big-deal/pull/648) on [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) (1 month ago)
-- [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/43) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (1 month ago)
+- [Add RevenueNotify to the product list in README](https://github.com/danmindru/rare-big-deal/pull/648) on [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) (2 months ago)
+- [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/43) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (2 months ago)
 - [Update translations from GlotPress](https://github.com/cocart-headless/cocart-jwt-authentication/pull/39) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (4 months ago)
 - [Refactored the plugin and added more capabilities ](https://github.com/cocart-headless/cocart-jwt-authentication/pull/38) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (4 months ago)
 - [Refactor/v3.0.0](https://github.com/cocart-headless/cocart-jwt-authentication/pull/37) on [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [resend/resend-skills](https://github.com/resend/resend-skills) - Agent Skills for working with Resend to send and receive emails. (1 day ago)
-- [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size. (2 days ago)
+- [resend/resend-skills](https://github.com/resend/resend-skills) - Agent Skills for working with Resend to send and receive emails. (2 days ago)
+- [codeforreal1/compressO](https://github.com/codeforreal1/compressO) - Convert any video into a tiny size. (3 days ago)
 - [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (1 week ago)
 - [nauvalazhar/selia](https://github.com/nauvalazhar/selia) - Interfaces That Feel Right, Out of the Box (For React) (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
