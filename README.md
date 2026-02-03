@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
+- [WordPress/two-factor](https://github.com/WordPress/two-factor) - Two-Factor Authentication for WordPress. (today)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (2 days ago)
 - [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - Hydrogen lets you build faster headless storefronts in less time, on Shopify. (2 days ago)
 - [michael-andreuzza/bearnie](https://github.com/michael-andreuzza/bearnie) - Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code. (2 days ago)
 - [hampter-mods/pscdisclauncher](https://github.com/hampter-mods/pscdisclauncher) - Adds support for playing real PlayStation discs with Project Eris on the PlayStation Classic with external USB disc drives. (4 days ago)
-- [resend/resend-skills](https://github.com/resend/resend-skills) - Agent Skills for working with Resend to send and receive emails. (6 days ago)
