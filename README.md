@@ -25,7 +25,7 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### 👷 Currently working on
 
-- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (5 days ago)
+- [co-cart/co-cart](https://github.com/co-cart/co-cart) - A developer-first REST API to decouple WooCommerce on the frontend. Fast, secure, customizable, easy. (6 days ago)
 - [cocart-headless/cocart-example-package](https://github.com/cocart-headless/cocart-example-package) - Example package for a CoCart feature plugin that can also be installed as a standalone WordPress plugin. (2 weeks ago)
 - [cocart-headless/cocart-jwt-authentication](https://github.com/cocart-headless/cocart-jwt-authentication) - This free add-on for CoCart allows you to authenticate via a simple JWT Token. (2 months ago)
 - [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) - 🎁 App deals for Black Friday/Cyber Monday etc. Free to submit yours! (2 months ago)
@@ -60,8 +60,8 @@ Skills: HTML, CSS, SCSS, PHP, JavaScript, jQuery, MySQL, SQL, WordPress, WooComm
 
 #### ⭐ Recent Stars
 
-- [TheOrcDev/warcraftcn-ui](https://github.com/TheOrcDev/warcraftcn-ui) - A collection of accessible, retro-inspired UI components drawing from classic real-time strategy aesthetics. Built for modern web/apps. Fully open source – copy, paste, customize. (today)
-- [WordPress/two-factor](https://github.com/WordPress/two-factor) - Two-Factor Authentication for WordPress. (6 days ago)
+- [TheOrcDev/warcraftcn-ui](https://github.com/TheOrcDev/warcraftcn-ui) - A collection of accessible, retro-inspired UI components drawing from classic real-time strategy aesthetics. Built for modern web/apps. Fully open source – copy, paste, customize. (1 day ago)
+- [WordPress/two-factor](https://github.com/WordPress/two-factor) - Two-Factor Authentication for WordPress. (1 week ago)
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop (1 week ago)
 - [Shopify/hydrogen](https://github.com/Shopify/hydrogen) - Hydrogen lets you build faster headless storefronts in less time, on Shopify. (1 week ago)
 - [michael-andreuzza/bearnie](https://github.com/michael-andreuzza/bearnie) - Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code. (1 week ago)
